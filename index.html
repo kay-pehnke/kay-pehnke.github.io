@@ -1,0 +1,26 @@
+---
+layout: start
+title: Willkommen
+description: "Kay Pehnke Seite mit Fotos und so weiter."
+tags: [kaypehnke]
+image:
+  feature: image-1.jpg
+  credit: Kay Pehnke
+  creditlink: http://www.kaypehnke.de
+
+---
+
+{% for post in site.posts limit:5 %}
+    {% if post.category == "blog" %}
+        
+    <div class="entry-wrapper">
+      <header class="entry-header">
+        <span class="entry-tags">{% for tag in post.tags %}<a href="{{ site.url }}/tags/#{{ tag | cgi_encode }}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}</span>
+          <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}">{% if post.headline %}{{ post.headline }}{% else %}{{ post.title }}{% endif %} <span class="link-arrow">&rarr;</span></a></h1>
+      </header>
+      <div class="entry-content">
+        {{ post.content }}
+      </div><!-- /.entry-content -->
+    </div>
+    {% endif %}
+{% endfor %}

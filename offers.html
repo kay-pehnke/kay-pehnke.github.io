@@ -1,0 +1,14 @@
+---
+layout: page
+permalink: /offers/
+title: Angebote
+description: "Mein Angebot an Euch."
+---
+
+<ul class="post-list">
+{% for post in site.posts %}
+    {% if post.category == "offer" %}
+        <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d.%m %Y" }}</time></span></a></article></li>
+    {% endif %}
+ {% endfor %}
+</ul>

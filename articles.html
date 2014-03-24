@@ -1,0 +1,14 @@
+---
+layout: page
+permalink: /articles/
+title: Artikel
+description: "Ein Archiv der Artikel dieser Seite."
+---
+
+<ul class="post-list">
+{% for post in site.posts %}
+    {% if post.category == "blog" %}
+        <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d.%m %Y" }}</time></span></a></article></li>
+    {% endif %}
+ {% endfor %}
+</ul>
