@@ -5,7 +5,7 @@ description: "Examples and code for displaying images in posts."
 category: offer
 tags: [kurs, foto]
 image:
-  feature: image-3.jpg
+  feature: image-1.jpg
   credit: Kay Pehnke
   creditlink: http://www.kaypehnke.de
 comments: false

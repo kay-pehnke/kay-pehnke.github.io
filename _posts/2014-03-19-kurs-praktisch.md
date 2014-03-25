@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kurs Einsteiger"
+title: "Kurs praktisches"
 description: "Examples and code for displaying images in posts."
 category: offer
 tags: [kurs, foto]
@@ -15,7 +15,7 @@ share: false
 Sie planen einen Kauf/Neukauf einer digitalen Kamera oder möchten sich etwas mehr Wissen aneignen?
 
 
-In diesen speziell für Anfänger/Einsteiger oder interessierten gerichteten Workshop werden sie mit dem Wissen verlassen wie ISO, Blende, Belichtungszeit und Belichtungskorrektur zusammenhängen und funktionieren. Wir werden die technischen Dinge die ihre Kamera von anderen unterscheidet individuell beleuchten und erklären. Die Halbautomatischen Programme P, S, A, TV und AV werden sie unterscheiden und nach ihren Ansprüchen gezielt einsetzen können. Zudem gehen wir auf unverzichtbares Zubehör ein.
+In diesen speziell für Anfänger/Einsteiger oder interessierten getest erklären. Die Halbautomatischen Programme P, S, A, TV und AV werden sie unterscheiden und nach ihren Ansprüchen gezielt einsetzen können. Zudem gehen wir auf unverzichtbares Zubehör ein.
 
 Es ist nicht so schwer wie sie denken!
 
