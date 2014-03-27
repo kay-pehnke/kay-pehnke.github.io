@@ -9,14 +9,14 @@ image:
   feature: kornfeld2.jpg
   credit: Kay Pehnke
   creditlink: http://www.kay-pehnke.de
-comments: true
+comments: false
 share: false
 ---
 Vielen Dank für den Besuch auf der Seite...
 Ich habe einen neue Kurse im Angebot.
 
-[Kurs für Einsteiger/Anfänger ]({% post_url 1. Workshop Anfänger %})
-[Kurs für Fortgeschrittende ]({% post_url 2. Workshop Fortgeschritten %})
+* Kurs für Einsteiger/Anfänger
+* Kurs für Fortgeschrittende
 
 
 Bis bald
