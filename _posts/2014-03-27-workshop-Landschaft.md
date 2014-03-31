@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Workshop: Praktisches Lernen"
+title: "Workshop: Langzeitbelichtung & Landschaft"
 description: "Examples and code for displaying images in posts."
 category: offer
 tags: [Workshop]
@@ -10,11 +10,8 @@ comments: false
 share: false
 ---
 
-Sie möchten lieber direkt ins "Feld" ziehen und die Theorie links liegen lassen, ihre Kamera in einem Praktischen Workshop besser kennenlernen?!
-
-In diesem Workshop werde ich Sie oder eine kleinere Gruppe über die Schulter schauen und ihre Fragen direkt und unkompliziert beantworten. An einem oder mehreren interessanten Orten in ihrer Gegend oder gar einer kleinen Wandertour können wir auf die unterschiedlichen Programme und manuelle Einstellungen ihrer Kamera eingehen.
-Ein weiterer Bestandteil könnte das Testen und kennenlernen einer Vielzahl von Objektiven und Zubehör in praktischer Verbindung mit der Landschafts,- Langzeit,- Porträt oder Makrofotografie sein. 
-Dabei gehen wir natürlich auf ihre persönlichen Vorlieben in diesen Bereichen ein.
+Hierbei handelt es sich um einen Kombinations Workshop zum Thema Langzeitbelichtung und Landschaftsfotografie.
+Wir werden in diesem Grundkurs das abzulichtende Bild bewusst gestallten, gehen auf die ideale Ausrüstung für Landschaft und Langzeitbelichtung ein, lernen Filter bewusst einzusetzen und beschäftigen uns mit Licht, GPS und „zur richtigen Zeit, am richtigen Ort“.
 
 *Bitte mitbringen:*
 
@@ -23,9 +20,9 @@ Dabei gehen wir natürlich auf ihre persönlichen Vorlieben in diesen Bereichen 
 * Zubehör wie Stativ, Objektive, Filter wenn vorhanden
 
 
-##*Dauer: 4-6h (je Vorwissen)*
-##*Preis: 30€ p.P.*
-##*Preis: 40€ p.P. (für Tour)*
+##*Dauer: 2-4h (je Vorwissen)*
+##*Preis: 20€ p.P.*
+##*Preis: 30€ p.P. (für Tour)*
 
 ## Beispiele
 
