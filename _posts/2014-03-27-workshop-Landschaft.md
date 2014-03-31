@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Workshop: Langzeitbelichtung & Landschaft"
+title: "Workshop: Langzeitbelichtung und Landschaft"
 description: "Examples and code for displaying images in posts."
 category: offer
 tags: [Workshop]
