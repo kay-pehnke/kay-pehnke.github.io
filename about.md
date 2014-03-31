@@ -2,32 +2,20 @@
 layout: page
 permalink: /about/
 title: Über...
-tags: [author]
+tags: [über]
 modified: 2014-03-19
 image:
-  feature: image-3.jpg
+  feature: korn.jpg
   credit: Kay Pehnke
   creditlink: http://www.kaypehnke.de
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).
+Beigebracht hat mir das Fotografieren mein Vater noch in Kindheitstagen (damals noch analog). Über die Jahre baute ich dieses Wissen in unterschiedlichen Bereichen stetig aus. 
+ 
+Auf die Idee eigene Workshops zu gestalten entstand vor ein paar Jahren. Zuerst durch Feedback von Kursteilnehmer selber besuchter Workshops, zum anderen störte mich die Langweilige/Komplexe und unverständliche Aufmachung. Das schlimmste waren aber die teilweise überzogenen Preise von gern einmal über 100€ p.P.!!!
 
-## So Simple Theme is all about:
+Anfänger/Einsteiger die sich mit dem Thema gerade auseinander setzen oder vielleicht  ihre erste Kamera in den Händen halten sollten nicht diese Preise zahlen, ihn sollte möglichst einfach der Spaß an diesem wunderschönen Hobby vermittelt werden.  
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations. 
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Disqus comments if you choose to enable.
-* Simple and clear permalink structure[^1].
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
-* Vanilla [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/articles/so-simple-theme/code-highlighting-post/) to make your code examples look snazzy.
-* Simple search that overlays results based on post title.
-* [Grunt build script]({{ site.url }}/theme-setup/index.html#theme-development) for easier theme development.
-* [Sitemap](https://github.com/mmistakes/so-simple-theme/blob/master/sitemap.xml) for search engines
+Ich bin mir sicher Ihnen dieses Wissen in der einfachsten Form vermitteln zu können... 
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+probieren sie es einfach einmal aus :)
