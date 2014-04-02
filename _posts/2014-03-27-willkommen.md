@@ -13,9 +13,20 @@ comments: false
 share: false
 ---
 
+Folgende Workshops befinden sich absofort in der Rubrik Angebote!
 
-* Kurs für Einsteiger/Anfänger
-* Kurs für Fortgeschrittende
+* Workshop: Einsteiger/Anfänger
+* Workshop: Fortgeschrittende
+* Workshop: Ab ins Feld
+* Workshop: Langzeitbelichtung und Landschaft
+* Erstelle deine eigenen Workshop
+
+-------------------------------------------------------------------------------------------------------------------
+
+VHS Reutte - Workshop für Einsteiger/Anfänger am 12.04.2014 
+
+VHS Füssen - Workshop für Einsteiger/Anfänger am 17.05.2014
+
 
 
 Mehr informationen folgen in kürze
