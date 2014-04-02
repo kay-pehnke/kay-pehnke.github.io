@@ -26,10 +26,3 @@ Dabei gehen wir natürlich auf ihre persönlichen Vorlieben in diesen Bereichen 
 ##*Dauer: 4-6h (je Vorwissen)*
 ##*Preis: 30€ p.P.*
 ##*Preis: 40€ p.P. (für Tour)*
-
-## Beispiele
-
-<figure>
-    <img src="{{ site.url }}/images/beispiel-1-hanna.jpg"/>
-	<figcaption>Tochter Hannah mit 3 Monaten</figcaption>
-</figure>

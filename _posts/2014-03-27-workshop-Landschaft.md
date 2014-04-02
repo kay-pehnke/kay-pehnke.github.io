@@ -23,10 +23,3 @@ Wir werden in diesem Grundkurs das abzulichtende Bild bewusst gestallten, gehen 
 ## *Dauer: 2-4h (je Vorwissen)*
 ## *Preis: 20€ p.P.*
 ## *Preis: 30€ p.P. (für Tour)*
-
-## Beispiele
-
-<figure>
-    <img src="{{ site.url }}/images/beispiel-1-hanna.jpg"/>
-	<figcaption>Tochter Hannah mit 3 Monaten</figcaption>
-</figure>

@@ -25,10 +25,3 @@ Es ist nicht so schwer wie sie denken!
 
 ##*Dauer: 3-5h (je Vorwissen)*
 ##*Preis: 25 Euro*
-
-## Beispiele
-
-<figure>
-    <img src="{{ site.url }}/images/beispiel-1-hanna.jpg"/>
-	<figcaption>Tochter Hannah mit 3 Monaten</figcaption>
-</figure>

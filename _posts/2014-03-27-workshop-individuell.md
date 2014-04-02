@@ -59,12 +59,3 @@ share: false
     
   
   
-
-
-
-## Beispiele
-
-<figure>
-    <img src="{{ site.url }}/images/beispiel-1-hanna.jpg"/>
-	<figcaption>Tochter Hannah mit 3 Monaten</figcaption>
-</figure>
