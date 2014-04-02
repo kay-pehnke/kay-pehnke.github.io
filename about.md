@@ -5,7 +5,7 @@ title: Über...
 tags: [über]
 modified: 2014-03-19
 image:
-  feature: korn.jpg
+  feature: ostsee2.jpg
   credit: Kay Pehnke
   creditlink: http://www.kaypehnke.de
 ---
