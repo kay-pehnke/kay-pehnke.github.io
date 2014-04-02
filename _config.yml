@@ -4,8 +4,8 @@ logo:
 disqus_shortname: 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-#url:              http://kay-pehnke.github.io
-url:
+url:              http://kay-pehnke.github.io
+#url:
 
 # Owner/author information
 owner:
