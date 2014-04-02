@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Erstellen sie Ihren eigenen Workshop..."
+title: "Erstellen sie Ihren eigenen Workshop!"
 description: "Examples and code for displaying images in posts."
 category: offer
 tags: [Workshop]
