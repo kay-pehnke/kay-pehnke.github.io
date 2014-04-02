@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Workshop für Fortgeschrittene"
+title: "Workshop: Fortgeschrittene"
 description: "Ein Kurs für fortgeschrittene Teilnehmer oder jene die zuvor einen Workshop Anfänger/Einsteiger besucht haben und mehr wissen wollen."
 category: offer
 tags: [Workshop]
 modified: 2014-03-16
 image:
-  feature: image-2.jpg
+  feature: korn2.jpg
 comments: true
 share: false
 ---

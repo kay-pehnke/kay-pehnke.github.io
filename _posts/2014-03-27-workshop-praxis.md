@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Workshop: Praktisches Lernen"
+title: "Workshop: Ab ins Feld"
 description: "Examples and code for displaying images in posts."
 category: offer
 tags: [Workshop]
 image:
-  feature: image-3.jpg
+  feature: image-2.jpg
 comments: false
 share: false
 ---

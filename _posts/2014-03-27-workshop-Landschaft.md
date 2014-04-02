@@ -5,7 +5,7 @@ description: "Examples and code for displaying images in posts."
 category: offer
 tags: [Workshop]
 image:
-  feature: image-3.jpg
+  feature: natur2.jpg
 comments: false
 share: false
 ---
@@ -20,9 +20,9 @@ Wir werden in diesem Grundkurs das abzulichtende Bild bewusst gestallten, gehen 
 * Zubehör wie Stativ, Objektive, Filter wenn vorhanden
 
 
-##*Dauer: 2-4h (je Vorwissen)*
-##*Preis: 20€ p.P.*
-##*Preis: 30€ p.P. (für Tour)*
+## *Dauer: 2-4h (je Vorwissen)*
+## *Preis: 20€ p.P.*
+## *Preis: 30€ p.P. (für Tour)*
 
 ## Beispiele
 

@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Erstellen sie Ihren eigenen Workshop!"
+title: "Erstellen sie Ihren eigenen Workshop..."
 description: "Examples and code for displaying images in posts."
 category: offer
 tags: [Workshop]
 image:
-  feature: image-3.jpg
+  feature: schloss2.jpg
 comments: false
 share: false
 ---
 
-##Erstellen sie sich doch einfach Ihren eigenen Workshop aus folgenden Themen:
+##...aus folgenden Themen:
 
 * Welche Kamera sollte ich mir zulegen?!
 * Objektive, wo liegen die Unterschiede, welches ist das richtige für mich?!

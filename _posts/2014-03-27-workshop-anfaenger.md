@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Workshop für Einsteiger/Anfänger"
+title: "Workshop: Einsteiger/Anfänger"
 description: "Examples and code for displaying images in posts."
 category: offer
 tags: [Workshop]
 image:
-  feature: image-1.jpg
+  feature: stifte2.jpg
 comments: false
 share: false
 ---
