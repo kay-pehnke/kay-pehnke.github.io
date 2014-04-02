@@ -13,13 +13,13 @@ comments: false
 share: false
 ---
 
-Folgende Workshops befinden sich absofort in der Rubrik Angebote!
+Folgende Workshops befinden sich derzeit in der Rubrik Angebote!
 
-* Workshop: Einsteiger/Anfänger
-* Workshop: Fortgeschrittende
-* Workshop: Ab ins Feld
-* Workshop: Langzeitbelichtung und Landschaft
-* Erstelle deine eigenen Workshop
+* [Workshop: Einsteiger/Anfänger]({% post_url 2014-03-20-workshop-anfaenger %})
+* [Workshop: Fortgeschrittende]({% post_url 2014-03-19-workshop-fortgeschritten %})
+* [Workshop: Ab ins Feld]({% post_url 2014-03-18-workshop-praxis %})
+* [Workshop: Langzeitbelichtung und Landschaft]({% post_url 2014-03-17-workshop-landschaft %})
+* [Erstelle deine eigenen Workshop]({% post_url 2014-03-16-workshop-individuell %})
 
 -------------------------------------------------------------------------------------------------------------------
 

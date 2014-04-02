@@ -47,14 +47,9 @@ share: false
 * Grundkurs Videofunktion ihrer DSLR
 
 ---
----
----
 
+## Dauer/Preis: nach Absprache
 
-##*Dauer/Preis: nach Absprache*
-
----
----
 ---
     
   

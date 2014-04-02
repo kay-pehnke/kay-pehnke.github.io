@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Workshop: Fortgeschrittene"
+title: "Fortgeschrittene"
 description: "Ein Kurs für fortgeschrittene Teilnehmer oder jene die zuvor einen Workshop Anfänger/Einsteiger besucht haben und mehr wissen wollen."
 category: offer
 tags: [Workshop]
@@ -26,5 +26,6 @@ Ausserdem werden wir unterschiedlichen Objektive theoretisch und Praktisch vergl
 * Objektive, Stativ oder anders Zubehör falls vorhanden
 
 
-##*Dauer: 3-5h (je Vorwissen)*
-##*Preis: 35 Euro*
+### *Dauer: 3-5h (je nach Vorwissen)*
+
+### *Preis: 35 Euro*

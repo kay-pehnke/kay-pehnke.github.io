@@ -1,7 +1,7 @@
 ---
-layout: start
+layout: page
 title: Willkommen
-description: "Kay Pehnke Seite mit Fotos und so weiter."
+description: "Kay Pehnke Seite."
 tags: [kaypehnke]
 image:
   feature: korn2.jpg
@@ -10,18 +10,10 @@ image:
 
 ---
 
-
-{% for post in site.posts limit:5 %}
+<ul class="post-list">
+{% for post in site.posts %}
     {% if post.category == "blog" %}
-        
-    <div class="entry-wrapper">
-      <header class="entry-header">
-        <span class="entry-tags">{% for tag in post.tags %}<a href="{{ site.url }}/tags/#{{ tag | cgi_encode }}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}</span>
-          <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}">{% if post.headline %}{{ post.headline }}{% else %}{{ post.title }}{% endif %} <span class="link-arrow">&rarr;</span></a></h1>
-      </header>
-      <div class="entry-content">
-        {{ post.content }}
-      </div><!-- /.entry-content -->
-    </div>
+        <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d.%m %Y" }}</time></span></a></article></li>
     {% endif %}
-{% endfor %}
+ {% endfor %}
+</ul>

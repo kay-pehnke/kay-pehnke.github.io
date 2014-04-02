@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Workshop: Ab ins Feld"
+title: "Ab ins Feld"
 description: "Examples and code for displaying images in posts."
 category: offer
 tags: [Workshop]
@@ -23,6 +23,8 @@ Dabei gehen wir natürlich auf ihre persönlichen Vorlieben in diesen Bereichen 
 * Zubehör wie Stativ, Objektive, Filter wenn vorhanden
 
 
-##*Dauer: 4-6h (je Vorwissen)*
-##*Preis: 30€ p.P.*
-##*Preis: 40€ p.P. (für Tour)*
+### *Dauer: 4-6h (je nach Vorwissen)*
+
+### *Preis: 30€ p.P.*
+
+### *Preis: 40€ p.P. (für eine Tour)*
