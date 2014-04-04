@@ -28,7 +28,7 @@ share: false
 
 ---
 
-* Wo liegen die Unterschiede der Programme P, S, A, TV, AV und M, * wie funktionieren sie?!
+* Wo liegen die Unterschiede der Programme P, S, A, TV, AV und M
 * Programmautomathik, wie funktioniert es?
 * Zeitautomathik, wie funktioniert es?
 * Verschlusszeit, wie funktioniert das?
