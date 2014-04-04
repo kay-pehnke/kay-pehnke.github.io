@@ -10,7 +10,7 @@ image:
   creditlink: http://www.kaypehnke.de
 ---
 
-Beigebracht hat mir das Fotografieren mein Vater und Bruder in Kindheitstagen (Analog). Über die Jahre baute ich dieses Wissen in unterschiedlichen Bereichen stetig aus. 
+Beigebracht hat mir das Fotografieren mein Vater und Bruder in Kindheitstagen (noch Analog). Über die Jahre baute ich dieses Wissen in unterschiedlichen Bereichen stetig aus. 
  
 Auf die Idee eigene Workshops zu gestalten entstand vor ein paar Jahren. Zuerst durch Feedback von Kursteilnehmer selber besuchter Workshops, zum anderen störte mich die Langweilige/Komplexe und unverständliche Aufmachung. Das schlimmste waren aber die teilweise überzogenen Preise von gern einmal über 100€ p.P.!!!
 
