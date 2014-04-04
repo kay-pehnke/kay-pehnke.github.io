@@ -23,8 +23,7 @@ Folgende Workshops befinden sich derzeit in der Rubrik Angebote!
 
 -------------------------------------------------------------------------------------------------------------------
 
-[VHS Reutte - Workshop für Einsteiger/Anfänger am 12.04.2014]
-(http://www.vhs-tirol.at/page.cfm?vpath=kurse&fachbereichId=0&kursnr=919&zid=244&tuwasid=2219 "Link: Workshop VHS Reutte")
+[VHS Reutte - Workshop für Einsteiger/Anfänger am 12.04.2014](http://www.vhs-tirol.at/page.cfm?vpath=kurse&fachbereichId=0&kursnr=919&zid=244&tuwasid=2219 "Link: Workshop VHS Reutte")
 
 [VHS Füssen - Workshop für Einsteiger/Anfänger am 17.05.2014](https://vhs-fuessen.de/Veranstaltung/cmx5178fb94b30fa.html "Link: Workshop VHS Füssen")
 
