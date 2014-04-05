@@ -35,8 +35,6 @@ bing_verify:
 links:
   - title: Über
     url: /about/
-  - title: Blog
-    url: /articles/
   - title: Angebote
     url: /offers/
 #  - title: Theme Setup
