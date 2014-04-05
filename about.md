@@ -7,15 +7,16 @@ modified: 2014-03-19
 image:
   feature: ostsee2.jpg
   credit: Kay Pehnke
-  creditlink: http://www.kaypehnke.de
+  creditlink: http://www.kay-pehnke.de
 ---
 
-Beigebracht hat mir das Fotografieren mein Vater noch zu Kindheitstagen (damals Analog). Über die Jahre baute ich dieses Wissen in unterschiedlichen Bereichen stetig aus. 
- 
-Auf die Idee eigene Workshops zu gestalten entstand vor ein paar Jahren. Zuerst durch Feedback von Kursteilnehmer selber besuchter Workshops, zum anderen störte mich die Langweilige/Komplexe und unverständliche Aufmachung. Das schlimmste waren aber die teilweise überzogenen Preise von gern einmal über 100€ p.P.!!!
+Meine Leidenschaft zum Fotografieren entstand schon in Kindheitstagen durch meinen Vater. Er brachte mir viel Wissen bei, das ich über die Jahre stetig ausbaute.
 
-Anfänger/Einsteiger die sich mit dem Thema gerade auseinander setzen oder vielleicht  ihre erste Kamera in den Händen halten sollten nicht diese Preise zahlen, ihn sollte möglichst einfach der Spaß an diesem wunderschönen Hobby vermittelt werden.  
+Die Idee, eigene Workshops zu gestalten, entstand vor ein paar Jahren. 
+Zum einen durch Feedback von Kursteilnehmern selbst besuchter Workshops, zum anderen störte mich die meist sehr langweilige und unverständliche Gestaltung der Kurse. 
+Das Schlimmste waren jedoch in meinen Augen die teilweise sehr überzogenen Preise von gern einmal über 100€pro Person!
 
-Ich bin mir sicher Ihnen dieses Wissen in der einfachsten Form vermitteln zu können... 
+Anfänger bzw. Einsteiger, die sich für das Thema Fotografie interessieren oder vielleicht auch schon ihre erste Kamera in den Händen halten, sollten sich nicht mit solchen Kosten auseinandersetzen müssen. Der Spass an diesem wunderschönen Hobby sollte dabei im Vordergrund stehen.
+Ich bin mir sicher, Ihnen dieses Wissen in der einfachsten Form vermitteln zu können…
 
-probieren sie es einfach einmal aus :)
+... probieren Sie es einfach einmal aus :)
