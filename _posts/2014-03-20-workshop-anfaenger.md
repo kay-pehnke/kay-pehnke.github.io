@@ -12,10 +12,11 @@ share: false
 
 Sie planen einen Kauf/Neukauf einer digitalen Kamera oder möchten sich etwas mehr Wissen aneignen?
 
+Dieser Workshop richtet sich speziell an interessierte Einsteiger/Anfänger, die die Grundlagen zum Thema Blende, ISO, Belichtungszeit und Belichtungskorrektur erlernen möchten. 
+Wir werden die technischen Dinge, die Ihre Kamera von anderen unterscheidet, individuell beleuchten und erklären. 
+Ausserdem erfahren Sie etwas über die Funktion der halbautomatischen Programme P, S, A, TV und AV, was sie Unterscheidet und wie Sie diese nach Ihren Ansprüchen gezielt einsetzen können. Zudem gehen wir auf unverzichtbares Zubehör ein.
 
-In diesen speziell für Anfänger/Einsteiger oder interessierten gerichteten Workshop werden sie mit dem Wissen verlassen wie ISO, Blende, Belichtungszeit und Belichtungskorrektur zusammenhängen und funktionieren. Wir werden die technischen Dinge die ihre Kamera von anderen unterscheidet individuell beleuchten und erklären. Die halbautomatischen Programme P, S, A, TV und AV werden sie unterscheiden und nach ihren Ansprüchen gezielt einsetzen können. Zudem gehen wir auf unverzichtbares Zubehör ein.
-
-Es ist nicht so schwer wie sie denken!
+Es ist nicht so schwer, wie Sie denken!
 
 *Bitte mitbringen:*
 
