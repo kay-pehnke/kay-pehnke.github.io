@@ -6,8 +6,8 @@ tags: [über]
 modified: 2014-03-19
 image:
   feature: ostsee2.jpg
-  credit: Kay Pehnke
-  creditlink: http://www.kay-pehnke.de
+comments: false
+share: false
 ---
 
 Meine Leidenschaft zum Fotografieren entstand schon in Kindheitstagen durch meinen Vater. Er brachte mir viel Wissen bei, das ich über die Jahre stetig ausbaute.
