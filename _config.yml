@@ -1,5 +1,5 @@
 title:            Kay Pehnke
-description:      Kunst im Bild.
+description:      probieren Sie es einfach einmal aus.
 logo:             
 disqus_shortname: 
 search:           true
@@ -35,8 +35,6 @@ bing_verify:
 links:
   - title: Über
     url: /about/
-  - title: Blog
-    url: /articles/
   - title: Angebote
     url: /offers/
 #  - title: Theme Setup
