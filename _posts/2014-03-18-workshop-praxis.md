@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: offer
 title: "Ab ins Feld"
 description: "Examples and code for displaying images in posts."
 category: offer

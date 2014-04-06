@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: offer
 title: "Fortgeschrittene"
 description: "Ein Kurs für fortgeschrittene Teilnehmer oder jene die zuvor einen Workshop Anfänger/Einsteiger besucht haben und mehr wissen wollen."
 category: offer

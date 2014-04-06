@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: offer
 title: "Erstellen Sie Ihren eigenen Workshop!"
 description: "Examples and code for displaying images in posts."
 category: offer

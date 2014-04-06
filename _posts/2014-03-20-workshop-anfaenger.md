@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: offer
 title: "Einsteiger"
 description: "Examples and code for displaying images in posts."
 category: offer

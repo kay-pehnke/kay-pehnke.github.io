@@ -12,6 +12,7 @@ owner:
   name:           Kay Pehnke
   avatar:         kay-avatar.jpg
   email:          kay.pehnke@googlemail.com
+  phone:          +49 160 96254377
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -67,4 +68,4 @@ kramdown:
     coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", ".idea"]
