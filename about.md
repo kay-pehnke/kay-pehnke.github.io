@@ -28,8 +28,8 @@ Gartenweg 5<br>
 87459 Pfronten <br> 
 </p>
 <p><strong>Kontakt:</strong> <br>
-Telefon: 00000000000 <br>
-E-Mail: <a href='mailto:kay.pehnke@googlemail.com'>kay.pehnke@googlemail.com</a></br></p>
+Telefon: +49 160 96254377 <br>
+E-Mail: <a href='mailto:kay.pehnke@gmx.net'>kay.pehnke@gmx.net</a></br></p>
 <p><strong>Haftungsausschluss: </strong>
 <br><br><strong>Haftung für Links</strong><br><br>
 Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.<br><br><strong>Urheberrecht</strong><br><br>
