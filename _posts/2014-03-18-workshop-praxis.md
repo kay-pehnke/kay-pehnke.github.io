@@ -10,11 +10,10 @@ comments: false
 share: false
 ---
 
-Sie möchten lieber direkt ins "Feld" ziehen und die Theorie links liegen lassen, ihre Kamera in einem Praktischen Workshop besser kennenlernen?!
+Sie möchten lieber direkt "ins Feld ziehen", die Theorie links liegen lassen und Ihre Kamera in einem praktischen Workshop besser kennenlernen?
 
-In diesem Workshop werde ich Sie oder eine kleinere Gruppe über die Schulter schauen und ihre Fragen direkt und unkompliziert beantworten. An einem oder mehreren interessanten Orten in ihrer Gegend oder gar einer kleinen Wandertour können wir auf die unterschiedlichen Programme und manuelle Einstellungen ihrer Kamera eingehen.
-Ein weiterer Bestandteil könnte das Testen und kennenlernen einer Vielzahl von Objektiven und Zubehör in praktischer Verbindung mit der Landschafts,- Langzeit,- Porträt oder Makrofotografie sein. 
-Dabei gehen wir natürlich auf ihre persönlichen Vorlieben in diesen Bereichen ein.
+In diesem Kurs werde ich Ihnen einzeln oder in einer kleinen Gruppe über die Schulter schauen und Ihre Fragen direkt und unkompliziert beantworten. An einem oder mehreren interessanten Orten in Ihrer Gegend oder gar auf einer kleinen Wandertour können wir auf die unterschiedlichen Programme und manuellen Einstellungen Ihrer Kamera eingehen. 
+Ein weiterer Bestandteil könnte das Testen und Kennenlernen verschiedener Objektive und Zubehör in praktischer Verbindung mit der Landschafts-, Langzeit-, Porträt- oder Makrofotografie sein. Dabei gehen wir natürlich weitgehend auf Ihre persönlichen Vorlieben in diesen Bereichen ein.
 
 *Bitte mitbringen:*
 
@@ -25,6 +24,6 @@ Dabei gehen wir natürlich auf ihre persönlichen Vorlieben in diesen Bereichen 
 
 ### *Dauer: 4-6h (je nach Vorwissen)*
 
-### *Preis: 30€ p.P.*
+### *Preis: 30€*
 
-### *Preis: 40€ p.P. (für eine Tour)*
+### *Preis: 40€ (für eine Tour)*

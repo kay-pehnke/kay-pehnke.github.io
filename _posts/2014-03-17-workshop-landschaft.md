@@ -22,6 +22,6 @@ Wir werden in diesem Grundkurs das abzulichtende Bild bewusst gestallten, gehen 
 
 ## *Dauer: 2-4h (je Vorwissen)*
 
-## *Preis: 20€ p.P.*
+## *Preis: 20€*
 
-## *Preis: 30€ p.P. (für Tour)*
+## *Preis: 30€ (für Tour)*

@@ -13,7 +13,7 @@ share: false
 ##...aus folgenden Themen:
 
 * Welche Kamera sollte ich mir zulegen?!
-* Objektive, wo liegen die Unterschiede, welches ist das richtige für mich?!
+* Objektive: Wo liegen die Unterschiede, welches ist das richtige für mich?!
 
 ---
 
@@ -24,21 +24,21 @@ share: false
 * Das Histogramm
 * Der Cropfaktor
 * RAW, JPG und der Weißabgleich
-* Weißabgleich, wann und wie nutze ich es?!
+* Weißabgleich, wann und wie nutze ich ihn?!
 
 ---
 
-* Wo liegen die Unterschiede der Programme P, S, A, TV, AV und M
-* Programmautomathik, wie funktioniert es?
-* Zeitautomathik, wie funktioniert es?
+* Wo liegen die Unterschiede der Programme P, S, A, TV, AV und M?
+* Programmautomatik, wie funktioniert es?
+* Zeitautomatik, wie funktioniert es?
 * Verschlusszeit, wie funktioniert das?
-* Blendenautomathik, wie funktioniert es?
-* Hinten unscharf, vorne scharf, wie geht das?!
+* Blendenautomatik, wie funktioniert es?
+* Hintergrund unscharf, Vordergrund scharf - wie geht das?!
 
 ---
 
-* Nützliches Zubehör, was vieles vereinfacht. 
-* ND, UV, CPL usw...Filter! Warum und wieso?!
+* Nützliches Zubehör, was Vieles vereinfacht. 
+* ND, UV, CPL ... Filter: Warum und wieso?!
 
 ---
 
@@ -48,7 +48,7 @@ share: false
 
 ---
 
-## Dauer/Preis: nach Absprache
+## *Dauer/Preis: je Umfang*
 
 ---
     

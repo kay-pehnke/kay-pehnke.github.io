@@ -26,4 +26,4 @@ Es ist nicht so schwer, wie Sie denken!
 
 ### *Dauer: 3-5h (je nach Vorwissen)*
 
-### *Preis: 25 Euro*
+### *Preis: 25€*
