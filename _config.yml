@@ -26,8 +26,9 @@ owner:
   google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-49949383-1
-google_verify:      LGfRF9xTRCXtyhYYdmFOAH5qTgk8pBfSQozYMt0an8M
+google_analytics:       UA-49949383-1
+google_analytics_site:  kay-pehnke.de
+google_verify:          LGfRF9xTRCXtyhYYdmFOAH5qTgk8pBfSQozYMt0an8M
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
