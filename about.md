@@ -25,7 +25,7 @@ Ich bin mir sicher, Ihnen dieses Wissen in der einfachsten Form vermitteln zu k�
 <div class='impressum'><h1>Impressum</h1><p>Angaben gemäß § 5 TMG</p>
 <p>Kay Pehnke<br> 
 Gartenweg 5<br> 
-87459 Pfronten im Allgäu<br> 
+87459 Pfronten <br> 
 </p>
 <p><strong>Kontakt:</strong> <br>
 Telefon: +49 160 96254377 <br>
