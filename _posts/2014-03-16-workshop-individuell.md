@@ -45,7 +45,7 @@ share: false
 * Grundkurs Langzeitbelichtung
 * Grundkurs Landschaftsaufnahmen
 * Grundkurs Videofunktion ihrer DSLR
-* Indirektes Blitzen, wie geht das?
+* Gurndkurs Entfesselt Blitzen
 
 ---
 
