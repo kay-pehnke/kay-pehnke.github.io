@@ -10,7 +10,8 @@ comments: false
 share: false
 ---
 
-Hierbei handelt es sich um einen Kombinations Workshop zum Thema Langzeitbelichtung und Landschaftsfotografie.
+Landschaftsfotografien gehören neben der Porträt-Fotografie zu den beliebtesten Fotomotiven überhaupt. Bei diesem Workshop
+handelt es sich um einen Kombination zum Thema Langzeitbelichtung und Landschaftsfotografie.
 Wir werden in diesem Grundkurs das abzulichtende Bild bewusst gestallten, gehen auf die ideale Ausrüstung für Landschaft und Langzeitbelichtung ein, lernen Filter bewusst einzusetzen und beschäftigen uns mit Licht, GPS und „zur richtigen Zeit, am richtigen Ort“.
 
 *Bitte mitbringen:*
