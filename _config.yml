@@ -1,7 +1,7 @@
 title:            Kay Pehnke
 description:      probieren Sie es einfach einmal aus.
 logo:             
-disqus_shortname: 
+disqus_shortname: kaypehnke
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
 url:              http://www.kay-pehnke.de
@@ -37,8 +37,12 @@ bing_verify:
 links:
   - title: Über
     url: /about/
-  - title: Angebote
-    url: /offers/
+  - title: Blog
+    url: /articles/
+  - title: Einzelworkshop
+    url: /offers-single
+  - title: Gruppenworkshop
+    url: /offers-group
 #  - title: Theme Setup
 #    url: /theme-setup/
 #  - title: Made Mistakes

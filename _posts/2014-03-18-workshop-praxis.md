@@ -2,12 +2,13 @@
 layout: offer
 title: "Ab ins Feld"
 description: "Examples and code for displaying images in posts."
-category: offer
+category: einzelworkshop
 tags: [Workshop]
 image:
   feature: image-2.jpg
 comments: false
 share: false
+published: true
 ---
 
 Sie möchten lieber direkt "ins Feld ziehen", die Theorie links liegen lassen und Ihre Kamera in einem praktischen Workshop besser kennenlernen?

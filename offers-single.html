@@ -1,0 +1,19 @@
+---
+layout: page
+permalink: /offers-single/
+title: Einzelworkshops
+description: "Angebote für Einzelworkshops."
+image:
+    feature: wurze2.jpg
+comments: false
+share: false
+published: true
+---
+
+<ul class="post-list">
+{% for post in site.posts %}
+    {% if post.category == "einzelworkshop" %}
+        <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date">{{ post.tags}}</span></a></article></li>
+    {% endif %}
+ {% endfor %}
+</ul>    

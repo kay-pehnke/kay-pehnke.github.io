@@ -2,13 +2,14 @@
 layout: offer
 title: "Fortgeschrittene"
 description: "Ein Kurs für fortgeschrittene Teilnehmer oder jene die zuvor einen Workshop Anfänger/Einsteiger besucht haben und mehr wissen wollen."
-category: offer
+category: einzelworkshop
 tags: [Workshop]
 modified: 2014-03-16
 image:
   feature: korn2.jpg
 comments: false
 share: false
+published: true
 ---
 
 Richtet sich an fortgeschrittene Teilnehmer oder jene die zuvor einen Workshop Anfänger/Einsteiger besuchten. 

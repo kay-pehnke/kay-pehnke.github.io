@@ -2,12 +2,13 @@
 layout: offer
 title: "Einsteiger"
 description: "Examples and code for displaying images in posts."
-category: offer
+category: einzelworkshop
 tags: [Workshop]
 image:
   feature: stifte2.jpg
-comments: false
+comments: true
 share: false
+published: true
 ---
 
 Sie planen einen Kauf/Neukauf einer digitalen Kamera oder möchten sich etwas mehr Wissen aneignen?

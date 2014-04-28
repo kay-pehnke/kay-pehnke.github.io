@@ -2,12 +2,13 @@
 layout: offer
 title: "Erstellen Sie Ihren eigenen Workshop!"
 description: "Examples and code for displaying images in posts."
-category: offer
+category: einzelworkshop
 tags: [Workshop]
 image:
   feature: schloss2.jpg
 comments: false
 share: false
+published: true
 ---
 
 ##...aus folgenden Themen:

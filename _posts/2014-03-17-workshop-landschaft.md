@@ -2,12 +2,13 @@
 layout: offer
 title: "Langzeitbelichtung und Landschaft"
 description: "Examples and code for displaying images in posts."
-category: offer
+category: einzelworkshop
 tags: [Workshop]
 image:
   feature: natur2.jpg
 comments: false
 share: false
+published: true
 ---
 
 Landschaftsfotografien gehören neben der Porträt-Fotografie zu den beliebtesten Fotomotiven überhaupt. Bei diesem Workshop
