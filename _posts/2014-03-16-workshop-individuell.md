@@ -46,7 +46,7 @@ published: true
 * Grundkurs Langzeitbelichtung
 * Grundkurs Landschaftsaufnahmen
 * Grundkurs Videofunktion ihrer DSLR
-* Gurndkurs Entfesselt Blitzen
+* Grundkurs Entfesselt Blitzen
 
 ---
 
