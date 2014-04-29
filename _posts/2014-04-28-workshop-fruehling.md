@@ -1,6 +1,6 @@
 ---
 layout: offer
-title: "Tierischer Fotoworkshop mit Kay :)"
+title: "Mein tierischer Fotoworkshop"
 description: "Tierischer Fotoworkshop"
 category: blog
 tags: []
