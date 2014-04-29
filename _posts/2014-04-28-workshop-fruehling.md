@@ -43,4 +43,14 @@ Vielen vielen Dank lieber Kay für die absolut verständlichen Erklärungen, gut
 Stephie
 
 
+test:
+
+<figure class="third">
+	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg"></a>
+	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg"></a>
+	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg"></a>
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
+
+
 
