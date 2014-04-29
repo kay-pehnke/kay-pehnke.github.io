@@ -1,14 +1,14 @@
 ---
 layout: offer
-title: "Neue Workshops im Frühling"
-description: "Neue Workshops im Frühling und Sommer 2014."
+title: "Tierischer Fotoworkshop mit Kay :)"
+description: "Tierischer Fotoworkshop mit Kay :)"
 category: blog
 tags: []
 image:
   feature: korn2.jpg
 comments: true
 share: false
-published: true
+published: false
 ---
 
 Neue Workshops im Frühling und Sommer 2014 sind unterwegs.
