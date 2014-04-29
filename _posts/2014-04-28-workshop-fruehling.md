@@ -8,7 +8,7 @@ image:
   feature: ziege.jpg
 comments: true
 share: false
-published: true
+published: false
 ---
 
 Neue Workshops im Frühling und Sommer 2014 sind unterwegs.
