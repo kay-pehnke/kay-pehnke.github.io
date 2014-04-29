@@ -8,7 +8,7 @@ image:
   feature: ziege.jpg
 comments: true
 share: false
-published: true
+published: false
 ---
 
 ### Mein tierischer Fotoworkshop mit Kay :)
