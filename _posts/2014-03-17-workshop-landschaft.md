@@ -6,7 +6,7 @@ category: einzelworkshop
 tags: [Workshop]
 image:
   feature: natur2.jpg
-comments: false
+comments: true
 share: false
 published: true
 ---

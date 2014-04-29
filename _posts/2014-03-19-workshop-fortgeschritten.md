@@ -7,7 +7,7 @@ tags: [Workshop]
 modified: 2014-03-16
 image:
   feature: korn2.jpg
-comments: false
+comments: true
 share: false
 published: true
 ---

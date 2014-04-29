@@ -6,7 +6,7 @@ category: einzelworkshop
 tags: [Workshop]
 image:
   feature: image-2.jpg
-comments: false
+comments: true
 share: false
 published: true
 ---
