@@ -40,7 +40,7 @@ Nachdem wir unseren Kurs durch den Park fortgesetzt hatten und ich mich fotograf
 
 Vielen vielen Dank lieber Kay für die absolut verständlichen Erklärungen, guten Tipps und vor allem deine Engelsgeduld mit deiner Schülerin!!! Man sieht mich seitdem kaum mehr einen Tag ohne meine geliebte Kamera vor der Nase :)
 
-Stephanie
+Stephie
 
 
 
