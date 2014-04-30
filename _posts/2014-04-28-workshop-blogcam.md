@@ -1,7 +1,7 @@
 ---
 layout: offer
 title: "?!?!?! Was soll hier nur stehen ?!?!?!"
-description: "Tierischer Fotoworkshop"
+description: "Mein tierischer Fotoworkshop"
 category: blog
 tags: []
 image:
@@ -11,7 +11,6 @@ share: false
 published: false
 ---
 
-### Mein tierischer Fotoworkshop mit Kay :)
 
 Als ich vor kurzem beschlossen habe, meiner Leidenschaft für das Fotografieren endlich wieder nachzugehen, fand ich zufällig Kays Workshopangebot online. 
 Ich nahm Kontakt auf und wurde gleich mal mit falschem Namen angesprochen... (lieber Kay, das üben wir noch :) 
@@ -46,7 +45,7 @@ Stephie
 test:
 
 <figure class="third">
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg"></a>
+	<a href="http://placehold.it/ziege1200.jpg"><img src="http://placehold.it/ziege600"></a>
 	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg"></a>
 	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg"></a>
 	<figcaption>Caption describing these three images.</figcaption>
