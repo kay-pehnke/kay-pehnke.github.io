@@ -75,7 +75,8 @@ Schnappt euch eure Wunschkamera und fotografiert, fotografiert, fotografiert... 
 
 Und nicht vergessen... jede Kamera, egal wie teuer sie sein mag kann Bilder machen! Wichtig ist, dass ihr die Grundkenntnisse wie ISO, Blende und Verschlusszeit versteht und umsetzen könnt!
 
-Wenn ihr Interesse an einem Fotoworkshop für sich, Freunde oder eine Gruppe haben schauen sie sich in dieser Rubrik einmal um :)
+
+Wenn ihr Interesse an einem Fotoworkshop für euch, eure Freunde oder in einer Gruppe habt, schaut euch in dieser [Rubrik](www.kay-pehnke.de/offers-single/) einmal um :)
 
 
 
