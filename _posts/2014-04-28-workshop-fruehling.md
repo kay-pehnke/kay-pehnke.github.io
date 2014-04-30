@@ -5,7 +5,7 @@ description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: []
 image:
-  feature: cam.jpg
+  feature: cam2.jpg
 comments: true
 share: false
 published: true
@@ -41,7 +41,7 @@ Das Wichtigste ist aber, dass ihr mit diesem Objektiv wirklich Freude und eine M
 Der Preis für ein solches 50mm Objektiv beläuft sich auf ca. 90-150Euro (je nach Hersteller).
 <figure>
 <img src="/images/Amazon.png"/>
-<figcaption>Mr. Peacock</figcaption>
+<figcaption></figcaption>
 </figure>
 
 ###<u>Vergleichen:</u>
