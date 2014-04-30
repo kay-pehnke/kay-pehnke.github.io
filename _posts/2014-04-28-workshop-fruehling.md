@@ -36,7 +36,7 @@ Wenn ihr schon eine bestimmte Richtung im Auge habt (z.B. Landschaftsfotografie,
 Der Unterschied zwischen einem sogenannten Kit und dem Body ist, dass ein Kit bereits ein Objektiv (meist 18-55mm f/3.5-5-6) enthält. Der restliche Inhalt ist der gleiche und besteht in der Regel aus Ladegerät, Akku und Tragegurt. Die Ersparnis bei Kauf eines Bodys liegt je Hersteller bei ca. 40-80Euro.
 
 ###<u>Mein Tipp:</u>
-</u>Ich persönlich würde zum Kauf eines Bodys mit einem 50mm Objektiv raten. Ein solches Objektiv ist unter anderem für Porträts gut geeignet und entspricht ungefähr dem Sichtfeld eines Menschen. Darüber hinaus haben solche lichtstarken Objektive den Vorteil, auch bei wenig Licht hervorragende Fotos zu liefern und bringen außerdem einen sehr schönen weichen Hintergrund (Bokeh genannt). 
+Ich persönlich würde zum Kauf eines Bodys mit einem 50mm Objektiv raten. Ein solches Objektiv ist unter anderem für Porträts gut geeignet und entspricht ungefähr dem Sichtfeld eines Menschen. Darüber hinaus haben solche lichtstarken Objektive den Vorteil, auch bei wenig Licht hervorragende Fotos zu liefern und bringen außerdem einen sehr schönen weichen Hintergrund (Bokeh genannt). 
 Das Wichtigste ist aber, dass ihr mit diesem Objektiv wirklich Freude und eine Menge Spass haben werdet. Enttäuschung ausgeschlossen… versprochen!
 Der Preis für ein solches 50mm Objektiv beläuft sich auf ca. 90-150Euro (je nach Hersteller).
 <figure>
