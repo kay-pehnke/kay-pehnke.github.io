@@ -1,6 +1,6 @@
 ---
 layout: offer
-title: "?!?!?! Was soll hier nur stehen ?!?!?!"
+title: "Stephies Workshop"
 description: "Mein tierischer Fotoworkshop"
 category: blog
 tags: []
@@ -8,7 +8,7 @@ image:
   feature: ziege.jpg
 comments: true
 share: false
-published: false
+published: true
 ---
 
 
@@ -23,7 +23,7 @@ Am Ententeich wurden mir verschiedene Möglichkeiten der einzelnen Kameraprogram
 
 <figure class="half">
 	<img src="/images/ente.jpg">
-	<img src="/images/ziege2.jpg">
+	<img src="/images/hase.jpg">
 	<figcaption>splish splash</figcaption>
 </figure>
 
@@ -41,15 +41,8 @@ Vielen vielen Dank lieber Kay für die absolut verständlichen Erklärungen, gut
 
 Stephie
 
+---------------
 
-test:
-
-<figure class="third">
-	<a href="http://placehold.it/pfau.jpg"><img src="http://placehold.it/pfau600"></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg"></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg"></a>
-	<figcaption>Caption describing these three images.</figcaption>
-</figure>
-
+Hast du auch an einem meiner Kurse Teilgenommen und möchtest auch einen Artikel verfassen, dann melde dich doch einfach bei mir.
 
 

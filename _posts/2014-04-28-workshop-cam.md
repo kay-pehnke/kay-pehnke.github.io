@@ -41,7 +41,7 @@ Das Wichtigste ist aber, dass ihr mit diesem Objektiv wirklich Freude und eine M
 Der Preis für ein solches 50mm Objektiv beläuft sich auf ca. 90-150Euro (je nach Hersteller).
 <figure>
 <img src="/images/Amazon.png"/>
-<figcaption></figcaption>
+<figcaption>Vergesst nicht den Hersteller für euer Objektiv mit einzugeben</figcaption>
 </figure>
 
 ###<u>Vergleichen:</u>
