@@ -8,7 +8,7 @@ image:
   feature: cam.jpg
 comments: true
 share: false
-published: false
+published: true
 ---
 
 In letzter Zeit habe ich einige Mails bekommen mit der Frage: 
