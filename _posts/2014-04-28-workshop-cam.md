@@ -8,7 +8,7 @@ image:
   feature: cam.jpg
 comments: true
 share: false
-published: true
+published: false
 ---
 
 In letzter Zeit habe ich einige Mails bekommen mit der Frage: 
@@ -39,7 +39,6 @@ Der Unterschied zwischen einem sogenannten Kit und dem Body ist, dass ein Kit be
 Ich persönlich würde zum Kauf eines Bodys mit einem 50mm Objektiv raten. Ein solches Objektiv ist unter anderem für Porträts gut geeignet und entspricht ungefähr dem Sichtfeld eines Menschen. Darüber hinaus haben solche lichtstarken Objektive den Vorteil, auch bei wenig Licht hervorragende Fotos zu liefern und bringen außerdem einen sehr schönen weichen Hintergrund (Bokeh genannt). 
 Das Wichtigste ist aber, dass ihr mit diesem Objektiv wirklich Freude und eine Menge Spass haben werdet. Enttäuschung ausgeschlossen… versprochen!
 Der Preis für ein solches 50mm Objektiv beläuft sich auf ca. 90-150Euro (je nach Hersteller).
-
 <figure>
 <img src="/images/Amazon.png"/>
 <figcaption>Vergesst nicht den Hersteller für euer Objektiv mit einzugeben</figcaption>
@@ -64,11 +63,6 @@ Eine weitere Möglichkeit ist, in den Elektromarkt eures Vertrauens zu gehen und
 ###<u>Die Speicherkarte:</u>
 Apropos Speicherkarte... die fehlt euch natürlich auch noch! Hier gibt es selbstverständlich auch wieder einen riesigen Markt mit unzähligen Angeboten. 
 Schaut dass ihr auf alle Fälle eine Speicherkarte der Klasse 10 bekommt (wie im Bild zu sehen). Sie sollte um die 30-45MB/sek schreiben können. Ich empfehle da ganz gern die 16GB SanDisk mit 45MB/sek für ca.15€ (z.b. bei Amazon), die sollte für den Anfang vollkommend reichen.
-
-<figure>
-<img src="/images/sd.jpg"/>
-<figcaption>Vergesst nicht den Hersteller für euer Objektiv mit einzugeben</figcaption>
-</figure>
 
 ###<u>Darf es ein Schutzfilter sein?</u>
 Die meisten Fotografen schützen zudem ihre Objektive gern mit sogenannten Schutzfiltern. Meist werden UV-oder Protectionfilter verwendet. Ich würde euch auch dazu raten... zumindest anfangs.
