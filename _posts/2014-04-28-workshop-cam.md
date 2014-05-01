@@ -67,7 +67,7 @@ Schaut dass ihr auf alle Fälle eine Speicherkarte der Klasse 10 bekommt (wie im
 
 <figure>
 <img src="/images/sd.jpg"/>
-<figcaption>Vergesst nicht den Hersteller für euer Objektiv mit einzugeben</figcaption>
+<figcaption></figcaption>
 </figure>
 
 ###<u>Darf es ein Schutzfilter sein?</u>
