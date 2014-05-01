@@ -18,6 +18,11 @@ Nachdem ich aber sehr sympathisch und absolut hilfsbereit beraten wurde, was die
 Etwas Entscheidendes fehlte mir nämlich noch, bevor es losgehen konnte... eine ordentliche Kamera!!
 Das Paket mit der Kamera liess dann leider etwas auf sich warten, kam aber gerade noch rechtzeitig zum vereinbarten Workshoptermin.
 
+<figure>
+<img src="/images/ziege2"/>
+<figcaption>Mein Motiv des Tages :)</figcaption>
+</figure>
+
 Das Wetter meinte es gut mit uns und so haben wir unseren Kurs spontan nach draussen in einen Wildfreizeitpark verlegt... Tiere sind ja wunderbare Übungsmotive. 
 Am Ententeich wurden mir verschiedene Möglichkeiten der einzelnen Kameraprogramme erklärt, z.B. wie man schnelle Bewegungen am besten einfängt. Ich war (und bin immer noch) fasziniert davon, wie deutlich man die winzigsten Wassertropfen auf den Federn der Enten auf einem Foto festhalten kann. 
 
