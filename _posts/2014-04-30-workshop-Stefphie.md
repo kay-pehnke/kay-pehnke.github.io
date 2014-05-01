@@ -19,7 +19,7 @@ Etwas Entscheidendes fehlte mir nämlich noch, bevor es losgehen konnte... eine 
 Das Paket mit der Kamera liess dann leider etwas auf sich warten, kam aber gerade noch rechtzeitig zum vereinbarten Workshoptermin.
 
 <figure>
-<img src="/images/ziege2"/>
+<img src="/images/ziege2.jpg"/>
 <figcaption>Mein Motiv des Tages :)</figcaption>
 </figure>
 
