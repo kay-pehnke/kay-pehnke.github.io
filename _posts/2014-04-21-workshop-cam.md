@@ -5,7 +5,7 @@ description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Welche Kamera ist die richtige für mich]
 image:
-  feature: cam2.jpg
+  feature: cam.jpg
 comments: true
 share: false
 published: true
