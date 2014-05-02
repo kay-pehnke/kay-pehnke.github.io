@@ -3,7 +3,7 @@ layout: offer
 title: "Tipp: Einstieg Fotografie"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
-tags: [Welche Kamera ist die richtige für mich?]
+tags: [Welche Kamera ist die richtige für mich]
 image:
   feature: cam2.jpg
 comments: true
