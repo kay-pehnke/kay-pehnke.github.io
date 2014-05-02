@@ -47,10 +47,10 @@ Der Preis für ein solches 50mm Objektiv beläuft sich auf ca. 90-150Euro (je na
 </figure>
 
 ###<u>Vergleichen:</u>
-Wenn ihr nun wisst, was ihr wollt, habt ihr die Möglichkeit, Preise zu vergleichen. Nutzt dazu eine Preisvergleichseite wie  z.B. www.geizhals.de (at) und die Preise eures Elektronikmarktes. Schaut euch zudem Bewertungen für eure Kameras und Rezensionen bei www.amazon.de an. Sie können sehr hilfreich bei einer Entscheidung sein.
+Wenn ihr nun wisst, was ihr wollt, habt ihr die Möglichkeit, Preise zu vergleichen. Nutzt dazu eine Preisvergleichseite wie  z.B. <http://www.geizhals.de> (at) und die Preise eures Elektronikmarktes. Schaut euch zudem Bewertungen für eure Kameras und Rezensionen bei www.amazon.de an. Sie können sehr hilfreich bei einer Entscheidung sein.
 
 ###<u>Der Gebrauchtmarkt:</u>
-Ein Tipp vor dem Kauf wäre ausserdem, sich einmal den Gebrauchtmarkt anzuschauen. Mit etwas Glück könnt ihr hier eine Menge Geld sparen! Empfehlenswert ist hier www.ebay-kleinanzeigen.de.
+Ein Tipp vor dem Kauf wäre ausserdem, sich einmal den Gebrauchtmarkt anzuschauen. Mit etwas Glück könnt ihr hier eine Menge Geld sparen! Empfehlenswert ist hier <http://www.ebay-kleinanzeigen.de>.
 Das ganze birgt aber ein paar Risiken, ich spreche hier aus eigener Erfahrung...
 Beachtet deshalb möglichst Folgendes:
 Möglichst die Kamera vor einem Kauf in Augenschein nehmen. Legt Wert darauf, euch den Sensor und das Objektiv ansehen zu dürfen. Sind sie sauber und frei von Kratzern?!
@@ -83,6 +83,6 @@ Schnappt euch eure Wunschkamera und fotografiert, fotografiert, fotografiert... 
 Und nicht vergessen... jede Kamera, egal wie teuer sie sein mag kann Bilder machen! Wichtig ist, dass ihr die Grundkenntnisse wie ISO, Blende und Verschlusszeit versteht und umsetzen könnt!
 
 
-Wenn ihr Interesse an einem Fotoworkshop für euch, eure Freunde oder in einer Gruppe habt, schaut euch in dieser [Rubrik](offers-single) einmal um :)   
+Wenn ihr Interesse an einem Fotoworkshop für euch, eure Freunde oder in einer Gruppe habt, schaut euch in den Workshops einmal um :)   
 
 Bei weiteren Fragen meldet euch einfach bei mir, ich stehe gern zu Verfügung! 
