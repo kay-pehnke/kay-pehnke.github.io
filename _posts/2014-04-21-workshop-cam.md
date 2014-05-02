@@ -1,6 +1,6 @@
 ---
 layout: offer
-title: "Tipp: Einstieg Fotografie"
+title: "Tipp: Einstieg in die Fotografie"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Welche Kamera ist die richtige für mich]
