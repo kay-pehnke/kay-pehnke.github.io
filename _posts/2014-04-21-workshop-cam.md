@@ -10,14 +10,12 @@ comments: true
 share: false
 published: true
 ---
- 
- *In letzter Zeit habe ich einige Mails bekommen mit der 
+*In letzter Zeit habe ich einige Mails bekommen mit der 
 Frage: 
 Welche ist die richtige Kamera für mich als Anfänger/Einsteiger? 
 Hier folgen ein paar grundlegende Tipps für den Start :)*
   
-  
-  
+ 
 
 
 ###<u>Die Suche beginnt:</u>
