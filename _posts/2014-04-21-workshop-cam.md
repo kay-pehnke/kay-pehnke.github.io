@@ -21,7 +21,7 @@ Hier folgen ein paar grundlegende Tipps für den Start :)*
  
 
 
-###<u>Die Suche beginnt:</u>
+###<u>Die Suche beginnt...</u>
 Wenn ihr keinerlei Erfahrungen im Bereich Fotografie habt, ist es vielleicht ratsam, sich im Freundeskreis oder in der Verwandtschaft umzuhören und eventuell dort einmal eine Kamera auszuleihen und ein paar Foto zu schiessen.
 
 ###<u>Auf was sollte ich achten?</u>
