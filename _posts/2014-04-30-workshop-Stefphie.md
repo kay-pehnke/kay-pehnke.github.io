@@ -48,6 +48,6 @@ Stephie
 
 ---------------
 
-###### Hast du auch an einem meiner Kurse Teilgenommen und möchtest auch einen Artikel verfassen, dann melde dich doch einfach bei mir.
+##### Hast du auch an einem meiner Kurse Teilgenommen und möchtest auch einen Artikel verfassen, dann melde dich doch einfach bei mir.
 
 
