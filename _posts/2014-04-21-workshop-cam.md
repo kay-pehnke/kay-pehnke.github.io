@@ -10,15 +10,15 @@ comments: true
 share: false
 published: true
 ---
-
-  
-  
-  *In letzter Zeit habe ich einige Mails bekommen mit der 
+ 
+ *In letzter Zeit habe ich einige Mails bekommen mit der 
 Frage: 
 Welche ist die richtige Kamera für mich als Anfänger/Einsteiger? 
 Hier folgen ein paar grundlegende Tipps für den Start :)*
   
   
+  
+
 
 ###<u>Die Suche beginnt:</u>
 Wenn ihr keinerlei Erfahrungen im Bereich Fotografie habt, ist es vielleicht ratsam, sich im Freundeskreis oder in der Verwandtschaft umzuhören und eventuell dort einmal eine Kamera auszuleihen und ein paar Foto zu schiessen.
