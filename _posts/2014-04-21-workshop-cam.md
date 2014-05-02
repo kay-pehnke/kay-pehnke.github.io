@@ -3,7 +3,7 @@ layout: offer
 title: "Welche Kamera ist die richtige für mich?!?"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
-tags: []
+tags: [Kamera, Hilfe, Tipp, Beachten, DSLR, Spiegelreflex]
 image:
   feature: cam2.jpg
 comments: true

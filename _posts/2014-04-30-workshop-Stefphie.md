@@ -3,7 +3,7 @@ layout: offer
 title: "Stephies Workshop"
 description: "Mein tierischer Fotoworkshop"
 category: blog
-tags: []
+tags: [Workshop]
 image:
   feature: ziege.jpg
 comments: true
