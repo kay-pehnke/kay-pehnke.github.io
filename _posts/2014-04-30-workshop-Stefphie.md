@@ -1,9 +1,9 @@
 ---
 layout: offer
-title: "Stephies Workshop"
-description: "Mein tierischer Fotoworkshop"
+title: "Stephies Zoo Safarie"
+description: "Mein Fotoworkshop"
 category: blog
-tags: [Workshop]
+tags: [Mein Fotoworkshop]
 image:
   feature: ziege.jpg
 comments: true
