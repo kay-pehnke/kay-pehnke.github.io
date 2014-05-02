@@ -1,6 +1,6 @@
 ---
 layout: offer
-title: "Welche Kamera ist die richtige für mich?!?"
+title: "##Welche Kamera ist die richtige für mich?!?"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: []
