@@ -8,7 +8,7 @@ image:
   feature: cam.jpg
 comments: true
 share: false
-published: false
+published: true
 ---
 
 In letzter Zeit habe ich einige Mails bekommen mit der Frage: 
@@ -42,7 +42,7 @@ Der Preis für ein solches 50mm Objektiv beläuft sich auf ca. 90-150Euro (je na
 
 <figure>
 <img src="/images/Amazon.png"/>
-<figcaption>Vergesst nicht den Hersteller für euer Objektiv mit einzugeben</figcaption>
+<figcaption>Vergesst nicht den Hersteller für euer Objektiv mit einzugeben (Canon, Nikon, Sony...)</figcaption>
 </figure>
 
 ###<u>Vergleichen:</u>
@@ -82,15 +82,6 @@ Schnappt euch eure Wunschkamera und fotografiert, fotografiert, fotografiert... 
 Und nicht vergessen... jede Kamera, egal wie teuer sie sein mag kann Bilder machen! Wichtig ist, dass ihr die Grundkenntnisse wie ISO, Blende und Verschlusszeit versteht und umsetzen könnt!
 
 
-Wenn ihr Interesse an einem Fotoworkshop für euch, eure Freunde oder in einer Gruppe habt, schaut euch in dieser [Rubrik](www.kay-pehnke.de/offers-single/) einmal um :)
+Wenn ihr Interesse an einem Fotoworkshop für euch, eure Freunde oder in einer Gruppe habt, schaut euch in dieser [Rubrik](www.kay-pehnke.de/offers-single/) einmal um :)   
 
-
-
-
-
-   
-   
-   
-   
-   
 Bei weiteren Fragen meldet euch einfach bei mir, ich stehe gern zu Verfügung! 
