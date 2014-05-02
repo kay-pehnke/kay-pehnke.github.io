@@ -11,13 +11,17 @@ share: false
 published: true
 ---
   
-<br />  
+  
+    
 *In letzter Zeit habe ich einige Mails bekommen mit der 
 Frage: 
 Welche ist die richtige Kamera für mich als Anfänger/Einsteiger? 
 Hier folgen ein paar grundlegende Tipps für den Start :)*
   
-<br />###<u>Die Suche beginnt:</u>
+ 
+
+
+###<u>Die Suche beginnt:</u>
 Wenn ihr keinerlei Erfahrungen im Bereich Fotografie habt, ist es vielleicht ratsam, sich im Freundeskreis oder in der Verwandtschaft umzuhören und eventuell dort einmal eine Kamera auszuleihen und ein paar Foto zu schiessen.
 
 ###<u>Auf was sollte ich achten?</u>
@@ -83,7 +87,7 @@ Schnappt euch eure Wunschkamera und fotografiert, fotografiert, fotografiert... 
 Übung macht schließlich den Meister ;)
 Und nicht vergessen... jede Kamera, egal wie teuer sie sein mag kann Bilder machen! Wichtig ist, dass ihr die Grundkenntnisse wie ISO, Blende und Verschlusszeit versteht und umsetzen könnt!
 
-Wenn ihr Interesse an einem Fotoworkshop für euch, eure Freunde oder in einer Gruppe habt, schaut euch in der Rubrik [Workshops](http://www.kay-pehnke.de/offers-single) einmal um :)
+Wenn ihr Interesse an einem Fotoworkshop für euch, eure Freunde oder in einer Gruppe habt, schaut euch in der Rubrik [Workshops](http://www.kay-pehnke.de/offers-single) einmal um :)   
 
 
 ##### Bei weiteren Fragen meldet euch einfach bei mir, ich stehe gern zu Verfügung!
