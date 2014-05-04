@@ -1,11 +1,6 @@
 ---
 layout: notmypost
-title: "Fotosafari"
-description: "Mein tierischer Fotoworkshop"
-category: blog
-tags: [Tiere]
-layout: offer
-title: "Stephies Zoo Safarie"
+title: "Stephies Zoo Safari"
 description: "Mein Fotoworkshop"
 category: blog
 tags: [Mein Fotoworkshop]
@@ -53,14 +48,9 @@ Nachdem wir unseren Kurs durch den Park fortgesetzt hatten und ich mich fotograf
 Vielen vielen Dank lieber Kay für die absolut verständlichen Erklärungen, guten Tipps und vor allem deine Engelsgeduld mit deiner Schülerin!!! Man sieht mich seitdem kaum mehr einen Tag ohne meine geliebte Kamera vor der Nase :)
 
 Stephie
-<<<<<<< HEAD:_posts/2014-04-30-fotosafari.md
- 
-> Hast du auch an einem meiner Kurse Teilgenommen und möchtest auch einen Artikel verfassen, dann melde dich doch einfach bei mir.
-=======
 
 ---------------
 
-##### Hast du auch an einem meiner Kurse Teilgenommen und möchtest auch einen Artikel verfassen, dann melde dich doch einfach bei mir.
->>>>>>> FETCH_HEAD:_posts/2014-04-30-workshop-Stefphie.md
+> Hast du auch an einem meiner Kurse Teilgenommen und möchtest auch einen Artikel verfassen, dann melde dich doch einfach bei mir.
 
 

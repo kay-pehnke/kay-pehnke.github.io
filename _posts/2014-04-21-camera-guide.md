@@ -1,7 +1,4 @@
 ---
-layout: post
-title: "Welche Kamera ist die richtige für mich?"
-=======
 layout: offer
 title: "Einstieg in die Fotografie"
 description: "Hilfestellung für Anfänger & Einsteiger"
@@ -13,6 +10,10 @@ comments: true
 share: false
 published: true
 ---
+  
+  
+
+
     
 *In letzter Zeit habe ich einige Mails bekommen mit der 
 Frage: 
@@ -94,5 +95,4 @@ Und nicht vergessen... jede Kamera, egal wie teuer sie sein mag kann Bilder mach
 Wenn ihr Interesse an einem Fotoworkshop für euch, eure Freunde oder in einer Gruppe habt, schaut euch in der Rubrik [Workshops](http://www.kay-pehnke.de/offers-single) einmal um :)   
 
 
-##### Bei weiteren Fragen meldet euch einfach bei mir, ich stehe gern zu Verfügung!
-
+> Bei weiteren Fragen meldet euch einfach bei mir, ich stehe gern zu Verfügung!
