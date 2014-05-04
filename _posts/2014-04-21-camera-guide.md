@@ -1,6 +1,9 @@
 ---
 layout: post
-title: "Welche Kamera ist die richtige für mich?!?"
+title: "Welche Kamera ist die richtige für mich?"
+=======
+layout: offer
+title: "Einstieg in die Fotografie"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: []
@@ -9,17 +12,20 @@ image:
 comments: true
 share: false
 published: true
-owner:
-  name: Kay Peh
-  avatar: stephie.jpg
 ---
-
-In letzter Zeit habe ich einige Mails bekommen mit der Frage: 
+    
+*In letzter Zeit habe ich einige Mails bekommen mit der 
+Frage: 
 Welche ist die richtige Kamera für mich als Anfänger/Einsteiger? 
-Hier folgen ein paar grundlegende Tipps für den Start :)
+Hier folgen ein paar grundlegende Tipps für den Start :)*
+  
 
 
-###<u>Die Suche beginnt:</u>
+
+ 
+
+
+###<u>Die Suche beginnt...</u>
 Wenn ihr keinerlei Erfahrungen im Bereich Fotografie habt, ist es vielleicht ratsam, sich im Freundeskreis oder in der Verwandtschaft umzuhören und eventuell dort einmal eine Kamera auszuleihen und ein paar Foto zu schiessen.
 
 ###<u>Auf was sollte ich achten?</u>
@@ -45,14 +51,16 @@ Der Preis für ein solches 50mm Objektiv beläuft sich auf ca. 90-150Euro (je na
 
 <figure>
 <img src="/images/Amazon.png"/>
-<figcaption>Vergesst nicht den Hersteller für euer Objektiv mit einzugeben</figcaption>
+<figcaption>Vergesst nicht den Hersteller für euer Objektiv mit einzugeben (Canon, Nikon, Sony...)</figcaption>
 </figure>
 
 ###<u>Vergleichen:</u>
-Wenn ihr nun wisst, was ihr wollt, habt ihr die Möglichkeit, Preise zu vergleichen. Nutzt dazu eine Preisvergleichseite wie  z.B. www.geizhals.de (at) und die Preise eures Elektronikmarktes. Schaut euch zudem Bewertungen für eure Kameras und Rezensionen bei www.amazon.de an. Sie können sehr hilfreich bei einer Entscheidung sein.
+Wenn ihr nun wisst, was ihr wollt, habt ihr die Möglichkeit, Preise zu vergleichen. Nutzt dazu eine Preisvergleichseite wie  z.B. [Geizhals](http://www.geizhals.de).
+
+und die Preise eures Elektronikmarktes. Schaut euch zudem Bewertungen für eure Kameras und Rezensionen bei www.amazon.de an. Sie können sehr hilfreich bei einer Entscheidung sein.
 
 ###<u>Der Gebrauchtmarkt:</u>
-Ein Tipp vor dem Kauf wäre ausserdem, sich einmal den Gebrauchtmarkt anzuschauen. Mit etwas Glück könnt ihr hier eine Menge Geld sparen! Empfehlenswert ist hier www.ebay-kleinanzeigen.de.
+Ein Tipp vor dem Kauf wäre ausserdem, sich einmal den Gebrauchtmarkt anzuschauen. Mit etwas Glück könnt ihr hier eine Menge Geld sparen! Empfehlenswert ist hier [ebay-kleinanzeigen](http://www.ebay-kleinanzeigen.de).
 Das ganze birgt aber ein paar Risiken, ich spreche hier aus eigener Erfahrung...
 Beachtet deshalb möglichst Folgendes:
 Möglichst die Kamera vor einem Kauf in Augenschein nehmen. Legt Wert darauf, euch den Sensor und das Objektiv ansehen zu dürfen. Sind sie sauber und frei von Kratzern?!
@@ -66,14 +74,14 @@ Eine weitere Möglichkeit ist, in den Elektromarkt eures Vertrauens zu gehen und
 
 ###<u>Die Speicherkarte:</u>
 Apropos Speicherkarte... die fehlt euch natürlich auch noch! Hier gibt es selbstverständlich auch wieder einen riesigen Markt mit unzähligen Angeboten. 
-Schaut dass ihr auf alle Fälle eine Speicherkarte der Klasse 10 bekommt (wie im Bild zu sehen). Sie sollte um die 30-45MB/sek schreiben können. Ich empfehle da ganz gern die 16GB SanDisk mit 45MB/sek für ca.15€ (z.b. bei Amazon), die sollte für den Anfang vollkommend reichen.
+Schaut dass ihr auf alle Fälle eine Speicherkarte der Klasse 10 bekommt (wie im Bild zu sehen). Sie sollte um die 30-45MB/sek schreiben können. Ich empfehle da ganz gern die 16GB SanDisk mit 45MB/sek für ca.15€ (z.b. bei [Amazon](http://www.amazon.de) ), die sollte für den Anfang vollkommend reichen.
 
 <figure>
 <img src="/images/sd.jpg"/>
 <figcaption></figcaption>
 </figure>
 
-###<u>Darf es ein Schutzfilter sein?</u>
+###<u>Schutzfilter?</u>
 Die meisten Fotografen schützen zudem ihre Objektive gern mit sogenannten Schutzfiltern. Meist werden UV-oder Protectionfilter verwendet. Ich würde euch auch dazu raten... zumindest anfangs.
 Die richtige Größe entnehmt ihr eurem Objektiv (Front), dort ist der Durchmesser angegeben (siehe Bild).
 Sehr gute Qualität liefern Filter von Hoya, Heida und B&W… andere tun es natürlich auch! Kostenpunkt: ab ca. 10€.
@@ -81,19 +89,10 @@ Sehr gute Qualität liefern Filter von Hoya, Heida und B&W… andere tun es nat�
 ###<u>Nach dem Kauf:</u>
 Schnappt euch eure Wunschkamera und fotografiert, fotografiert, fotografiert... !
 Übung macht schließlich den Meister ;)
-
 Und nicht vergessen... jede Kamera, egal wie teuer sie sein mag kann Bilder machen! Wichtig ist, dass ihr die Grundkenntnisse wie ISO, Blende und Verschlusszeit versteht und umsetzen könnt!
 
-
-Wenn ihr Interesse an einem Fotoworkshop für euch, eure Freunde oder in einer Gruppe habt, schaut euch in dieser [Rubrik](www.kay-pehnke.de/offers-single/) einmal um :)
-
+Wenn ihr Interesse an einem Fotoworkshop für euch, eure Freunde oder in einer Gruppe habt, schaut euch in der Rubrik [Workshops](http://www.kay-pehnke.de/offers-single) einmal um :)   
 
 
+##### Bei weiteren Fragen meldet euch einfach bei mir, ich stehe gern zu Verfügung!
 
-
-   
-   
-   
-   
-   
-Bei weiteren Fragen meldet euch einfach bei mir, ich stehe gern zu Verfügung! 
