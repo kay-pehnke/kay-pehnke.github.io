@@ -1,6 +1,6 @@
 ---
 layout: notmypost
-title: "Stephies Zoo Safari"
+title: "Stephies Fotosafari"
 description: "Mein Fotoworkshop"
 category: blog
 tags: [Mein Fotoworkshop]
@@ -13,6 +13,11 @@ owner:
   name: Stephie
   avatar: stephie.jpg
 ---
+  
+  
+
+
+    
 
 
 Als ich vor kurzem beschlossen habe, meiner Leidenschaft für das Fotografieren endlich wieder nachzugehen, fand ich zufällig Kays Workshopangebot online. 
