@@ -30,7 +30,7 @@ google_analytics:       UA-49949383-1
 google_analytics_site:  kay-pehnke.de
 google_verify:          LGfRF9xTRCXtyhYYdmFOAH5qTgk8pBfSQozYMt0an8M
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:            1455E028029C9993BB47B8BC4984E57D
 
 # Links to include in top navigation
 # For external links add external: true
