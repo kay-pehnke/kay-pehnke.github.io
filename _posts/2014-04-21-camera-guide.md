@@ -95,4 +95,4 @@ Und nicht vergessen... jede Kamera, egal wie teuer sie sein mag kann Bilder mach
 Wenn ihr Interesse an einem Fotoworkshop für euch, eure Freunde oder in einer Gruppe habt, schaut euch in der Rubrik [Workshops](http://www.kay-pehnke.de/offers-single) einmal um :)   
 
 
-> Bei weiteren Fragen meldet euch einfach bei mir, ich stehe gern zu Verfügung!
+> Bei weitere Fragen stehe ich gern zu Verfügung, meldet euch einfach :)
