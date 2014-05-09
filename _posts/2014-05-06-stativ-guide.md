@@ -5,10 +5,10 @@ description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: []
 image:
-  feature: cam.jpg
+  feature: stativbig.jpg
 comments: true
 share: false
-published: false
+published: true
 ---
  
   
@@ -44,7 +44,7 @@ Die Stativplatte/Schnellwechselplatte:
 Eine solche Platte sollte unbedingt abnehmbar und nicht fest mit dem Stativ verbunden sein. Das dient nicht nur dem Komfort, sondern man ist auch flexibler (vielleicht auch der Bequemlichkeit wegen ;) ) Fest verbaute Stativplatten sind natürlich preiswerter!
 
 <figure>
-<img src="/images/pfau.jpg"/>
+<img src="/images/stativp.jpg"/>
 <figcaption>HIER KOMMT DER TEXT FÜRS BILD</figcaption>
 </figure>
 
@@ -52,11 +52,12 @@ Der Stativkopf:
 Hier gibt es drei Möglichkeiten...
 Nr. 1: Ein unbeweglicher Stativkopf, bei dem die Kamera direkt am Stativ bzw. an der Stativplatte befestigt wird. Flexibilität ist hier allerdings ein Fremdwort, weshalb ich diese Möglichkeit nicht empfehlen kann.
 Nr. 2: Ein Drei-Wege-Kopf, an dem man die X,Y und Z Achse einzeln verstellen kann, um die gewünschte Position zu erlangen.
-Und schliesslich Nr. 3: Der Kugelkopf - die angenehmste, aber auch teuerste Variante. Hierbei handelt es sich um eine Kugel, die sich in einer Fassung befindet und meist mittels Schraube oder Hebel fixiert und gelöst werden kann. Die Kamera ist so um 360° drehbar.
+Und schliesslich 
+Nr. 3: Der Kugelkopf - die angenehmste, aber auch teuerste Variante. Hierbei handelt es sich um eine Kugel, die sich in einer Fassung befindet und meist mittels Schraube oder Hebel fixiert und gelöst werden kann. Die Kamera ist so um 360° drehbar.
 Wer es noch etwas komfortabler haben möchte, greift zu einem sogenannten Pistolengriff. Drück man hier den „Abzug“, lässt sich der verbaute Kugelkopf frei drehen sowie seitlich neigen. Hochwertige Pistolengriffe kosten ca. 70-100 Euro!
 
 <figure>
-<img src="/images/pfau.jpg"/>
+<img src="/images/stativk"/>
 <figcaption>HIER KOMMT DER TEXT FÜRS BILD</figcaption>
 </figure>
 
