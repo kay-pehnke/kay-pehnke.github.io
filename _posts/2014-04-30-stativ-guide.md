@@ -65,7 +65,7 @@ Wer es noch etwas komfortabler haben möchte, greift zu einem sogenannten Pistol
 
 <figure>
 <img src="/images/stko.jpg"/>
-<figcaption>Stativkopf mit Kugelkopf von Siuri</figcaption>
+<figcaption>Stativkopf mit Kugelkopf</figcaption>
 </figure>
 
 ###<u>Preis:</u>
