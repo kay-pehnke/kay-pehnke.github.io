@@ -8,7 +8,7 @@ image:
   feature: gb.jpg
 comments: true
 share: false
-published: true
+published: false
 ---
 
 Mit der Makrofotografie eröffnet sich für jeden Fotografen eine faszinierend neue Welt!  
