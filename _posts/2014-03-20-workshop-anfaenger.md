@@ -1,6 +1,6 @@
 ---
 layout: offer
-title: "Einsteiger"
+title: "Anfänger"
 description: "Examples and code for displaying images in posts."
 category: einzelworkshop
 tags: [Workshop]
