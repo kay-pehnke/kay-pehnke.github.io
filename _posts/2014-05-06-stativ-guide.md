@@ -29,18 +29,22 @@ published: true
 
 
 Die richtige Größe finden:
+
 Die meisten Stative gibt es in unterschiedlichen Größen, angefangen von ca. 1m bis zu über 1,80m.
 Achtet hier darauf, dass es euer Körpergröße entspricht und nehmt auf keinen Fall ein zu kleines! Das schont den Rücken ;)
 
 Gewicht:
+
 Ob Plastik, Aluminium, Carbon oder Titan - es gibt die unterschiedlichsten Materialen, die euch bei eurer Wahl über den Weg laufen und das Gewicht bestimmen. 
 Wer ein leichtes aber doch robustes Stativ sucht, greift zu Alu oder gar Carbon. In der Regel liegt das Gewicht bei ca. 1-2kg, was für den Transport nur von Vorteil ist. Wichtig wäre zudem das Packmaß - vor allem für diejenigen unter euch, die ein handliches Stativ für unterwegs suchen und es z.B. den ein oder anderen Berg raufschleppen werden ;)
 Hier gilt: umso leichter und robuster, desto teurer!
 
 Stabilität:
+
 Ihr solltet unbedingt drauf achten, dass die Beine des Stativs beweglich und leichtgängig sind. Wer dem Wetter trotzt und viel im Freien fotografiert, sollte in Erwägung ziehen, dass sich ein Haken unterhalb des Stativs befindet. Die Erhöhung des Schwerpunkts dient dem besseren Stand bei unruhigem Wetter.
 
 Die Stativplatte/Schnellwechselplatte:
+
 Eine solche Platte sollte unbedingt abnehmbar und nicht fest mit dem Stativ verbunden sein. Das dient nicht nur dem Komfort, sondern man ist auch flexibler (vielleicht auch der Bequemlichkeit wegen ;) ) Fest verbaute Stativplatten sind natürlich preiswerter!
 
 <figure>
@@ -49,10 +53,14 @@ Eine solche Platte sollte unbedingt abnehmbar und nicht fest mit dem Stativ verb
 </figure>
 
 Der Stativkopf:
+
 Hier gibt es drei Möglichkeiten...
+
 Nr. 1: Ein unbeweglicher Stativkopf, bei dem die Kamera direkt am Stativ bzw. an der Stativplatte befestigt wird. Flexibilität ist hier allerdings ein Fremdwort, weshalb ich diese Möglichkeit nicht empfehlen kann.
+
 Nr. 2: Ein Drei-Wege-Kopf, an dem man die X,Y und Z Achse einzeln verstellen kann, um die gewünschte Position zu erlangen.
 Und schliesslich 
+
 Nr. 3: Der Kugelkopf - die angenehmste, aber auch teuerste Variante. Hierbei handelt es sich um eine Kugel, die sich in einer Fassung befindet und meist mittels Schraube oder Hebel fixiert und gelöst werden kann. Die Kamera ist so um 360° drehbar.
 Wer es noch etwas komfortabler haben möchte, greift zu einem sogenannten Pistolengriff. Drück man hier den „Abzug“, lässt sich der verbaute Kugelkopf frei drehen sowie seitlich neigen. Hochwertige Pistolengriffe kosten ca. 70-100 Euro!
 
