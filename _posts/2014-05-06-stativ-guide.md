@@ -8,7 +8,7 @@ image:
   feature: stativbig.jpg
 comments: true
 share: false
-published: true
+published: false
 ---
  
   

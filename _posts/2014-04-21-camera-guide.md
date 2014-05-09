@@ -8,7 +8,7 @@ image:
   feature: cam.jpg
 comments: true
 share: false
-published: true
+published: false
 ---
   
   
