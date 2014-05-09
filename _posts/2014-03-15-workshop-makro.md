@@ -5,10 +5,10 @@ description: "Examples and code for displaying images in posts."
 category: einzelworkshop
 tags: [Workshop]
 image:
-  feature: natur2.jpg
+  feature: gb.jpg
 comments: true
 share: false
-published: false
+published: true
 ---
 
 Mit der Makrofotografie eröffnet sich für jeden Fotografen eine faszinierend neue Welt!  
