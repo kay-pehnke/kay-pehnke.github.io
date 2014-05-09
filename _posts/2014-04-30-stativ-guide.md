@@ -3,7 +3,7 @@ layout: offer
 title: "Das richtige Stativ finden"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
-tags: []
+tags: [Hilfestellung für Anfänger & Einsteiger]
 image:
   feature: stbig.jpg
 comments: true

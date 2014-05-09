@@ -3,7 +3,7 @@ layout: offer
 title: "Einstieg in die Fotografie"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
-tags: []
+tags: [Hilfestellung für Anfänger & Einsteiger]
 image:
   feature: cam2.jpg
 comments: true
