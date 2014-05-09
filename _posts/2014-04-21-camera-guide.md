@@ -5,10 +5,10 @@ description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: []
 image:
-  feature: cam.jpg
+  feature: cam2.jpg
 comments: true
 share: false
-published: false
+published: true
 ---
   
   
