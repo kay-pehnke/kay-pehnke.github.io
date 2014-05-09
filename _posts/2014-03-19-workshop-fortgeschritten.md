@@ -26,13 +26,6 @@ Ausserdem werden wir unterschiedlichen Objektive theoretisch und Praktisch vergl
 * Digital Kamera mit manuellen Einstellmöglichkeiten
 * Objektive, Stativ oder anders Zubehör falls vorhanden
 
- 
-  
-
-
-    
-
-
 
 ### *Dauer: ca.3h*
 

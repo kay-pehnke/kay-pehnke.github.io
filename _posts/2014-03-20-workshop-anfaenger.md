@@ -23,14 +23,6 @@ Es ist nicht so schwer, wie Sie denken!
 
 * wetterfeste Kleidung
 * eigene Kamera  
- 
-  
-
-
-    
-
-
-
 
 ### *Dauer: ca.3h*
 
