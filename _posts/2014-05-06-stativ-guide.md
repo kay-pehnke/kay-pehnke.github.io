@@ -8,7 +8,7 @@ image:
   feature: stativbig.jpg
 comments: true
 share: false
-published: true
+published: false
 ---
  
   
@@ -30,8 +30,7 @@ published: true
 
 ###<u>Die richtige Größe finden:</u>
 
-Die meisten Stative gibt es in unterschiedlichen Größen, angefangen von ca. 1m bis zu über 1,80m.
-Achtet hier darauf, dass es euer Körpergröße entspricht und nehmt auf keinen Fall ein zu kleines! Das schont den Rücken ;)
+Die meisten Stative gibt es in unterschiedlichen Größen, angefangen von ca. 1m bis über 1,80m. Achtet hier darauf, dass es euer Körpergröße entspricht und nehmt auf keinen Fall ein zu kleines! Das schont den Rücken ;)
 
 ###<u>Gewicht:</u>
 
