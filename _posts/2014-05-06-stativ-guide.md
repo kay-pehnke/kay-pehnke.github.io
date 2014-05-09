@@ -8,7 +8,7 @@ image:
   feature: stativbig.jpg
 comments: true
 share: false
-published: false
+published: true
 ---
  
   
@@ -45,7 +45,7 @@ Eine solche Platte sollte unbedingt abnehmbar und nicht fest mit dem Stativ verb
 
 <figure>
 <img src="/images/stativp.jpg"/>
-<figcaption>HIER KOMMT DER TEXT FÜRS BILD</figcaption>
+<figcaption>Eine Stativplatte/Schnellwechselplatte</figcaption>
 </figure>
 
 Der Stativkopf:
@@ -58,7 +58,7 @@ Wer es noch etwas komfortabler haben möchte, greift zu einem sogenannten Pistol
 
 <figure>
 <img src="/images/stativk"/>
-<figcaption>HIER KOMMT DER TEXT FÜRS BILD</figcaption>
+<figcaption>Ein Kugelkopf</figcaption>
 </figure>
 
 Preis:
