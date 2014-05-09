@@ -5,7 +5,7 @@ description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: []
 image:
-  feature: stativbig.jpg
+  feature: stbig.jpg
 comments: true
 share: false
 published: false
@@ -64,7 +64,7 @@ Und schliesslich
 Wer es noch etwas komfortabler haben möchte, greift zu einem sogenannten Pistolengriff. Drück man hier den „Abzug“, lässt sich der verbaute Kugelkopf frei drehen sowie seitlich neigen. Hochwertige Pistolengriffe kosten ca. 70-100 Euro!
 
 <figure>
-<img src="/images/stativk"/>
+<img src="/images/stko.jpg"/>
 <figcaption>Ein Kugelkopf</figcaption>
 </figure>
 
