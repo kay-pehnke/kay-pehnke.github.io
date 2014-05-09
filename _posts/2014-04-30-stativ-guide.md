@@ -80,4 +80,4 @@ Ich persönlich nutze die qualitativ sehr guten Aluminumstative von Manfrotto, S
 
 
 
-> Bei weitere Fragen stehe ich gern zu Verfügung, meldet euch einfach :)
+> Bei weiteren Fragen stehe ich gern zu Verfügung, meldet euch einfach :)
