@@ -1,6 +1,6 @@
 ---
 layout: offer
-title: "Langzeitbelichtung und Landschaft"
+title: "Langzeitbelichtung und Landschaftsfotografie"
 description: "Examples and code for displaying images in posts."
 category: einzelworkshop
 tags: [Workshop]
