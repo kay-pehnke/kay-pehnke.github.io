@@ -58,7 +58,7 @@ Hier gibt es drei Möglichkeiten...
 **Nr. 1:** Ein unbeweglicher Stativkopf, bei dem die Kamera direkt am Stativ bzw. an der Stativplatte befestigt wird. Flexibilität ist hier allerdings ein Fremdwort, weshalb ich diese Möglichkeit nicht empfehlen kann.
 
 **Nr. 2:** Ein Drei-Wege-Kopf, an dem man die X,Y und Z Achse einzeln verstellen kann, um die gewünschte Position zu erlangen.
-Und schliesslich 
+Und schliesslich... 
 
 **Nr. 3:** Der Kugelkopf - die angenehmste, aber auch teuerste Variante. Hierbei handelt es sich um eine Kugel, die sich in einer Fassung befindet und meist mittels Schraube oder Hebel fixiert und gelöst werden kann. Die Kamera ist so um 360° drehbar.
 Wer es noch etwas komfortabler haben möchte, greift zu einem sogenannten Pistolengriff. Drück man hier den „Abzug“, lässt sich der verbaute Kugelkopf frei drehen sowie seitlich neigen. Hochwertige Pistolengriffe kosten ca. 70-100 Euro!
