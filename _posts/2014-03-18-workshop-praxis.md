@@ -22,8 +22,15 @@ Ein weiterer Bestandteil könnte das Testen und Kennenlernen verschiedener Objek
 * eigene Kamera
 * Zubehör wie Stativ, Objektive, Filter wenn vorhanden
 
+ 
+  
 
-### *Dauer: 4-6h (je nach Vorwissen)*
+
+    
+
+
+
+### *Dauer: ca.4h*
 
 ### *Preis: 30€*
 

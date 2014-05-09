@@ -23,8 +23,15 @@ Es ist nicht so schwer, wie Sie denken!
 
 * wetterfeste Kleidung
 * eigene Kamera  
+ 
+  
 
 
-### *Dauer: 3-5h (je nach Vorwissen)*
+    
+
+
+
+
+### *Dauer: ca.3h*
 
 ### *Preis: 25€*

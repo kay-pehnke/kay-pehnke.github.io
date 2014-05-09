@@ -20,9 +20,13 @@ Wir werden in diesem Grundkurs das abzulichtende Bild bewusst gestallten, gehen 
 * wetterfeste Kleidung
 * eigene Kamera
 * Zubehör wie Stativ, Objektive, Filter wenn vorhanden
+ 
+  
 
 
-## *Dauer: 2-4h (je Vorwissen)*
+    
+
+
 
 ## *Preis: 20€*
 
