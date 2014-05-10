@@ -42,6 +42,11 @@ Hier gilt: umso leichter und robuster, desto teurer!
 
 Ihr solltet unbedingt drauf achten, dass die Beine des Stativs beweglich und leichtgängig sind. Wer dem Wetter trotzt und viel im Freien fotografiert, sollte in Erwägung ziehen, dass sich ein Haken unterhalb des Stativs befindet. Die Erhöhung des Schwerpunkts dient dem besseren Stand bei unruhigem Wetter.
 
+<figure>
+<img src="/images/sth.jpg"/>
+<figcaption>Stativplatte/Schnellwechselplatte von Sirui</figcaption>
+</figure>
+
 ###<u>Die Stativplatte/Schnellwechselplatte:</u>
 
 Eine solche Platte sollte unbedingt abnehmbar und nicht fest mit dem Stativ verbunden sein. Das dient nicht nur dem Komfort, sondern man ist auch flexibler (vielleicht auch der Bequemlichkeit wegen ;) ) Fest verbaute Stativplatten sind natürlich preiswerter!
