@@ -40,11 +40,11 @@ Hier gilt: umso leichter und robuster, desto teurer!
 
 ###<u>Stabilität:</u>
 
-Ihr solltet unbedingt drauf achten, dass die Beine des Stativs beweglich und leichtgängig sind. Wer dem Wetter trotzt und viel im Freien fotografiert, sollte in Erwägung ziehen, dass sich ein Haken unterhalb des Stativs befindet. Die Erhöhung des Schwerpunkts dient dem besseren Stand bei unruhigem Wetter.
+Ihr solltet unbedingt drauf achten, dass die Beine des Stativs beweglich und leichtgängig sind. Wer dem Wetter trotzt und viel im Freien fotografiert, sollte in Erwägung ziehen, dass sich eine Öse unterhalb des Stativs befindet. Die Erhöhung des Schwerpunkts dient dem besseren Stand bei unruhigem Wetter.
 
 <figure>
 <img src="/images/sth.jpg"/>
-<figcaption>Stativplatte/Schnellwechselplatte von Sirui</figcaption>
+<figcaption>Karabinerhaken an der Öse unterhalb des Stativkopfes</figcaption>
 </figure>
 
 ###<u>Die Stativplatte/Schnellwechselplatte:</u>
