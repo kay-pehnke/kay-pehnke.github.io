@@ -8,17 +8,14 @@ image:
   feature: gb.jpg
 comments: true
 share: false
-published: false
+published: true
 ---
 
 Mit der Makrofotografie eröffnet sich für jeden Fotografen eine faszinierend neue Welt!  
 Ich zeige euch Möglichkeiten, wie ihr diesen Detailreichtum auch ohne grosse Anschaffungen bestaunen und geniessen könnt.
-Dieser Workshop findet nach Möglichkeit draussen statt, da es vor allem in freier Natur jede Menge zu entdecken gibt. Hier gehen wir dann auch auf Kameraeinstellungen und nützlichem Zubehör ein. 
+Dieser Workshop findet nach Möglichkeit draussen statt, da es vor allem in freier Natur jede Menge zu entdecken gibt. Neben den Kameraeinstellungen werde ich euch weiteres Zubehör und Alternativen wie Nahelinsen, Zwischenringe oder ein Balgengerät zeigen und näher bringen.
 
-<figure>
-<img src="/images/pfau.jpg"/>
-<figcaption>TEXT FÜR BILD</figcaption>
-</figure>
+
 
 *Alles weitere auf Anfrage*
 
