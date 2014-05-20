@@ -36,14 +36,14 @@ Achtet zB auf gepolsterte Gurte, schaut dass er wetterfest ist bzw einen Regensc
 Getrennte Innenfächer, die ihr individuell zusammenstellen und an den Inhalt anpassen könnt (z.B. mittels Klettverschluss verstellbar Fächer) sind auch eine tolle Option, die nicht unbedingt alle Rucksäcke bieten. Wer so was hat, schätzt diesen Komfort doch sehr!
 
 <figure>
-<img src="/images/sth.jpg"/>
+<img src="/images/bag1.jpg"/>
 <figcaption>Karabinerhaken an Öse, unterhalb des Stativkopfes</figcaption>
 </figure>
 
 Bei längeren Touren bzw. Wanderungen sind zudem separate Fächer für Getränke, Verpflegung und eine Aussenhalterung für  Stativ und Wanderstöcke von Vorteil, da ihr ja möglichst alles in/an einem Rucksack verstauen wollt. Bezieht diese Punkte in eure Entscheidung mit ein!
 
 <figure>
-<img src="/images/sth.jpg"/>
+<img src="/images/bag2.jpg"/>
 <figcaption>Karabinerhaken an Öse, unterhalb des Stativkopfes</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Platz/Grösse:
 Es sollte mindestens eure Kamera mit dem größten angesetzten Objektiv Platz finden. Darüber hinaus macht es Sinn, Platz für ein zweites oder auch drittes Objektiv vorzuhalten - meistens bleibt es erfahrungsgemäss nämlich nicht bei einem einzigen ;-)
 
 <figure>
-<img src="/images/sth.jpg"/>
+<img src="/images/bag3.jpg"/>
 <figcaption>Karabinerhaken an Öse, unterhalb des Stativkopfes</figcaption>
 </figure>
 
