@@ -58,7 +58,7 @@ Der Preis für ein solches 50mm Objektiv beläuft sich auf ca. 90-150Euro (je na
 ###<u>Vergleichen:</u>
 Wenn ihr nun wisst, was ihr wollt, habt ihr die Möglichkeit, Preise zu vergleichen. Nutzt dazu eine Preisvergleichseite wie  z.B. [Geizhals](http://www.geizhals.de).
 
-und die Preise eures Elektronikmarktes. Schaut euch zudem Bewertungen für eure Kameras und Rezensionen bei www.amazon.de an. Sie können sehr hilfreich bei einer Entscheidung sein.
+und die Preise eures Elektronikmarktes. Schaut euch zudem Bewertungen für eure Kameras und Rezensionen bei [Amazon](http://www.amazon.de) an. Sie können sehr hilfreich bei einer Entscheidung sein.
 
 ###<u>Der Gebrauchtmarkt:</u>
 Ein Tipp vor dem Kauf wäre ausserdem, sich einmal den Gebrauchtmarkt anzuschauen. Mit etwas Glück könnt ihr hier eine Menge Geld sparen! Empfehlenswert ist hier [ebay-kleinanzeigen](http://www.ebay-kleinanzeigen.de).
