@@ -1,6 +1,6 @@
 ---
 layout: offer
-title: "Das richtige Stativ finden"
+title: "Der passende Rucksack"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
