@@ -46,7 +46,7 @@ Bei längeren Touren bzw. Wanderungen sind zudem separate Fächer für Getränke
 
 <figure>
 <img src="/images/bag2.jpg"/>
-<figcaption>Komforttable Unterbringung von Flussigkeit, Wanderstöcken und einem Stativ an der Aussenseite eines Rucksackes</figcaption>
+<figcaption>Komforttable Unterbringung von Flussigkeit, Wanderstöcken und einem Stativ an Aussenseiten des Rucksackes</figcaption>
 </figure>
 
 
