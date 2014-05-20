@@ -5,7 +5,7 @@ description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
 image:
-  feature: stbig.jpg
+  feature: hute.jpg
 comments: true
 share: false
 published: false
@@ -20,9 +20,11 @@ published: false
 
 *In einigen Workshops kam die Frage nach der passenden Kameratasche auf: 
 Wohin mit Kamera und Zubehör, was ist praktisch für unterwegs?* 
+ 
   
 
 
+    
 
 
 
