@@ -1,6 +1,6 @@
 ---
 layout: offer
-title: "Das richtige Stativ finden"
+title: "Tipp: Das richtige Stativ finden"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]

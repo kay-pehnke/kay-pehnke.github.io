@@ -1,6 +1,6 @@
 ---
 layout: offer
-title: "Einstieg in die Fotografie"
+title: "Tipp: Einstieg in die Fotografie"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]

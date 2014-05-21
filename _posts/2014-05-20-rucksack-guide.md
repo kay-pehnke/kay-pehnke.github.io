@@ -1,6 +1,6 @@
 ---
 layout: offer
-title: "Der passende Rucksack"
+title: "Tipp: Der passende Rucksack"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
