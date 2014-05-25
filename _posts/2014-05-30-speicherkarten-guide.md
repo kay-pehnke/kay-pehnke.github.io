@@ -36,10 +36,9 @@ Nachstehend ein paar Tipps:*
 
 ###<u>Symbole auf einer Speicherkarte:</u>
 Das (C) Symbol (mit eingeschlossener Zahl) gibt beispielsweise die mittlerweile überholte Schreibgeschwindigkeit einer Speicherkarte in ”Class„ an. (1) heißt: Schreibgeschwindigkeit von mindestens 1 Megabyte pro Sekunde (MB/s), (2) 2MB/s, (3) 3MB/s usw.. die höchste aufgedruckte Zahl, die es gibt, ist die (10) für 10MB/s.
-Der technische Fortschritt bleibt natürlich auch hier nicht aus und siehe da, es gibt mittlerweile Karten die über
-104MB/s schreiben!!
+Der technische Fortschritt bleibt natürlich auch hier nicht aus und siehe da, es gibt mittlerweile Karten die über 100MB/s schreiben!!
 
-Die neue und weitere Bezeichnung die man daher finden kann ist: UHS (Ultra High Speed). Diese ist als “I„, "II„  oder auch "U„ (mit eingeschlossender Zahl) auf den Speicherkarten gedruckt und sagt folgedes aus:
+Die neue und weitere Bezeichnung die man daher finden kann ist: UHS (Ultra High Speed). Diese ist als “I„, "II„  oder auch "U„ (mit eingeschlossender Zahl) auf den Speicherkarten gedruckt und sagt Folgedes aus:
 
 UHS I: minimale Schreibgeschwindikeit ist 50MB/s
 UHS II: minimale Schreibgeschwindikeit ist 156MB/s
@@ -49,7 +48,7 @@ UHS II: minimale Schreibgeschwindikeit ist 156MB/s
 <figcaption>Speicherkarte mit Class10/UHS I Zertifikat</figcaption>
 </figure>
 
-`Tipp: Filmt ihr gern? Dann sollte eure Karte mindestens Class4 oder höher entsprechen! Aber aufgepast! Class4 Karten sind nicht immer Class4 Karten! Sobald es bei der Wiedergabe eines aufgenommenden Videos Ruckeln sollte, könnte es sich um eine minderwertige (Class4) Karte handeln! Greift lieber zu höhren Karten!`
+`Tipp: Filmt ihr gern? Dann sollte eure Karte mindestens Class4 oder höher entsprechen! Aber aufgepast: Class4 Karten sind nicht immer Class4 Karten! Sobald es bei der Wiedergabe eines aufgenommenden Videos ruckeln sollte, könnte es sich um eine minderwertige (Class4) Karte handeln! Greift deshalb lieber gleich zu höhren Karten!`
 
 ###<u>SDHC oder SDXC?</u>
 
@@ -62,7 +61,7 @@ SDHC Karten hingegen haben Kapaziäten von 4 bis max. 32GB!
 
 <figure>
 <img src="/images/bag1.jpg"/>
-<figcaption>Homepage Screenshots über Speicherinformationen einer Canon 650D, Nikon 5300 und Sony A77</figcaption>
+<figcaption>Screenshots von der Homepage der jeweiligen Hersteller über SD Karteninformationen einer Canon 650D, Nikon 5300 und Sony A77</figcaption>
 </figure>
 
 
@@ -74,7 +73,7 @@ Ein Bild im RAW Format ist im Durchschnitt etwa 20-30MB groß. Filmt man in 1080
 
 <figure>
 <img src="/images/bag1.jpg"/>
-<figcaption>Rückseite einer 16GB Speicherkarte von Sandisk</figcaption>
+<figcaption>Rückseite einer 8GB Speicherkarte von Sandisk</figcaption>
 </figure>
 
 
@@ -91,7 +90,7 @@ Alles über 32GB muss meiner Meinung nach nicht unbedingt sein.
 <figcaption>Mit Klettverschluss verstellbare Fächer und überziehbarer Regenschutz</figcaption>
 </figure>
 
-`Empfehlungen: Speicherkarten der Firma Sandisk kann ich guten Gewissens Empfehlen! Der Preis für eine 16GB Version mit eine Schreibgeschwindigkeit von 45MB/s, beläuft sich auf gerade einmal 15Euro. Wenn ihr auch Filmen möchtet, nehmt lieber gleich eine 32GB Karte für 25Euro`
+`Empfehlungen: Speicherkarten der Firma Sandisk kann ich guten Gewissens Empfehlen. Der Preis für eine 16GB Version mit eine Schreibgeschwindigkeit von 45MB/s, beläuft sich auf gerade einmal 15Euro. Wenn ihr auch filmen möchtet, nehmt lieber gleich eine 32GB Karte für rund 25Euro`
 
 
 
