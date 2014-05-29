@@ -46,11 +46,11 @@ UHS II: minimale Schreibgeschwindikeit ist 156MB/s
 <figure class="half">
 	<img src="/images/sd4.jpg">
 	<img src="/images/sd2.jpg">
-	<figcaption>Speicherkarten ohne und mit Class10/UHS I Zertifikat</figcaption>
+	<figcaption>Speicherkarten mit Class4 und Class10/UHS I Zertifikat</figcaption>
 </figure>
 
 
-`Tipp: Filmt ihr gern? Dann sollte eure Karte mindestens Class4 oder höher entsprechen! Aber aufgepast: Class4 Karten sind nicht immer Class4 Karten! Sobald es bei der Wiedergabe eines aufgenommenden Videos ruckeln sollte, könnte es sich um eine minderwertige (Class4) Karte handeln! Greift deshalb lieber gleich zu höhren Karten!`
+> Tipp: Filmt ihr gern? Dann sollte eure Karte mindestens Class4 oder höher entsprechen! Aber aufgepast: Class4 Karten sind nicht immer Class4 Karten! Sobald es bei der Wiedergabe eines aufgenommenden Videos ruckeln sollte, könnte es sich um eine minderwertige (Class4) Karte handeln! Greift deshalb lieber gleich zu höhren Karten!
 
 ###<u>SDHC oder SDXC?</u>
 
@@ -65,7 +65,7 @@ SDHC Karten hingegen haben Kapaziäten von 4 bis max. 32GB!
 >      informationen zum unterschützten Kartentyp SDHC und SDXC.
 <figure>
 <img src="/images/sd1.jpg"/>
-<figcaption>Handbuch Infomationen einer Nikon 5200</figcaption>
+<figcaption>Handbuch Informationen einer Nikon 5200</figcaption>
 </figure>
 
 
@@ -73,12 +73,18 @@ SDHC Karten hingegen haben Kapaziäten von 4 bis max. 32GB!
 Nicht alle Hersteller geben auf der Vorderseite ihrer Verpackung oder der Karte selber alle wichtigen Daten an. Sie Blenden den Käufer mit hoher Speicherkapatzität und einem niedrigen Preis! Abhilfe sollte hier die Rückseite der Verpackung geben.
 Uns interessiert in erster Linie die Schreibgeschwindigkeit!
 
+<figure class="half">
+	<img src="/images/sd5.jpg">
+	<img src="/images/sd6.jpg">
+	<figcaption>Infos die eher Blenden als Helfen!</figcaption>
+</figure>
+
+Ein Bild im RAW Format ist im Durchschnitt etwa 20-30MB groß. Filmt man in 1080p (FullHD), benötigt man ca. 4MB/s, was einer Class4 Karte entspricht. Eine Kamera hat zwar einen Buffer und speichert Bilder/Filme zwischen, kommt besonders bei Serienaufnahmen schnell an ihre Grenzen.
+
 <figure>
 <img src="/images/sd3.jpg"/>
 <figcaption>Vorder und Rückseite einer 8GB Speicherkarte von Sandisk</figcaption>
 </figure>
-
-Ein Bild im RAW Format ist im Durchschnitt etwa 20-30MB groß. Filmt man in 1080p (FullHD), benötigt man ca. 4MB/s, was einer Class4 Karte entspricht. Eine Kamera hat zwar einen Buffer und speichert Bilder/Filme zwischen, kommt besonders bei Serienaufnahmen schnell an ihre Grenzen.
 
 
 ###<u>Die richtige Größe finden:</u>
@@ -89,12 +95,12 @@ Fotografiert ihr nur wenig und Videos interessieren euch gar nicht, reicht euch 
 
 Alles über 32GB muss meiner Meinung nach nicht unbedingt sein. 
 
+> Empfehlungen: Speicherkarten der Firma Sandisk kann ich guten Gewissens Empfehlen. Der Preis für eine 16GB Version mit eine Schreibgeschwindigkeit von 45MB/s, beläuft sich auf gerade einmal 15Euro. Wenn ihr auch filmen möchtet, nehmt lieber gleich eine 32GB Karte für rund 25Euro.
+
 <figure>
-<img src="/images/bag1.jpg"/>
+<img src="/images/sd7.jpg"/>
 <figcaption>Mit Klettverschluss verstellbare Fächer und überziehbarer Regenschutz</figcaption>
 </figure>
-
-`Empfehlungen: Speicherkarten der Firma Sandisk kann ich guten Gewissens Empfehlen. Der Preis für eine 16GB Version mit eine Schreibgeschwindigkeit von 45MB/s, beläuft sich auf gerade einmal 15Euro. Wenn ihr auch filmen möchtet, nehmt lieber gleich eine 32GB Karte für rund 25Euro`
 
 
 
