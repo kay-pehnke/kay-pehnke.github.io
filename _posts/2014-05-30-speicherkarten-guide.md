@@ -44,7 +44,7 @@ UHS I: minimale Schreibgeschwindikeit ist 50MB/s
 UHS II: minimale Schreibgeschwindikeit ist 156MB/s
 
 <figure>
-<img src="/images/bag1.jpg"/>
+<img src="/images/sd2.jpg"/>
 <figcaption>Speicherkarte mit Class10/UHS I Zertifikat</figcaption>
 </figure>
 
@@ -60,20 +60,20 @@ SDHC Karten hingegen haben Kapaziäten von 4 bis max. 32GB!
 `Tipp: Wenn ihr euch unsicher seit, schaut in eurem Handbuch oder auf der Homepage eures Kameraherstellers nach, hier gibt es informationen zum unterschützten Kartentyp SDHC und SDXC.`
 
 <figure>
-<img src="/images/bag1.jpg"/>
+<img src="/images/sd1.jpg"/>
 <figcaption>Screenshots von der Homepage der jeweiligen Hersteller über SD Karteninformationen einer Canon 650D, Nikon 5300 und Sony A77</figcaption>
 </figure>
 
 
 ###<u>Geschwindigkeiten:</u>
-Einige Hersteller geben hier ihre Lese-, die anderen die Schreibgeschwindigkeit in MB an. Rausfinden kann man das meist nur auf der Rückseite der Verpackung. Während Sandisk hier die Schreibgeschwindigkeit angibt, ziehen Sony oder Hama hier die Lesegeschwindigkeit heran (Erfahrungswerte).
+Nicht alle Hersteller geben auf der Vorderseite ihrer Verpackung oder der Karte selber alle wichtigen Daten. Sie Blenden den Käufer mit hoher Speicherkapatzität und einem niedrigen Preis! Abhilfe sollte hier die Rückseite der Verpackung geben.
 Uns interessiert in erster Linie die Schreibgeschwindigkeit!
 
 Ein Bild im RAW Format ist im Durchschnitt etwa 20-30MB groß. Filmt man in 1080p (FullHD), benötigt man ca. 4MB/s, was einer Class4 Karte entspricht. Eine Kamera hat zwar einen Buffer und speichert Bilder/Filme zwischen, kommt besonders bei Serienaufnahmen schnell an ihre Grenzen.
 
 <figure>
-<img src="/images/bag1.jpg"/>
-<figcaption>Rückseite einer 8GB Speicherkarte von Sandisk</figcaption>
+<img src="/images/sd3.jpg"/>
+<figcaption>Vorder und Rückseite einer 16GB Speicherkarte von Sandisk</figcaption>
 </figure>
 
 
