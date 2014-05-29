@@ -64,7 +64,7 @@ SDHC Karten hingegen haben Kapaziäten von 4 bis max. 32GB!
 
 <figure>
 <img src="/images/sd1.jpg"/>
-<figcaption>SD Karteninformationen einer Canon 650D und Nikon 5300 aus dem beiligendem Handbuch</figcaption>
+<figcaption>Handbuch Infomationen einer Nikon 5200</figcaption>
 </figure>
 
 
