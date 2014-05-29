@@ -57,11 +57,14 @@ Sie haben eine Speicherkapazität von 48 bis theoretischen 2048 Gigabyte (GB). M
 SDHC Karten hingegen haben Kapaziäten von 4 bis max. 32GB!
 
 
-`Tipp: Wenn ihr euch unsicher seit, schaut in eurem Handbuch oder auf der Homepage eures Kameraherstellers nach, hier gibt es informationen zum unterschützten Kartentyp SDHC und SDXC.`
+    Tipp: 
+     Wenn ihr euch unsicher seit, schaut in eurem Handbuch oder 
+     auf der Homepage eures Kameraherstellers nach, hier gibt es 
+     informationen zum unterschützten Kartentyp SDHC und SDXC.
 
 <figure>
 <img src="/images/sd1.jpg"/>
-<figcaption>Screenshots von der Homepage der jeweiligen Hersteller über SD Karteninformationen einer Canon 650D, Nikon 5300 und Sony A77</figcaption>
+<figcaption>SD Karteninformationen einer Canon 650D und Nikon 5300 aus dem beiligendem Handbuch</figcaption>
 </figure>
 
 
