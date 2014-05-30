@@ -100,14 +100,11 @@ Alles über 32GB muss meiner Meinung nach nicht unbedingt sein.
 	<img src="/images/sd8.jpg">
 	<figcaption>Natürlich gibt es auch Speicherkarten die höhere Schreibgeschwindigkeiten verfügen.</figcaption>
 </figure>
-
-
-
-
-
-
-
+ 
   
+
+
+    
 
 
 
