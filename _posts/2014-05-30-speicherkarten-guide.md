@@ -93,12 +93,12 @@ Fotografiert ihr nur wenig und Videos interessieren euch gar nicht, reicht euch 
 
 Alles über 32GB muss meiner Meinung nach nicht unbedingt sein. 
 
-##### Empfehlungen: Speicherkarten der Firma Sandisk kann ich guten Gewissens Empfehlen. Der Preis für eine 16GB Version mit eine Schreibgeschwindigkeit von 45MB/s, beläuft sich auf gerade einmal 15Euro. Wenn ihr auch filmen möchtet, nehmt lieber gleich eine 32GB Karte für rund 25Euro.
+##### Empfehlungen: Speicherkarten der Firma Sandisk kann ich guten Gewissens Empfehlen. Der Preis für eine 16GB Version mit eine Schreibgeschwindigkeit von 45MB/s, beläuft sich auf gerade einmal 15Euro. Wenn ihr auch filmen möchtet, nehmt lieber gleich eine 32GB Karte für rund 25Euro. Wenn jemand von euch gleich Karten mit 80 oder 90MB/s Spreibgeschwindigkeiten nutze möchte, kann er dies natürlich auch tun. Ein Geschwindgeitszuwachs muss man allerdings nicht unbedingt erwarten, ältere Kamera Modelle haben hier oft ein nachsehen.
 
 <figure class="half">
 	<img src="/images/sd7.jpg">
 	<img src="/images/sd8.jpg">
-	<figcaption>Natürlich gibt es auch Speicherkarten die höhere Schreibgeschwindigkeiten verfügen.</figcaption>
+	<figcaption>Sandisk beitet ein gutes Preis/Leistungsverhältnis</figcaption>
 </figure>
  
   
