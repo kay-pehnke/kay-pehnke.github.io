@@ -68,13 +68,13 @@ SDHC Karten hingegen haben Kapaziäten von 4 bis max. 32GB!
 
 
 ###<u>Geschwindigkeiten:</u>
-Nicht alle Hersteller geben auf der Vorderseite ihrer Verpackung oder der Karte selber alle wichtigen Daten an. Sie Blenden den Käufer mit hoher Speicherkapatzität und einem niedrigen Preis! Abhilfe sollte hier die Rückseite der Verpackung geben.
+Nicht alle Hersteller geben auf der Vorderseite ihrer Verpackung oder der Karte selber alle wichtigen Daten an. Sie Blenden den Käufer mit hohen Speicherkapatzitäten und einem niedrigen Preis! Abhilfe sollte hier die Rückseite der Verpackung geben.
 Uns interessiert in erster Linie die Schreibgeschwindigkeit!
 
 <figure class="half">
 	<img src="/images/sd5.jpg">
 	<img src="/images/sd6.jpg">
-	<figcaption>Infos die eher Blenden als Helfen!</figcaption>
+	<figcaption>Speicherkarten von Transcend und SaveTEC Blenden eher als Helfen!</figcaption>
 </figure>
 
 <figure>
