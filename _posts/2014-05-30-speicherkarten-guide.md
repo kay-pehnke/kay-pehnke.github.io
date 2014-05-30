@@ -68,8 +68,7 @@ SDHC Karten hingegen haben Kapaziäten von 4 bis max. 32GB!
 
 
 ###<u>Geschwindigkeiten:</u>
-Nicht alle Hersteller geben auf der Vorderseite ihrer Verpackung oder der Karte selber alle wichtigen Daten an. Sie Blenden den Käufer mit hohen Speicherkapatzitäten und einem niedrigen Preis. Aufschlussreich ist die Rückseite der Verpackung!
-Uns interessiert in erster Linie die Schreibgeschwindigkeit!
+Nicht alle Hersteller geben auf der Vorderseite ihrer Verpackung oder der Karte selber alle wichtigen Daten an. Sie Blenden den Käufer mit hohen Speicherkapatzitäten und niedrigen Preisen. Aufschlussreich für uns ist die Rückseite der Verpackung!
 
 <figure class="half">
 	<img src="/images/sd5.jpg">
@@ -79,7 +78,7 @@ Uns interessiert in erster Linie die Schreibgeschwindigkeit!
 
 <figure>
 <img src="/images/sd3.jpg"/>
-<figcaption>Vorder und Rückseite einer 8GB Speicherkarte von Sandisk</figcaption>
+<figcaption>Achtet in erster Linie auf die Schreibgeschwindigkeit!</figcaption>
 </figure>
 
 Ein Bild im RAW Format ist im Durchschnitt etwa 20-30MB groß. Filmt man in 1080p (FullHD), benötigt man ca. 4MB/s, was einer Class4 Karte entspricht. Eine Kamera hat zwar einen Buffer und speichert Bilder/Filme zwischen, kommt besonders bei Serienaufnahmen schnell an ihre Grenzen.
