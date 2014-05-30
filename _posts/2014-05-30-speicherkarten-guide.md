@@ -50,7 +50,7 @@ UHS I: minimale Schreibgeschwindikeit ist 50MB/s
 UHS II: minimale Schreibgeschwindikeit ist 156MB/s
 
 
-###### Tipp: Filmt ihr gern? Dann sollte eure Karte mindestens Class4 oder höher entsprechen! Aber aufgepast: Class4 Karten sind nicht immer Class4 Karten! Sobald es bei der Wiedergabe eines aufgenommenden Videos ruckeln sollte, könnte es sich um eine minderwertige (Class4) Karte handeln! Greift deshalb lieber gleich zu höhren Karten!
+##### Tipp: Filmt ihr gern? Dann sollte eure Karte mindestens Class4 oder höher entsprechen! Aber aufgepast: Class4 Karten sind nicht immer Class4 Karten! Sobald es bei der Wiedergabe eines aufgenommenden Videos ruckeln sollte, könnte es sich um eine minderwertige (Class4) Karte handeln! Greift deshalb lieber gleich zu höhren Karten!
 
 ###<u>SDHC oder SDXC?</u>
 
@@ -59,7 +59,7 @@ Sie haben eine Speicherkapazität von 48 bis theoretischen 2048 Gigabyte (GB). M
 SDHC Karten hingegen haben Kapaziäten von 4 bis max. 32GB!
 
 
-###### Tipp: Wenn ihr euch unsicher seit, schaut in eurem Handbuch oder auf der Homepage eures Kameraherstellers nach, hier gibt es informationen zum unterschützten Kartentyp SDHC und SDXC.
+##### Tipp: Wenn ihr euch unsicher seit, schaut in eurem Handbuch oder auf der Homepage eures Kameraherstellers nach, hier gibt es informationen zum unterschützten Kartentyp SDHC und SDXC.
 
 <figure>
 <img src="/images/sd1.jpg"/>
@@ -93,7 +93,7 @@ Fotografiert ihr nur wenig und Videos interessieren euch gar nicht, reicht euch 
 
 Alles über 32GB muss meiner Meinung nach nicht unbedingt sein. 
 
-###### Empfehlungen: Speicherkarten der Firma Sandisk kann ich guten Gewissens Empfehlen. Der Preis für eine 16GB Version mit eine Schreibgeschwindigkeit von 45MB/s, beläuft sich auf gerade einmal 15Euro. Wenn ihr auch filmen möchtet, nehmt lieber gleich eine 32GB Karte für rund 25Euro.
+##### Empfehlungen: Speicherkarten der Firma Sandisk kann ich guten Gewissens Empfehlen. Der Preis für eine 16GB Version mit eine Schreibgeschwindigkeit von 45MB/s, beläuft sich auf gerade einmal 15Euro. Wenn ihr auch filmen möchtet, nehmt lieber gleich eine 32GB Karte für rund 25Euro.
 
 <figure class="half">
 	<img src="/images/sd7.jpg">
