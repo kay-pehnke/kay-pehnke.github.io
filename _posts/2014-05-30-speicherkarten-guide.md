@@ -59,7 +59,7 @@ Sie haben eine Speicherkapazität von 48 bis theoretischen 2048 Gigabyte (GB). M
 SDHC Karten hingegen haben Kapaziäten von 4 bis max. 32GB!
 
 
-##### Tipp: Wenn ihr euch unsicher seit, schaut in eurem Handbuch oder auf der Homepage eures Kameraherstellers nach, hier gibt es informationen zum unterschützten Kartentyp SDHC und SDXC.
+##### Tipp: Wenn ihr euch unsicher seit, schaut in eurem Handbuch oder auf der Homepage eures Kameraherstellers nach, hier gibt es informationen zum unterschützten Kartentyp SDHC und SDXC wie im unterem Bild zu sehen.
 
 <figure>
 <img src="/images/sd1.jpg"/>
