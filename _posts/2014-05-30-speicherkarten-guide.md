@@ -46,8 +46,8 @@ Der technische Fortschritt bleibt natürlich auch hier nicht aus und siehe da, e
 
 Die neue und weitere Bezeichnung die man daher finden kann ist: UHS (Ultra High Speed). Diese ist als “I„, "II„  oder auch "U„ (mit eingeschlossender Zahl) auf den Speicherkarten gedruckt und sagt Folgedes aus:
 
-UHS I: minimale Schreibgeschwindikeit ist 50MB/s
-UHS II: minimale Schreibgeschwindikeit ist 156MB/s
+* UHS I: minimale Schreibgeschwindikeit ist 50MB/s
+* UHS II: minimale Schreibgeschwindikeit ist 156MB/s
 
 
 ##### Tipp: Filmt ihr gern? Dann sollte eure Karte mindestens Class4 oder höher entsprechen! Aber aufgepast: Class4 Karten sind nicht immer Class4 Karten! Sobald es bei der Wiedergabe eines aufgenommenden Videos ruckeln sollte, könnte es sich um eine minderwertige (Class4) Karte handeln! Greift deshalb lieber gleich zu höhren Karten!
