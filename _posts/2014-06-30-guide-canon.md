@@ -1,6 +1,6 @@
 ---
 layout: offer
-title: "Tipp: Speicherkarten"
+title: "Abkürzungen auf Objektiven: Canon"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
@@ -18,9 +18,42 @@ published: false
 
 
 
-*4... 8... 16... 32... 64... 128GB - welche Karte soll ich nur nehmen? 
-Diese Frage ist gar nicht so leicht zu beantworten! 
-Nachstehend ein paar Tipps:* 
+*Wer sich schon öfters die Frage gestellt hat, was bedeutet diese und jene Abkürzung auf meinem Objektiv, hier findet ihr Antworten...* 
+ 
+  
+
+
+    
+
+
+
+* AF 		- 		Autofokus
+* AL		-		Aspherical Lens
+
+
+
+
+
+
+* EF		-		Electronic Focusing
+
+
+
+* Float		-		Automatischer Korrekturausgleich in Grenzbereichen eines Zoom-Objektives
+* FT-M		-		Fokussierung jederzeit maunell möglich
+
+
+
+
+* I/R			-		Internal/Rear Focusing, Innenfokussierung an den hinteren Linsengruppen
+
+
+
+
+
+
+
+
  
   
 
@@ -40,4 +73,3 @@ Nachstehend ein paar Tipps:*
 
 
 
-> Bei weiteren Fragen stehe ich gern zu Verfügung, meldet euch einfach :)
