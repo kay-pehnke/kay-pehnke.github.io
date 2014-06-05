@@ -8,7 +8,7 @@ image:
   feature: cog.jpg
 comments: true
 share: false
-published: false
+published: true
 ---
  
   
@@ -31,7 +31,7 @@ published: false
 
 
 | Abkürzung | | | Bezeichnung | | | Erklärung | 
-| :------ |:------ | :------ | :------ | :------ | :------ |:------ |
+| :-------- |:-------- | :-------- | :-------- | :-------- | :-------- |:-------- |
 | II, III | | |Nummer/"Mark"| | |Bezeichnet die zweite oder dritte Generation eines Objektivs. 	   ||
 | |  |  ||
 | AFD | | |Arc Form Drive | | | Objektive ohne USM Motor der EF und EF-S Modellreihe verfügen über einen gewöhnlichen Motor. Einer dieser "gewöhnlichen" Antriebsarten ist der AFD. Dieser ist in der Regel recht laut und ggf auch etwas langsamer.	   ||
