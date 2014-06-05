@@ -33,8 +33,9 @@ published: false
 <figure class="half">
 	<img src="/images/cog2.jpg">
 	<img src="/images/cog3.jpg">
-	<figcaption>Speicherkarten mit Class4 und Class10/UHS I Zertifikat</figcaption>
+	<figcaption>Als EF (Eletronic Fokus) bezeichnet man den Anschluss für die Kamera, wobei das S für Short back focus steht, welches speziell für APS-C (Sensor) Kameras gebaut wurde. 10-22mm gibt hingegen die kleinste und längste Brennweite an, sowie 1:3.5 - 4.5 die Lichtstärke dieses Weitwinkelzooms angibt. Die Bezeichnung USM oder Ultrasonic steht für Ultrasonic Motor, welcher schnell und leise fokusiert.</figcaption>
 </figure>
+  
 
  
   
@@ -56,11 +57,11 @@ published: false
 | |  |  ||
 | AF | | |Auto Focus | | |Die Kamera stellt auf die/den ausgewählten Fokuspunkt automatisch scharf. 	   ||
 | |  |  ||
-| EF | | |Electronic Focus | | |EF werden Objektive bezeichnet die für Vollformat entwickelt wurden, funktonieren aber an allen EOS-Kameras. Sie sind mit einem Roten Quadrat am Objektivbajonett gekennzeichnet.	   ||
+| EF | | |Electronic Focus | | |EF werden Objektive bezeichnet die für Vollformat entwickelt wurden, funktonieren aber an allen EOS-Kameras. Sie sind mit einem Roten Quadrat an Kamera und Objektivbajonett gekennzeichnet.	   ||
 | |  |  ||
 | EF-M | | |Mirrorless | | |Speziell für die Canon M konzenpierte Objektive die besonders Kompakt und klein sind. 	   ||
 | |  |  ||
-| EF-S | | |Short back focus | | |Objektive die speziell für Kameras für den kleineren APS-C Sensor gebaut wurden, wie die EOS 7D, EOS 70D, EOS 60D, EOS 60Da, EOS 50D, EOS 40D, EOS 30D, EOS 20D, EOS 100D, EOS 700D, EOS 650D, EOS 600D, EOS 550D, EOS 500D, EOS 450D, EOS 400D, EOS 350D, EOS 300D, EOS 1200D, EOS 1100D, and EOS 1000D. EF-S Objektive funktonieren allerdings nicht an reinen EF-Kameras. Sie sind mit einem weißem Quadrat am Objektivbajonett gekennzeichnet. ||
+| EF-S | | |Short back focus | | |Objektive die speziell für Kameras mit dem kleineren APS-C Sensor gebaut wurden, wie die EOS 7D, EOS 70D, EOS 60D, EOS 60Da, EOS 50D, EOS 40D, EOS 30D, EOS 20D, EOS 100D, EOS 700D, EOS 650D, EOS 600D, EOS 550D, EOS 500D, EOS 450D, EOS 400D, EOS 350D, EOS 300D, EOS 1200D, EOS 1100D, and EOS 1000D. EF-S Objektive funktonieren allerdings nicht an reinen EF-Kameras. Sie sind mit einem weißem Quadrat an Kamera und Objektivbajonett gekennzeichnet. ||
 | |  |  ||
 | FT-M | | |FullTime Manuall Focusing | | |Ermöglicht es trotz aktiviertem Autofokus eine manuelle Fokussierung vorzunehmen.  	   ||
 | |  |  ||
@@ -98,7 +99,7 @@ published: false
 
 
 
-> Hast du einen Fehler gefunden oder fehlt eine Abkürzung? Dann schreibe sie in die Kommentare :)
+> Fehlt eine Abkürzung oder ist eine Bezeichnung falsch? Dann melde dich und schreibe sie in die Kommentare :)
 
 
 
