@@ -32,6 +32,22 @@ published: true
 
 
 
+<figure class="half">
+	<img src="/images/cog2.jpg">
+	<img src="/images/cog3.jpg">
+	<figcaption>Speicherkarten mit Class4 und Class10/UHS I Zertifikat</figcaption>
+</figure>
+
+ 
+  
+
+
+    
+
+
+
+
+
 | Abkürzung | | | Bezeichnung | | | Erklärung | 
 | :-------- |:-------- | :-------- | :-------- | :-------- | :-------- |:-------- |
 | II, III | | |Nummer/"Mark"| | |Bezeichnet die zweite oder dritte Generation eines Objektivs. 	   ||
