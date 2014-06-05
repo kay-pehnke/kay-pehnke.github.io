@@ -6,7 +6,7 @@ category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
 image:
   feature: cog.jpg
-  credit: canon
+  credit: Canon
   creditlink: http://www.canon.com
 comments: true
 share: false
