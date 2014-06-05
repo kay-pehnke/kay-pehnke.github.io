@@ -10,7 +10,7 @@ image:
   creditlink: http://www.canon.com
 comments: true
 share: false
-published: false
+published: true
 ---
  
   
