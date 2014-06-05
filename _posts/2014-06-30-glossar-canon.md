@@ -30,7 +30,7 @@ published: true
 
 
 
-| Abkürzung | | | Bezeichnung | | | Erklärung.................| 
+| Abkürzung | | | Bezeichnung | | | Erklärung | 
 | :-------- |:-------- | :-------- | :-------- | :-------- | :-------- |:-------- |
 | II, III | | |Nummer/"Mark"| | |Bezeichnet die zweite oder dritte Generation eines Objektivs. 	   ||
 | |  |  ||
