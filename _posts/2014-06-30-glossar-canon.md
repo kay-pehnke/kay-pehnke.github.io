@@ -1,6 +1,6 @@
 ---
 layout: offer
-title: "Abkürzungen auf Objektiven: Canon"
+title: "Bezeichnungen auf Objektiven: Canon"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
@@ -8,7 +8,7 @@ image:
   feature: cog.jpg
 comments: true
 share: false
-published: false
+published: true
 ---
  
   
