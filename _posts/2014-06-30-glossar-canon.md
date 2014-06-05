@@ -5,7 +5,7 @@ description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
 image:
-  feature: sd9.jpg
+  feature: cog.jpg
 comments: true
 share: false
 published: false
@@ -18,7 +18,7 @@ published: false
 
 
 
-*Wer sich schon öfters fragte was die Abkürzung auf den Objektiven von Canon Bedeuten, folgend die Antworten...* 
+*Wer sich schon öfters fragte was die Abkürzung auf den Objektiven von Canon bedeuten, hier die Antworten...* 
  
   
 
@@ -37,8 +37,8 @@ published: false
 | AL | Aspherical Lens | Objektiv mit aspärische(r) Linse(n) zur Optimierung der Bildqualität. Korrigiert zb.: Verzerrungen bei Superweitwinkelobjektiven mit großen Blenden. Weitere Bezeichnungen sind AS und ASPH.   ||
 | AF | Auto Focus | Die Kamera stellt auf die/den ausgewählten Fokuspunkt automatisch scharf. 	   ||
 | EF | Electronic Focus | EF werden Objektive bezeichnet die für Vollformat entwickelt wurden, funktonieren aber an allen EOS-Kameras. Sie sind mit einem Roten Quadrat am Objektivbajonett gekennzeichnet.	   ||
-| EF-S | Short back focus | Objektive die speziell für Kameras für den kleineren APS-C Sensor gebaut wurden, wie die EOS 7D, EOS 70D, EOS 60D, EOS 60Da, EOS 50D, EOS 40D, EOS 30D, EOS 20D, EOS 100D, EOS 700D, EOS 650D, EOS 600D, EOS 550D, EOS 500D, EOS 450D, EOS 400D, EOS 350D, EOS 300D, EOS 1200D, EOS 1100D, and EOS 1000D. EF-S Objektive funktonieren allerdings nicht an reinen EF-Kameras. Sie sind mit einem weißem Quadrat am Objektivbajonett gekennzeichnet. ||
 | EF-M | Mirrorless | Speziell für die Canon M konzenpierte Objektive die besonders Kompakt und klein sind. 	   ||
+| EF-S | Short back focus | Objektive die speziell für Kameras für den kleineren APS-C Sensor gebaut wurden, wie die EOS 7D, EOS 70D, EOS 60D, EOS 60Da, EOS 50D, EOS 40D, EOS 30D, EOS 20D, EOS 100D, EOS 700D, EOS 650D, EOS 600D, EOS 550D, EOS 500D, EOS 450D, EOS 400D, EOS 350D, EOS 300D, EOS 1200D, EOS 1100D, and EOS 1000D. EF-S Objektive funktonieren allerdings nicht an reinen EF-Kameras. Sie sind mit einem weißem Quadrat am Objektivbajonett gekennzeichnet. ||
 | FT-M | FullTime Manuall Focusing | Ermöglicht es trotz aktiviertem Autofokus eine manuelle Fokussierung vorzunehmen.  	   ||
 | DO | Diffractive Optics | Stehen für eine kompaktere und leichtere Bauweise bei Zoomobjektiven dank gebeugten Optiken und sollen Farbfehler korrigieren. DO-Objektive sind mit einem grünen Ring an der Vorderseite des Objektives gekennzeichnet.  	   ||
 | DW-R | Dust & Water Resistant | Objektive mit dieser Bezeichnung sind Staub und Wasserdicht.
