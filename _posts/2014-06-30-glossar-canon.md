@@ -9,7 +9,7 @@ image:
   credit: canon
 comments: true
 share: false
-published: false
+published: true
 ---
  
   
