@@ -45,13 +45,15 @@ Bild: Objektivausschnitt mit variablen Blende
 Bild: objektivauschnitt eines Zoomobjektives
 
 
-Die Bezeichnung "f„ heißt hingegen
- ..... (Englische Bezeichnung) und steht für 
-Blende. 
-Je größer die Blende, des so kleiner die Zahl
- (zB.: f/1.8).
+
+
+Der Blendenwert hinter dem "f" (für Fokus)
+steht für die maximal mögliche Blendenöffnung. 
 
 Bild: Ausschnitt "f" mit 1.8 Objekriv
+
+Je größer die Blende, des so kleiner die Zahl
+ (zB.: f/1.8).
 
 
 
@@ -68,8 +70,8 @@ Zahl gibt auch hier die Lichtstärke ab
 Offenblende, die größere die bei längster 
 Brennweite. 
 
-Bild: Offene Blende = kleinste Zahl eines Objektives
-Und große Zahl für längste Brennweite. 
+Bild: Je größer die Blende, des so kleiner die Zahl
+ (zB.: f/1.8) = offen Blende.
 Bild: Zoom objektiv ausschnitt mit Zoombereich
 ZB: 70-300
 

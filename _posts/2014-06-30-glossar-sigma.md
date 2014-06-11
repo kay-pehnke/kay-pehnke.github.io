@@ -34,18 +34,20 @@ published: false
 | :-------- |:-------- | :-------- | :-------- | :-------- | :-------- |:-------- |
 | II, III | | |Nummer/"Mark"| | |Bezeichnet die zweite oder dritte Generation eines Objektivs. 	   ||
 | |  |  ||
-| AFD | | |Arc Form Drive | | | Objektive ohne USM Motor der EF und EF-S Modellreihe verfügen über einen gewöhnlichen Motor. Einer dieser "gewöhnlichen" Antriebsarten ist der AFD. Dieser ist in der Regel recht laut und ggf auch etwas langsamer.	   ||
+| ASP | | |Aspherical Lens | | | Asphärische Linsen: Bessere Randschärfe, Reduzierung der Verzeichnung.	   ||
 | |  |  ||
-| AL | | |Aspherical Lens | | |Objektiv mit aspärische(r) Linse(n) zur Optimierung der Bildqualität. Korrigiert zb.: Verzerrungen bei Superweitwinkelobjektiven mit großen Blenden. Weitere Bezeichnungen sind AS und ASPH.   ||
+| APO | | |Apochromatic | | |Dieses Objektiv verwendet Linsen, die besonders wenige Farbfehler erzeugen.   ||
 | |  |  ||
-| AF | | |Auto Focus | | |Die Kamera stellt auf die/den ausgewählten Fokuspunkt automatisch scharf. 	   ||
+| DC | | |Digital Calculated | | |Optimiert für APS-C-Kameras mit kleinerem Bildkreis als das Vollformat (Vergleichbar mit den EF-S Objektiven von Canon). || 
 | |  |  ||
-| EF | | |Electronic Focus | | |EF werden Objektive bezeichnet die für Vollformat entwickelt wurden, funktonieren aber an allen EOS-Kameras. Sie sind mit einem Roten Quadrat am Objektivbajonett gekennzeichnet.	   ||
+| DG | | |Digital Grade | | |DG Objektive sind speziell für den Vollformatsensor optimierte (Vergleichbar mit den EF Objektiven von Canon, die auch an APS-C Kameras funktionieren).	   ||
 | |  |  ||
-| EF-M | | |Mirrorless | | |Speziell für die Canon M konzenpierte Objektive die besonders Kompakt und klein sind. 	   ||
+| DF | | |Dual Focus | | |Beim AF stillstehender Fokussierring. 	   ||
 | |  |  ||
-| EF-S | | |Short back focus | | |Objektive die speziell für Kameras für den kleineren APS-C Sensor gebaut wurden, wie die EOS 7D, EOS 70D, EOS 60D, EOS 60Da, EOS 50D, EOS 40D, EOS 30D, EOS 20D, EOS 100D, EOS 700D, EOS 650D, EOS 600D, EOS 550D, EOS 500D, EOS 450D, EOS 400D, EOS 350D, EOS 300D, EOS 1200D, EOS 1100D, and EOS 1000D. EF-S Objektive funktonieren allerdings nicht an reinen EF-Kameras. Sie sind mit einem weißem Quadrat am Objektivbajonett gekennzeichnet. ||
+| DN| | |- | | |Mit "DN" kennzeichnet Sigma Hochleistungsobjektive, die speziell für Systemkameras mit Sony-E-Bajonett oder Kameras mit Micro-FourThirds-Anschluss konstruiert sind.  ||
 | |  |  ||
+
+
 | FT-M | | |FullTime Manuall Focusing | | |Ermöglicht es trotz aktiviertem Autofokus eine manuelle Fokussierung vorzunehmen.  	   ||
 | |  |  ||
 | DO | | |Diffractive Optics | | |Stehen für eine kompaktere und leichtere Bauweise bei Zoomobjektiven dank gebeugten Optiken und sollen Farbfehler korrigieren. DO-Objektive sind mit einem grünen Ring an der Vorderseite des Objektives gekennzeichnet.  	   ||
