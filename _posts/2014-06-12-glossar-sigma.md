@@ -1,6 +1,6 @@
 ---
 layout: offer
-title: "Bezeichnungen auf Objektiven: Sigma"
+title: "Objektive: Sigma Bezeichnungen"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]

@@ -1,6 +1,6 @@
 ---
 layout: offer
-title: "Bezeichnungen auf Objektiven: Canon"
+title: "Objektive: Canon Bezeichnungen"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
