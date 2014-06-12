@@ -5,7 +5,7 @@ description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
 image:
-  feature: cog.jpg
+  feature: sigma.jpg
 comments: true
 share: false
 published: false
@@ -31,9 +31,9 @@ published: false
 
 
 <figure class="half">
-	<img src="/images/cog2.jpg">
-	<img src="/images/cog3.jpg">
-	<figcaption>Als EF (Eletronic Fokus) bezeichnet man den Anschluss für die Kamera, wobei das »S« für Short back focus steht, welches speziell für APS-C (Sensor) Kameras gebaut wurde. 10-22mm gibt hingegen die kleinste und längste Brennweite dieses Objektives an. 1:3.5-4.5 sagt etwas über die Lichtstärke dieses Weitwinkelzooms aus. Die Bezeichnung USM oder Ultrasonic steht für Ultrasonic Motor, welcher schnell und leise fokusiert.</figcaption>
+	<img src="/images/sog2.jpg">
+	<img src="/images/sog3.jpg">
+	<figcaption>Das DC (Digital Calculated) steht für ein Optimiertes Objektiv für APS-C (Sensor) Kameras, welches nicht an Vollformat DSLRs funktionieren wird. Als HSM (Hyper Sonic Motor) bezeichnet Sigma seine Ultraschallmotoren. 10-20mm gibt hingegen die kleinste und längste Brennweite dieses Objektives an. 1:3.5 gibt die Lichtstärke (Offenblende) dieses Weitwinkelzooms an.</figcaption>
 </figure>
   
 
@@ -59,6 +59,8 @@ published: false
 | |  |  ||
 | C | | |Contemporary | | | Die Contemporary-Produktlinie kombiniert hohe optische Qualität mit kompakter Bauweise und eignet sich für die unterschiedlichsten Anwendungen. Dazu gehören in der Regel alle Zoomobjektive von Standard bis hohem Tele mit Vergrösserungsfaktor. Durch Hilfe eines USB Docks kann man an dieser Produktlinie auch Firmwareupdates aufspielen, sowie Fokuspunkt und andere Parameter justieren und verändern.	   ||
 | |  |  ||
+| CA | | |Canon | | |Bajonett Anschlussbezeichnung für Canon DSLRs.    ||
+| |  |  ||
 | Conv. | | |Converter | | |Abkürzung für Telekonverter. Objektive mit dieser Bezeichnung können mit einem 1.4 oder 2.0 Telekonverter versehen werden um so die Brennweite zu erhöhen. || 
 | |  |  ||
 | DC | | |Digital Calculated | | |Optimiert für APS-C-Kameras mit kleinerem Bildkreis als das Vollformat (Vergleichbar mit den EF-S Objektiven von Canon). || 
@@ -79,11 +81,19 @@ published: false
 | |  |  ||
 | Macro | | | Macro | | | Diese Bezeichnung sagt aus das sie ein Objektiv ist für Nahaufnahmen geeignet. Bei Sigma bedeutet dies jedoch nicht automatisch, dass es einen maximalen Abbildungsmaßstab von 1:1 erreicht!	   ||
 | |  |  ||
+| NA | | |Nikon | | |Bajonett Anschlussbezeichnung für Nikon DSLRs.    ||
+| |  |  ||
 | OS | | |Optical Stabilizer | | |	Abkürzung für Sigmas Bildstabilisator. ||
+| |  |  ||
+| PA | | |Pentax | | |Bajonett Anschlussbezeichnung für Pentax DSLRs.    ||
 | |  |  ||
 | RF | | | Rear Focusing | | |Nutzt zum Fokussieren die hinteren Linsen. Diese werden bei Scharfstellung verschoben, was einen gleichmässigeren und schnelleren Autofokus zur Folge hat.	   ||
 | |  |  ||
 | S | | |Sport | | | Diese Objektive eigenen sich am besten für Action-Aufnahmen. Zu diesen gehören Tele, Telezoom, Supertele und Supertelezoom Objektive. Durch Hilfe eines USB Docks kann man an dieser Produktlinie auch Firmwareupdates aufspielen, sowie Fokuspunkt und andere Parameter justieren und verändern.	   ||
+| |  |  ||
+| SA | | |Sigma | | |Bajonett Anschlussbezeichnung für Sigma DSLRs.  ||
+| |  |  ||
+| SO | | |Sony | | |Bajonett Anschlussbezeichnung für Sony DSLRs.    ||
 | |  |  ||
 | SLD | | | Super Low Dispersion | | | Linsenelemente  vermindern chromatische Aberrationen, welches eine Optimierung von Bildqualität und Korrektur von Verzerrungen zur Folge hat (Vergleichbar mit Canon AL, AS oder ASPH Linsen).	   ||
 | |  |  ||
