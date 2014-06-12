@@ -33,7 +33,7 @@ published: true
 <figure class="half">
 	<img src="/images/cog2.jpg">
 	<img src="/images/cog3.jpg">
-	<figcaption>Als EF (Eletronic Fokus) bezeichnet man den Anschluss für die Kamera, wobei das »S« für Short back focus steht, welches speziell für APS-C (Sensor) Kameras gebaut wurde. 10-22mm gibt hingegen die kleinste und längste Brennweite dieses Objektives an. 1:3.5-4.5 sagt etwas über die Lichtstärke dieses Weitwinkelzooms aus. Die Bezeichnung USM oder Ultrasonic steht für Ultrasonic Motor, welcher schnell und leise fokusiert.</figcaption>
+	<figcaption>Als EF (Eletronic Fokus) bezeichnet man den Anschluss für die Kamera, wobei das »S« für Short back focus steht, welches speziell für APS-C (Sensor) Kameras gebaut wurde. 10-22mm gibt hingegen die kleinste und längste Brennweite dieses Objektives an. »1:3.5-4.5« sagt etwas über die Lichtstärke dieses Weitwinkelzooms aus. Die Bezeichnung USM oder Ultrasonic steht für Ultrasonic Motor, welcher schnell und leise fokusiert.</figcaption>
 </figure>
   
 

@@ -13,7 +13,7 @@ published: true
 
 *Bei Lichtstärke und Brennweite sind sich alle 
 Hersteller (im Gegensatz zu den Abkürzungen 
-auf Objektiven) einig. Wenn es »1:1.8« oder 1:4.5-5.6« heißt, ist es die Lichtstärke. 18-55mm oder 70-300mm bezeichnet die
+auf Objektiven) einig. Wenn es »1:1.8« oder 1:4.5-5.6« heißt, ist es die Lichtstärke. »18-55mm« oder »70-300mm« bezeichnet die
 Brennweite (Zoom) eines Objektivs.* 
  
   
@@ -30,7 +30,7 @@ Brennweite (Zoom) eines Objektivs.*
 <figcaption>Je größer die Blende, des so kleiner die Zahl (Canon 50mm f/1.8II)</figcaption>
 </figure>
 
-Bei festen Brennweiten ist es eindeutig, der Blendenwert hinter dem "f" (für Fokus) steht für die maximal mögliche Blendenöffnung.
+Bei festen Brennweiten ist es eindeutig, der Blendenwert hinter dem »f« (für Fokus) steht für die maximal mögliche Blendenöffnung.
 Einen zweiten Wert trifft man bei Zoomobjektiven an. Die kleinere 
 Zahl steht auch hier für die maximale Blendenöffnung, die größere für die der längster Brennweite (max.Zoom).
 
