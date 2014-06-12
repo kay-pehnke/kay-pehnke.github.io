@@ -99,8 +99,6 @@ published: true
 | |  |  ||
 | NIC/SIC| | |Super Integrated Coating| | | Mehrschichtvergütung von Linsen zur Verbesserung der Wiedergabeeigenschaften. Verminderung von Spiegelungen, Streulicht und Blendenreflexen.
 | |  |  ||
-| NIC/SIC| | |-| | | Mehrschichtvergütung von Linsen zur Verbesserung der Wiedergabeeigenschaften. Verminderung von Spiegelungen, Streulicht und Blendenreflexen.
-| |  |  ||
 | PC| | |Perspective Control| | | Bezeichnung für Tilt & Shift-Objektive.
 | |  |  ||
 | Reflex| | |Reflex Lens | | | Objektive die neben Linsen auch Spiegel enthalten. Dadurch ist eine leichte und kompakte Bauweise möglich. Feste Blendenöffnung und sehr charakteristische Unschärfekreise. Handelsübliche Bezeichnung für diese Objektive: Spiegeltele.
