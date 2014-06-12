@@ -31,7 +31,7 @@ published: true
 
 <figure>
 <img src="/images/nog1.jpg"/>
-<figcaption>Das »AF-S« (Autofocus Silent Wave Motor) ist ein Objektiv mit verbauten einem Silent Wave Fokussiermotor (und damit geeignet für Nikon-Kameras ohne Fokusmotor wie D60, D5000). »17-55mm« gibt hingegen die kleinste und längste Brennweite dieses Objektives an. »1:2.8«. »G« steht bei Nikon für Elektronische Blendensteuerung, sowie »ED« (Extra Low Dispersion) für geringere chromatische Aberrationen (spezielle Linsen). Den Abschluss macht »DX«, welches auf eine Objektiv für den kleineren APS-C Sensor hinweist..</figcaption>
+<figcaption>»AF-S« (Autofocus Silent Wave Motor) ist ein Objektiv mit verbauten Silent Wave Fokussiermotor (und damit geeignet für Nikon-Kameras ohne Fokusmotor wie D60, D5000). »17-55mm« gibt hingegen die kleinste und längste Brennweite dieses Objektives an. »1:2.8«. »G« steht bei Nikon für Elektronische Blendensteuerung, sowie »ED« (Extra Low Dispersion) für geringere chromatische Aberrationen (spezielle Linsen). Den Abschluss macht »DX«, welches auf eine Objektiv für den kleineren APS-C Sensor hinweist..</figcaption>
 </figure>
 
  
