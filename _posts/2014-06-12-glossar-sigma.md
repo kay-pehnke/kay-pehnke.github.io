@@ -8,7 +8,7 @@ image:
   feature: sigma.jpg
 comments: true
 share: false
-published: false
+published: true
 ---
  
   
