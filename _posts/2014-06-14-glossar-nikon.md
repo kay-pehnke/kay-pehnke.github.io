@@ -28,6 +28,10 @@ published: true
 
 
 
+<figure class="one">
+	<a href="https://app.box.com/s/t63srh2gywfvg3cx3tvx"><img src="https://app.box.com/s/93vtzijtu37io365j7ap"></a>
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
 
 <figure>
 <img src="/images/nog1.jpg"/>
@@ -113,12 +117,13 @@ published: true
 | |  |  ||
 | VR | | | Vibration Reduction| | | Elektronischer Bildstabilisator.
 | |  |  ||
-
-
-
-
-
+ 
   
+
+
+    
+
+
 
 
 
