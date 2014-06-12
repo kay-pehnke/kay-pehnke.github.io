@@ -8,14 +8,13 @@ image:
   feature: ol4.jpg
 comments: true
 share: false
-published: false
+published: true
 ---
  
   
 
 
     
-
 
 
 *Bei Lichtstärke und Brennweite sind sich alle 
@@ -30,19 +29,19 @@ Brennweite (Zoom) eines Objektivs.*
 
 
 
-<figure>
-<img src="/images/ol2.jpg"/>
-<figcaption>Je größer die Blende, des so kleiner die Zahl.</figcaption>
-</figure>
 
+<figure>
+<img src="/images/ol1.jpg"/>
+<figcaption>Auschnitt eines Zoomobjektives mit variabler Blende.</figcaption>
+</figure>
 
 Bei festen Brennweiten ist es eindeutig, der Blendenwert hinter dem "f" (für Fokus) steht für die maximal mögliche Blendenöffnung.
 Einen zweiten Wert trifft man bei Zoomobjektiven an. Die kleinere 
 Zahl steht auch hier für die maximale Blendenöffnung, die größere für die der längster Brennweite (max.Zoom).
 
 <figure>
-<img src="/images/ol1.jpg"/>
-<figcaption>Auschnitt eines Zoomobjektives mit variabler Blende.</figcaption>
+<img src="/images/ol2.jpg"/>
+<figcaption>Je größer die Blende, des so kleiner die Zahl.</figcaption>
 </figure>
 
 
