@@ -32,7 +32,7 @@ Brennweite (Zoom) eines Objektivs.*
 
 <figure>
 <img src="/images/ol1.jpg"/>
-<figcaption>Auschnitt eines Zoomobjektives mit variabler Blende.</figcaption>
+<figcaption>Nikon 55-300mm f/1:4.5-5.6</figcaption>
 </figure>
 
 Bei festen Brennweiten ist es eindeutig, der Blendenwert hinter dem "f" (für Fokus) steht für die maximal mögliche Blendenöffnung.
@@ -41,7 +41,7 @@ Zahl steht auch hier für die maximale Blendenöffnung, die größere für die d
 
 <figure>
 <img src="/images/ol2.jpg"/>
-<figcaption>Je größer die Blende, des so kleiner die Zahl.</figcaption>
+<figcaption>Je größer die Blende, des so kleiner die Zahl (Canon 50mm f/1.8II)</figcaption>
 </figure>
 
 
