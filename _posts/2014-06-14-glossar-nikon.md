@@ -1,6 +1,6 @@
 ---
 layout: offer
-title: "Bezeichnungen auf Objektiven: Nikon"
+title: "Objektive: Nikon Bezeichnungen"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
