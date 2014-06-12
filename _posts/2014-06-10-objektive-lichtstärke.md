@@ -5,7 +5,7 @@ description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
 image:
-  feature: ol4.jpg
+  feature: ol5.jpg
 comments: true
 share: false
 published: true

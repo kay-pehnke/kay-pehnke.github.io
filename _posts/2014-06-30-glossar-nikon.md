@@ -1,11 +1,11 @@
 ---
 layout: offer
-title: "Bezeichnungen auf Objektiven: Canon"
+title: "Bezeichnungen auf Objektiven: Nikon"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
 image:
-  feature: cog.jpg
+  feature: nog.jpg
 comments: true
 share: false
 published: false
@@ -18,7 +18,23 @@ published: false
 
 
 
-*Wer sich schon öfters fragte was die Abkürzung auf den Objektiven von Canon bedeuten, hier die Antworten...* 
+*Wer sich schon öfters fragte was die Abkürzung auf den Objektiven von Nikon bedeuten, hier die Antworten...* 
+ 
+  
+
+
+    
+
+
+
+
+
+
+<figure class="half">
+	<img src="/images/nog2.jpg">
+	<img src="/images/nog3.jpg">
+	<figcaption>Das »AF-S« (Autofocus Silent Wave Motor) ist ein Objektiv mit verbauten einem Silent Wave Fokussiermotor (und damit geeignet für Nikon-Kameras ohne Fokusmotor wie D60, D5000). »17-55mm« gibt hingegen die kleinste und längste Brennweite dieses Objektives an. »1:2.8«. »G« steht bei Nikon für Elektronische Blendensteuerung, sowie »ED« (Extra Low Dispersion) für geringere chromatische Aberrationen (spezielle Linsen). Den Abschluss macht »DX«, welches auf eine Objektiv für den kleineren APS-C Sensor hinweist.</figcaption>
+</figure>
  
   
 
@@ -34,51 +50,78 @@ published: false
 | :-------- |:-------- | :-------- | :-------- | :-------- | :-------- |:-------- |
 | II, III | | |Nummer/"Mark"| | |Bezeichnet die zweite oder dritte Generation eines Objektivs. 	   ||
 | |  |  ||
-| AFD | | |Arc Form Drive | | | Objektive ohne USM Motor der EF und EF-S Modellreihe verfügen über einen gewöhnlichen Motor. Einer dieser "gewöhnlichen" Antriebsarten ist der AFD. Dieser ist in der Regel recht laut und ggf auch etwas langsamer.	   ||
+| AI Lens | | |Automatic Maximum Aperture Indexing | | | Übertragt die Blendendifferenz gegenüber Offenblende automatisch an die Kamera.	   ||
 | |  |  ||
-| AL | | |Aspherical Lens | | |Objektiv mit aspärische(r) Linse(n) zur Optimierung der Bildqualität. Korrigiert zb.: Verzerrungen bei Superweitwinkelobjektiven mit großen Blenden. Weitere Bezeichnungen sind AS und ASPH.   ||
+| AI-S Lens | | |AI Super | | | Sie verfügen über eine lineare Blendensteuerung und erlauben somit eine präzisere Blendensteuerung bei Programm- und Blendenautomatik. Äußerlich zu erkennen sind sie u. a. an der orangefarbenen kleinsten Blendenzahl und an der Vertiefung in der Auflagefläche des Bajonetts	   ||
 | |  |  ||
-| AF | | |Auto Focus | | |Die Kamera stellt auf die/den ausgewählten Fokuspunkt automatisch scharf. 	   ||
+| AF  | | | Autofocus| | | Diese Objektive verfügen über eine eingebaute CPU und sind entsprechend nicht nur mechanisch mit der Kamera verbunden sondern auch elektrisch. Der Autofokus wird von einem Motor im Kameragehäuse gesteuert.	   ||
 | |  |  ||
-| EF | | |Electronic Focus | | |EF werden Objektive bezeichnet die für Vollformat entwickelt wurden, funktonieren aber an allen EOS-Kameras. Sie sind mit einem Roten Quadrat am Objektivbajonett gekennzeichnet.	   ||
+| AF-I | | |Autofocus Silent Wave Motor | | | Objektiv mit AF-Motor im Objektiv, dadurch schneller AF. Verbaut werden bei diesem Objektivtyp ‚kernlose Antriebsmotoren’.
 | |  |  ||
-| EF-M | | |Mirrorless | | |Speziell für die Canon M konzenpierte Objektive die besonders Kompakt und klein sind. 	   ||
+| AF-S | | |Autofocus Silent Wave Motor | | | Objektiv ist mit einem Silent Wave Fokussiermotor ausgestattet (und damit geeignet für Nikon-Kameras ohne Fokusmotor wie D60, D5000).	   ||
 | |  |  ||
-| EF-S | | |Short back focus | | |Objektive die speziell für Kameras für den kleineren APS-C Sensor gebaut wurden, wie die EOS 7D, EOS 70D, EOS 60D, EOS 60Da, EOS 50D, EOS 40D, EOS 30D, EOS 20D, EOS 100D, EOS 700D, EOS 650D, EOS 600D, EOS 550D, EOS 500D, EOS 450D, EOS 400D, EOS 350D, EOS 300D, EOS 1200D, EOS 1100D, and EOS 1000D. EF-S Objektive funktonieren allerdings nicht an reinen EF-Kameras. Sie sind mit einem weißem Quadrat am Objektivbajonett gekennzeichnet. ||
+| AI-P | | |- | | | Manuelle Objektive mit CPU.
+| |  |  |
+| A/M | | |Automatic/Manuell | | | Objektiv verfügt über einen Automatik/Manuellen Umschalter.
 | |  |  ||
-| FT-M | | |FullTime Manuall Focusing | | |Ermöglicht es trotz aktiviertem Autofokus eine manuelle Fokussierung vorzunehmen.  	   ||
+| AS | | |Aspherical Lens | | | Asphärische Linsen. Verminderung von Abbildungsfehlern.
 | |  |  ||
-| DO | | |Diffractive Optics | | |Stehen für eine kompaktere und leichtere Bauweise bei Zoomobjektiven dank gebeugten Optiken und sollen Farbfehler korrigieren. DO-Objektive sind mit einem grünen Ring an der Vorderseite des Objektives gekennzeichnet.  	   ||
+| ASP | | |- | | | Asphärische Linsen, spezielle Linsen zur Beseitigung von bestimmten optischen Fehlern (Einsatz z.B. im Noct-Nikkor).
 | |  |  ||
-| DW-R | | |Dust & Water Resistant | | |Objektive mit dieser Bezeichnung sind Staub und Wasserdicht.
+| CRC | | |Close Range Correction | | | Nahbereichskorrektur durch Verschieben von Objektivgliedern.
 | |  |  ||
-| Fluorite | | |--- | | |	Ähnlich wie UD Linsen, stehen Fluorite Linsen für eine sehr niedrige Lichtstreuung, die Farbsäume reduziert. Meist genutz werden solche Linsen in Tele,- Supertele und Weitwinkelobjektiven. Gängige Bezeichnungen sind CaF2, UD und S-UD. ||
+| D | | |Distanz | | | Objektiv übermittelt Entfernungsinformation an die Kamera.
 | |  |  ||
-| FP | | | Focus Preset | | |Vorfokussierung, speichert die Fokussierebene.	   ||
+| DC | | |Defocus Image Control | | | Am Objektiv einstellbarer Weichzeichnungseffekt.
 | |  |  ||
-| I/R | | | Internal/Rear Focusing | | |Sehr kompakte Autofokus Bauart mit einer Innenfokussierung der hinteren Linsengruppen. Dies verhindert eine Rotation der Frontlinse, was zb. das Einsetzten von POL oder Verlaufsfilter erleichtert. 	   ||
+| DX | | |Distanz | | | Optimiert für APS-C-Kameras. Objektive funkonieren nicht an Vollformat Kameras!
 | |  |  ||
-| IS | | |Image Stabilization | | |Objektive mit eingebauten Bildstabilisierungssystem (welches auch abgeschaltet werden kann), reduziert Verwackler und erwöglichst längere Belichtungszeiten.	   ||
+| E | | |- | | | Preiswerte Objektive mit guter Optik, aber einfacher Bauweise. Sie heißen nicht Nikkor, sondern »Nikon Series E«.
 | |  |  ||
-| L | | |Luxury | | | Bezeichnen Objektive der Luxusklasse bei Canon. Sie sind mit einem Roten Ring an der vorderseite des Objektivs gekennzeichnet und beiten neben einer besseren Bildqualität durch spezielle Linsen, Schutz gegen Witterungseinflüsse und Staub.	   ||
+| ED | | |Extra Low Dispersion | | | Dieses Glas verhindert Farbfehler durch unterschiedliche Brechung der verschiedenen Wellenlängen des Lichts. Im Ergebnis wird das Bild schärfer und brillanter.
 | |  |  ||
-| MM | | |Micro Motor | | | Eine weitere Antriebsart für den Fokus ist der Mikro Motor, dieser erschien kurze Zeit nach dem AFD und ist noch kompakter aber auch leistungsschwächer. Dieser Motor ist nur in Objektiven der untersten Preisklasse wie dem EF50 1.8, EF75-300III verbaut aber auch in neueren EF-S Objektiven wie dem EF 18-55 IS oder 55-250 IS.	   ||
+| FX | | |- | | | Optimiert für Vollformat-Kameras. Objektive funktionieren auch an APS-C Kameras!
 | |  |  ||
-| SSc | | |Super Spectra coating | | |Die Super Spectra Vergütung minimiert Phantombilder und Streulicht, stellt zudem eine gleichmäßige Farbbalance sicher. Resultat: gestochen scharfe und kontrastreiche Bilder.	   ||
+| G | | |Electronic Aperture | | | Elektronische Blendensteuerung. Spezielle Baureihe ohne mechanisch einstellbaren Blendenring am Objektiv, die Blende wird elektronisch am Kamerabody eingestellt und dann per Kontakt auf die Optik übertragen
 | |  |  ||
-| STM | | |Stepping Motor Technology | | |Die Stärken bei STM Objektiven liegt eindeutig bei Videoaufnahmen. Sie sind Lautlos und bieten einen sanft schärfenden Autofokus. 	   ||
+| HRI | | |High Refractive Index | | | HRI-Glas weist besonders hohe Brechzahlen (High Refractive Index) von 2,0 oder mehr auf, sodass eine einzige Linse aus diesem Werkstoff so effektiv ist wie mehrere Linsen aus herkömmlichen optischen Glastypen. 
 | |  |  ||
-| UD | | |Ultra Low Dispersion | | |Steht für geringer streuende Linsen, die Farbsäume reduzieren sollen. Meist genutz in Tele,- Supertele und Weitwinkelobjektiven. Gängige Bezeichnungen sind CaF2, UD und S-UD.	   ||
+| IF | | |nner Focusing | | | Fokussierung durch Linsenverschiebung im Innern des Objektivs, keine Längenänderung, keine Rotation der Frontlinse.
 | |  |  ||
-| USM | | |Ultrasonic Motor | | |Ultraschallmotoren bieten einen schnellen und leisen Autofokus.	   ||
+| Micro | | |Micro Lens | | | Nikkore (Objektive) welche speziell für den Nahbereich gerechnet wurden und sehr große Abbildungsmaßstäbe von 1:1 ermöglichen. Im Allgemeinen nennt man sie auch Makroobjektive. Nikon entschied sich jedoch für die Bezeichnung Micro.
+| |  |  ||
+| Medical | | |Medical Lens | | | Nikkore (Objektive) mit integriertem Blitz für medizinische Dokumentation, mit der Möglichkeit den Abbildungsmaßstab mit einzublenden.
+| |  |  ||
+| ML | | |Meniskus Glass| | | Die Schutzscheibe vor der Frontlinse größerer Teleobjektive ist konvex-konkav gefertigt, damit Reflexionen zwischen ihren Oberflächen und dem Bildsensor nicht zu Geisterbildern führen können.
+| |  |  ||
+| N | | |-| | | Nanokristallvergütung zur Verminderung von Streulicht.
+| |  |  ||
+| Noct| | |-| | | Objektiv mit einer Anfangsöffnung von 1.2 und spezieller optischer Korrektur für diese enorme Lichtstärke.
+| |  |  ||
+| NIC/SIC| | |Super Integrated Coating| | | Mehrschichtvergütung von Linsen zur Verbesserung der Wiedergabeeigenschaften. Verminderung von Spiegelungen, Streulicht und Blendenreflexen.
+| |  |  ||
+| NIC/SIC| | |-| | | Mehrschichtvergütung von Linsen zur Verbesserung der Wiedergabeeigenschaften. Verminderung von Spiegelungen, Streulicht und Blendenreflexen.
+| |  |  ||
+| PC| | |Perspective Control| | | Bezeichnung für Tilt & Shift-Objektive.
+| |  |  ||
+| Reflex| | |Reflex Lens | | | Objektive die neben Linsen auch Spiegel enthalten. Dadurch ist eine leichte und kompakte Bauweise möglich. Feste Blendenöffnung und sehr charakteristische Unschärfekreise. Handelsübliche Bezeichnung für diese Objektive: Spiegeltele.
+| |  |  ||
+| RD | | | -| | | Dank der abgerundeten Blendenlamellen von NIKKOR-Objektiven ist deren Blendenöffnung auch beim Abblenden annähernd kreisförmig. Das Ergebnis: Ein schönes, natürliches Bokeh..
+| |  |  ||
+| RF | | | Rear Focusing| | | Hintergliedfokussierung – Scharfeinstellung durch Verschiebung des letzten Objektivgliedes. Schnellerer und gleichmässigerer Autofokus.
+| |  |  ||
+| SWM | | | Silent Wave Motor| | | Ultraschallmotor für den Autofokus, sehr schnell, extrem leise.
+| |  |  ||
+| UV | | | -| | | Nikkor mit spezieller Rechnung für die UV-Photographie so daß auch Wellenlängen über 200 nm ‚gesehen’ werden.
+| |  |  ||
+| VR | | | Vibration Reduction| | | Elektronischer Bildstabilisator.
 | |  |  ||
 
 
- 
+
+
+
   
-
-
-    
 
 
 
