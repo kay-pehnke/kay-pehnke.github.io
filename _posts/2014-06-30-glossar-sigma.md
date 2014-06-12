@@ -1,6 +1,6 @@
 ---
 layout: offer
-title: "Bezeichnungen auf Objektiven: Canon"
+title: "Bezeichnungen auf Objektiven: Sigma"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
@@ -18,7 +18,7 @@ published: false
 
 
 
-*Wer sich schon öfters fragte was die Abkürzung auf den Objektiven von Canon bedeuten, hier die Antworten...* 
+*Wer sich schon öfters fragte was die Abkürzung auf den Objektiven von Sigma bedeuten, hier die Antworten...* 
  
   
 
@@ -30,13 +30,36 @@ published: false
 
 
 
+<figure class="half">
+	<img src="/images/cog2.jpg">
+	<img src="/images/cog3.jpg">
+	<figcaption>Als EF (Eletronic Fokus) bezeichnet man den Anschluss für die Kamera, wobei das »S« für Short back focus steht, welches speziell für APS-C (Sensor) Kameras gebaut wurde. 10-22mm gibt hingegen die kleinste und längste Brennweite dieses Objektives an. 1:3.5-4.5 sagt etwas über die Lichtstärke dieses Weitwinkelzooms aus. Die Bezeichnung USM oder Ultrasonic steht für Ultrasonic Motor, welcher schnell und leise fokusiert.</figcaption>
+</figure>
+  
+
+ 
+  
+
+
+    
+
+
+
+
+
 | Abkürzung | | | Bezeichnung | | | Erklärung | 
 | :-------- |:-------- | :-------- | :-------- | :-------- | :-------- |:-------- |
-| II, III | | |Nummer/"Mark"| | |Bezeichnet die zweite oder dritte Generation eines Objektivs. 	   ||
+| II | | |Nummer/"Mark"| | |Bezeichnet die zweite Generation eines Objektivs. 	   ||
+| |  |  ||
+| A | | |Art | | | Die Art-Produktlinie ist für anspruchsvolle optische Leistung und hohe Ausdruckskraft konzipiert. Dazu gehören Lichtstarke Festbrennweiten, Ultra & Weitwinkel, sowie Makro und Fisheye Objektive. Durch Hilfe eines USB Docks kann man an dieser Produktlinie auch Firmwareupdates aufspielen, sowie Fokuspunkt und andere Parameter justieren und verändern. ||
 | |  |  ||
 | ASP | | |Aspherical Lens | | | Asphärische Linsen: Bessere Randschärfe, Reduzierung der Verzeichnung.	   ||
 | |  |  ||
 | APO | | |Apochromatic | | |Dieses Objektiv verwendet Linsen, die besonders wenige Farbfehler erzeugen.   ||
+| |  |  ||
+| C | | |Contemporary | | | Die Contemporary-Produktlinie kombiniert hohe optische Qualität mit kompakter Bauweise und eignet sich für die unterschiedlichsten Anwendungen. Dazu gehören in der Regel alle Zoomobjektive von Standard bis hohem Tele mit Vergrösserungsfaktor. Durch Hilfe eines USB Docks kann man an dieser Produktlinie auch Firmwareupdates aufspielen, sowie Fokuspunkt und andere Parameter justieren und verändern.	   ||
+| |  |  ||
+| Conv. | | |Converter | | |Abkürzung für Telekonverter. Objektive mit dieser Bezeichnung können mit einem 1.4 oder 2.0 Telekonverter versehen werden um so die Brennweite zu erhöhen. || 
 | |  |  ||
 | DC | | |Digital Calculated | | |Optimiert für APS-C-Kameras mit kleinerem Bildkreis als das Vollformat (Vergleichbar mit den EF-S Objektiven von Canon). || 
 | |  |  ||
@@ -44,36 +67,28 @@ published: false
 | |  |  ||
 | DF | | |Dual Focus | | |Beim AF stillstehender Fokussierring. 	   ||
 | |  |  ||
-| DN| | |- | | |Mit "DN" kennzeichnet Sigma Hochleistungsobjektive, die speziell für Systemkameras mit Sony-E-Bajonett oder Kameras mit Micro-FourThirds-Anschluss konstruiert sind.  ||
+| DN| | |- | | |Mit "DN" kennzeichnet Sigma Hochleistungsobjektive, die speziell für Systemkameras ohne Spiegel konstruiert wurden. Diese Objektive sind meist kompakt und bieten einen leisen Autofokus.  ||
 | |  |  ||
-
-
-| FT-M | | |FullTime Manuall Focusing | | |Ermöglicht es trotz aktiviertem Autofokus eine manuelle Fokussierung vorzunehmen.  	   ||
+| EX | | |Exclusive | | |Stehen bei Sigma für besonders Hochwertige Objektive die in der Regel sehr Lichtstark sind. Meist tragen diese Bezeichnung Festbrennweiten oder Zoomobjektive.||
 | |  |  ||
-| DO | | |Diffractive Optics | | |Stehen für eine kompaktere und leichtere Bauweise bei Zoomobjektiven dank gebeugten Optiken und sollen Farbfehler korrigieren. DO-Objektive sind mit einem grünen Ring an der Vorderseite des Objektives gekennzeichnet.  	   ||
+| FLD | | |Fluorid Glass | | |Fluoridglas. Objektive mit diesem Glas korrigiert chromatische Aberrationen was zu schärferen und kontrastreicheren Bildern führt.	   ||
 | |  |  ||
-| DW-R | | |Dust & Water Resistant | | |Objektive mit dieser Bezeichnung sind Staub und Wasserdicht.
+| HSM | | |Hypersonic Motor | | |Besonders leiser und schneller Autofokus durch einen Ultraschallmotor. Erlaubt zudem einen manuellen Eingriff in den Autofokus (in der Regel). 	   ||
 | |  |  ||
-| Fluorite | | |--- | | |	Ähnlich wie UD Linsen, stehen Fluorite Linsen für eine sehr niedrige Lichtstreuung, die Farbsäume reduziert. Meist genutz werden solche Linsen in Tele,- Supertele und Weitwinkelobjektiven. Gängige Bezeichnungen sind CaF2, UD und S-UD. ||
+| IF | | |Internal Focusing | | |Keine Rotation an der Frontlinse. Fokussierung erfolgt im inneren des Objektives.
 | |  |  ||
-| FP | | | Focus Preset | | |Vorfokussierung, speichert die Fokussierebene.	   ||
+| Macro | | | Macro | | | Diese Bezeichnung sagt aus das sie ein Objektiv ist für Nahaufnahmen geeignet. Bei Sigma bedeutet dies jedoch nicht automatisch, dass es einen maximalen Abbildungsmaßstab von 1:1 erreicht!	   ||
 | |  |  ||
-| I/R | | | Internal/Rear Focusing | | |Sehr kompakte Autofokus Bauart mit einer Innenfokussierung der hinteren Linsengruppen. Dies verhindert eine Rotation der Frontlinse, was zb. das Einsetzten von POL oder Verlaufsfilter erleichtert. 	   ||
+| OS | | |Optical Stabilizer | | |	Abkürzung für Sigmas Bildstabilisator. ||
 | |  |  ||
-| IS | | |Image Stabilization | | |Objektive mit eingebauten Bildstabilisierungssystem (welches auch abgeschaltet werden kann), reduziert Verwackler und erwöglichst längere Belichtungszeiten.	   ||
+| RF | | | Rear Focusing | | |Nutzt zum Fokussieren die hinteren Linsen. Diese werden bei Scharfstellung verschoben, was einen gleichmässigeren und schnelleren Autofokus zur Folge hat.	   ||
 | |  |  ||
-| L | | |Luxury | | | Bezeichnen Objektive der Luxusklasse bei Canon. Sie sind mit einem Roten Ring an der vorderseite des Objektivs gekennzeichnet und beiten neben einer besseren Bildqualität durch spezielle Linsen, Schutz gegen Witterungseinflüsse und Staub.	   ||
+| S | | |Sport | | | Diese Objektive eigenen sich am besten für Action-Aufnahmen. Zu diesen gehören Tele, Telezoom, Supertele und Supertelezoom Objektive. Durch Hilfe eines USB Docks kann man an dieser Produktlinie auch Firmwareupdates aufspielen, sowie Fokuspunkt und andere Parameter justieren und verändern.	   ||
 | |  |  ||
-| MM | | |Micro Motor | | | Eine weitere Antriebsart für den Fokus ist der Mikro Motor, dieser erschien kurze Zeit nach dem AFD und ist noch kompakter aber auch leistungsschwächer. Dieser Motor ist nur in Objektiven der untersten Preisklasse wie dem EF50 1.8, EF75-300III verbaut aber auch in neueren EF-S Objektiven wie dem EF 18-55 IS oder 55-250 IS.	   ||
+| SLD | | | Super Low Dispersion | | | Linsenelemente  vermindern chromatische Aberrationen, welches eine Optimierung von Bildqualität und Korrektur von Verzerrungen zur Folge hat (Vergleichbar mit Canon AL, AS oder ASPH Linsen).	   ||
 | |  |  ||
-| SSc | | |Super Spectra coating | | |Die Super Spectra Vergütung minimiert Phantombilder und Streulicht, stellt zudem eine gleichmäßige Farbbalance sicher. Resultat: gestochen scharfe und kontrastreiche Bilder.	   ||
-| |  |  ||
-| STM | | |Stepping Motor Technology | | |Die Stärken bei STM Objektiven liegt eindeutig bei Videoaufnahmen. Sie sind Lautlos und bieten einen sanft schärfenden Autofokus. 	   ||
-| |  |  ||
-| UD | | |Ultra Low Dispersion | | |Steht für geringer streuende Linsen, die Farbsäume reduzieren sollen. Meist genutz in Tele,- Supertele und Weitwinkelobjektiven. Gängige Bezeichnungen sind CaF2, UD und S-UD.	   ||
-| |  |  ||
-| USM | | |Ultrasonic Motor | | |Ultraschallmotoren bieten einen schnellen und leisen Autofokus.	   ||
-| |  |  ||
+| UC | | |Ultra Compact | | |Weisen auf eine sehr kleine Bauweise des Objektives hin.	   ||
+| |  |  || | |  |  
 
 
  
