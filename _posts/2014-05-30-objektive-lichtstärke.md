@@ -8,7 +8,7 @@ image:
   feature: ol4.jpg
 comments: true
 share: false
-published: true
+published: false
 ---
 
 *Bei Lichtstärke und Brennweite sind sich alle 
