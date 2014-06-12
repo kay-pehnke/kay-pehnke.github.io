@@ -10,12 +10,6 @@ comments: true
 share: false
 published: true
 ---
- 
-  
-
-
-    
-
 
 *Bei Lichtstärke und Brennweite sind sich alle 
 Hersteller (im Gegensatz zu den Abkürzungen 
@@ -30,9 +24,10 @@ Brennweite (Zoom) eines Objektivs.*
 
 
 
+
 <figure>
-<img src="/images/ol1.jpg"/>
-<figcaption>Nikon 55-300mm f/1:4.5-5.6</figcaption>
+<img src="/images/ol2.jpg"/>
+<figcaption>Je größer die Blende, des so kleiner die Zahl (Canon 50mm f/1.8II)</figcaption>
 </figure>
 
 Bei festen Brennweiten ist es eindeutig, der Blendenwert hinter dem "f" (für Fokus) steht für die maximal mögliche Blendenöffnung.
@@ -40,9 +35,18 @@ Einen zweiten Wert trifft man bei Zoomobjektiven an. Die kleinere
 Zahl steht auch hier für die maximale Blendenöffnung, die größere für die der längster Brennweite (max.Zoom).
 
 <figure>
-<img src="/images/ol2.jpg"/>
-<figcaption>Je größer die Blende, des so kleiner die Zahl (Canon 50mm f/1.8II)</figcaption>
+<img src="/images/ol1.jpg"/>
+<figcaption>Nikon 55-300mm f/1:4.5-5.6</figcaption>
 </figure>
+
+ 
+  
+
+
+    
+
+
+
 
 
 Hauptvorteile einer offenen Blende (kleine Zahl) sind:
@@ -68,13 +72,5 @@ Lichtstärke eines Objektives, bewirkt unweigerlich eine Verdopplung des Preises
 <img src="/images/ol3.jpg"/>
 <figcaption>Canon 100mm f/2.8L.</figcaption>
 </figure>
-
- 
-  
-
-
-    
-
-
 
 Möchtest du mehr über den Zusammenhang von Blende, Verschlusszeit und ISO erfahren? Dann besuche doch einen [Anfänger/Einsteiger Workshop](http://www.kay-pehnke.de/einzelworkshop/workshop-anfaenger/), ich würde mich freuen :)
