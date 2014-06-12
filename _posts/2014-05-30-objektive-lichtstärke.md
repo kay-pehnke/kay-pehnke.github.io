@@ -5,7 +5,7 @@ description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
 image:
-  feature: sd9.jpg
+  feature: ol4.jpg
 comments: true
 share: false
 published: false
@@ -18,9 +18,10 @@ published: false
 
 
 
-*4... 8... 16... 32... 64... 128GB - welche Karte soll ich nur nehmen? 
-Diese Frage ist gar nicht so leicht zu beantworten! 
-Nachstehend ein paar Tipps:* 
+*Bei Lichtstärke und Brennweite sind sich alle 
+Hersteller (im Gegensatz zu den Abkürzungen 
+auf Objektiven) einig. Wenn es »1:1.8« oder 1:4.5-5.6« heißt, ist es die Lichtstärke. 18-55mm oder 70-300mm bezeichnet die
+Brennweite (Zoom) eines Objektivs.* 
  
   
 
@@ -29,73 +30,52 @@ Nachstehend ein paar Tipps:*
 
 
 
+<figure>
+<img src="/images/ol2.jpg"/>
+<figcaption>Je größer die Blende, des so kleiner die Zahl.</figcaption>
+</figure>
+
+
+Bei festen Brennweiten ist es eindeutig, der Blendenwert hinter dem "f" (für Fokus) steht für die maximal mögliche Blendenöffnung.
+Einen zweiten Wert trifft man bei Zoomobjektiven an. Die kleinere 
+Zahl steht auch hier für die maximale Blendenöffnung, die größere für die der längster Brennweite (max.Zoom).
+
+<figure>
+<img src="/images/ol1.jpg"/>
+<figcaption>Auschnitt eines Zoomobjektives mit variabler Blende.</figcaption>
+</figure>
+
+
+Hauptvorteile einer offenen Blende (kleine Zahl) sind:
+
+* Perfekt geeignet bei schlechten Lichtsituationen
+* Reduzierung der Belichtungszeit
+* Kontrastreiche und brillante Farben
+* Autofokus wird schneller
+* Tolles Bokeh (Unschärfe im Hintergrund)
+
+ 
+  
+
+
+    
 
 
 
+Als Lichtstark werden in der Regel Objektive ab einer Offenblende von f/2.8 bezeichnet. Allerdings heißt es auch: “Jede Erhöhung der 
+Lichtstärke eines Objektives, bewirkt unweigerlich eine Verdopplung des Preises!
+
+<figure>
+<img src="/images/ol3.jpg"/>
+<figcaption>Canon 100mm f/2.8L.</figcaption>
+</figure>
+
+ 
+  
 
 
-Bei Lichtstärke und Brennweite sind sich alle 
-Hersteller (im Gegensatz zu den Abkürzungen 
-auf Objektiven) einig. Wenn es »1:1.8« 
-oder 1:4.5-5.6« heißt, ist es die Lichtstärke. 
-18-55mm oder 70-300mm bezeichnet die
-Brennweite (Zoom) eines Objektivs.
-
-Bild: Objektivausschnitt mit variablen Blende
-Bild: objektivauschnitt eines Zoomobjektives
-
-
-
-
-Der Blendenwert hinter dem "f" (für Fokus)
-steht für die maximal mögliche Blendenöffnung. 
-
-Bild: Ausschnitt "f" mit 1.8 Objekriv
-
-Je größer die Blende, des so kleiner die Zahl
- (zB.: f/1.8).
+    
 
 
 
-
-
-
-
-Bei festen Brennweiten ist es eindeutig, 
-eine konstante Lichtstärke ab Offenblende
-(Kleinste Zahl eines Objektives).
-Einen zweiten Wert trifft man bei 
-Zoomobjektiven an. Die kleinere 
-Zahl gibt auch hier die Lichtstärke ab 
-Offenblende, die größere die bei längster 
-Brennweite. 
-
-Bild: Je größer die Blende, des so kleiner die Zahl
- (zB.: f/1.8) = offen Blende.
-Bild: Zoom objektiv ausschnitt mit Zoombereich
-ZB: 70-300
-
-Hauptvorteile einer offenen Blende (kleine Zahl)
-sind:
-
-Vorteil bei schlechten Lichtsituationen
-Reduzierung der Belichtungszeit
-Kontrastreiches Bild
-Brillante Farben
-Sucher wird heller
-Autofokus wird schneller
-Tolles Bokeh (Unschärfe im Hintergrund)
-Helleres Bild
-Geringere schärfentiefe (bokeh)
-
-Als Lichtstark werden in der Regel Objektive 
-ab einer Offenblende von f/2.8 bezeichnet. 
-Allerdings heißt es auch: “Jede Erhöhung der 
-Lichtstärke eines Objektives, bewirkt 
-unweigerlich eine Verdopplung des Preises!
-
-
-
-Möchtesr du wissen wie eine Blende, Verschlusszeit
-, ISO funktionieren und den Zusammenhang erfahren..
-Workshop: Anfänger 
+Möchtest du mehr über den Zusammenhang von Blende, Verschlusszeit und ISO erfahren? Dann besuche doch einen [Anfänger/Einsteiger Workshop](http://www.kay-pehnke.de/einzelworkshop/workshop-anfaenger/), ich würde mich freuen :)
