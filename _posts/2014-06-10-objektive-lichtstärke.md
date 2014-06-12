@@ -27,7 +27,7 @@ Brennweite (Zoom) eines Objektivs.*
 
 <figure>
 <img src="/images/ol2.jpg"/>
-<figcaption>Je größer die Blende, des so kleiner die Zahl (Canon 50mm f/1.8II)</figcaption>
+<figcaption>Je größer die Blende, des so kleiner die Zahl (Canon 50mm f/1.8II).</figcaption>
 </figure>
 
 Bei festen Brennweiten ist es eindeutig, der Blendenwert hinter dem »f« (für Fokus) steht für die maximal mögliche Blendenöffnung.

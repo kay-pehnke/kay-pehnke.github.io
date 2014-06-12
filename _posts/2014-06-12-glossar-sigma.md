@@ -33,7 +33,7 @@ published: true
 <figure class="half">
 	<img src="/images/sog2.jpg">
 	<img src="/images/sog3.jpg">
-	<figcaption>Das DC (Digital Calculated) steht für ein Optimiertes Objektiv für APS-C (Sensor) Kameras, welches nicht an Vollformat DSLRs funktionieren wird. Als HSM (Hyper Sonic Motor) bezeichnet Sigma seine Ultraschallmotoren. »10-20mm« gibt hingegen die kleinste und längste Brennweite dieses Objektives an. »1:3.5« gibt die Lichtstärke (Offenblende) dieses Weitwinkelzooms an.</figcaption>
+	<figcaption>Das DC (Digital Calculated) steht für ein optimiertes Objektiv für APS-C (Sensor) Kameras, welches nicht an Vollformat DSLRs funktionieren wird. Als HSM (Hyper Sonic Motor) bezeichnet Sigma seine Ultraschallmotoren. »10-20mm« gibt hingegen die kleinste und längste Brennweite dieses Objektives an. »1:3.5« gibt die Lichtstärke (Offenblende) dieses Weitwinkelzooms an.</figcaption>
 </figure>
   
 
