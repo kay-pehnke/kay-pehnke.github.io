@@ -84,8 +84,7 @@ Diese bekommt man schon für ca.20€ bei Ebay!
 </figure>
 
 ###<u>Empfehlung:</u>
-Ein originaler Aufsteckblitz kostet in etwa 200€- 500. Der hohe Betrag basiert auf höheren Leitzahlen und mehr Einstellmöglichkeiten wie zB. einen manuellen Modus oder einer Nutzung als Master (in Verwendung mit mehreren Blitzen).  
-(Vergleich 200-500€ Blitze Unterschiede Tabelle ggf?!)
+Ein originaler Aufsteckblitz kostet in etwa 200-500€. Der hohe Betrag basiert auf höheren Leitzahlen und mehr Einstellmöglichkeiten wie zB. einen manuellen Modus oder einer Nutzung als Master (in Verwendung mit mehreren Blitzen).  
 
 Ich kann euch die zwei Yongnuo Blitze wärmstens empfehlen! 
 Der Yongnuo YN-560 Mark III ist ein manueller Blitz, der über einen integrierten Funkauslöser verfügt.
