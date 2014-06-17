@@ -33,20 +33,30 @@ Nachfolgend ein paar Tipps, um den richtigen Aufsteckblitz zu finden:*
 
 
 ###<u>Die Leitzahl:</u>
-Diese gibt die Stärke des Blitzes an. Ein in der Kamera verbauter Blitz hat in etwa eine Leitzahl von 8-12 und leuchtet ca 2-3 Meter gut aus. 
+Diese gibt die Stärke des Blitzes an. Ein in der Kamera verbauter Blitz hat in etwa eine Leitzahl von 8-15 (je Kameramodell)und leuchtet ca 2-3 Meter gut aus. 
 Ein Aufsteckblitz hingegen kann Leitzahlen von über 50 haben und leuchtet dementsprechend bis zur fünffachen Entfernung aus.
 
 ###<u>Blitzleistung:</u>
 Ein guter Blitz sollte es euch ermöglichen, die Leistung individuell zu verstellen.
 Meist reicht diese von 1:1 (volle Leistung) über 1:2 (halbe Leistung) bis hin zu 1:4, 1:8, 1:16, 1:32, 1:64 oder gar 1:128. 
 
+<figure>
+<img src="/images/blitz1.jpg"/>
+<figcaption>Rückdisplay eines Yongnuo Blitzes</figcaption>
+</figure>
+
 ###<u>Beweglichkeit:</u>
 Ein Blitz sollte nicht starr auf der Kamera sitzen, sondern vertikal bis 90° sowie horizontal von 220°- 360° schwenkbar sein.
 (Die Werte unterscheiden sich hier von Hersteller zu Hersteller)
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=fwDca7tcMBk" frameborder="0"> </iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=fwDca7tcMBk" frameborder="0"> TEST TEST TEST</iframe>
+
+
 ###<u>TTL Blitze:</u>
 Bei Canon heißen sie E-TTL, Nikon nennt sie i-TTL. 
-Die Abkürzung steht für "Through-the-Lens Mode"(Canon: evaluative, Nikon. intelligent)
+Die Abkürzung steht für "Through-the-Lens Mode"(Canon: e = evaluative, Nikon: i = intelligent)
 Sie haben den Vorteil, dass auch beim Blitzen exakt das Licht gemessen wird, das durch das Objektiv auf den Sensor fällt. 
 Mehr oder weniger werden Daten wie Blende, ISO, Brennweite oder das Umgebungslicht von Kamera zum Blitz übertragen und dieser ermittelt dann die optimale Leistung für das anfokussierte Objekt oder die Person. 
 
