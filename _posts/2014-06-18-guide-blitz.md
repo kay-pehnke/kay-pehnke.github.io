@@ -102,7 +102,7 @@ Ein technisch ebenbürtiger originaler Blitz seitens Canon oder Nikon kostet etw
 
 <figure>
 <img src="/images/blitz7.jpg"/>
-<figcaption>Der automatische Yongnuo YN 568EX </figcaption>
+<figcaption>Der automatische (TTL/iTTL) Yongnuo YN 568EX </figcaption>
 </figure>
 
 ###<u>Tipp:</u>
