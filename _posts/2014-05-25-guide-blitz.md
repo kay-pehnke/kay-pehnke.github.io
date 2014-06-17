@@ -18,8 +18,8 @@ published: false
 
 
 
-*In einigen Workshops kam die Frage nach der passenden Kameratasche auf: 
-Wohin mit Kamera und Zubehör, was ist praktisch für unterwegs?* 
+*Bei externen Blitzen muss es nicht unbedingt ein Original sein. 
+Nachfolgend ein paar Tipps, um den richtigen Aufsteckblitz zu finden:* 
  
   
 
@@ -28,10 +28,9 @@ Wohin mit Kamera und Zubehör, was ist praktisch für unterwegs?*
 
 
 
-Nachfolgend ein paar Tipps, die euch bei der Entscheidung für die Anschaffung der optimalen Kameratasche helfen sollen:
 
-Bei externen Blitzen muss es nicht unbedingt ein Original sein. 
-Nachfolgend ein paar Tipps, um den richtigen Aufsteckblitz zu finden:
+
+
 
 ###<u>Die Leitzahl:</u>
 Diese gibt die Stärke des Blitzes an. Ein in der Kamera verbauter Blitz hat in etwa eine Leitzahl von 8-12 und leuchtet ca 2-3 Meter gut aus. 
@@ -58,7 +57,7 @@ Diese nutzt man ganz gern für Stillleben und Porträts in Verbindung mit entfes
 Manuelle Blitze kosten nur einen Bruchteil ihrer vollautomatischen Brüder. Kombiniert mit einem Funkauslöser können sie beliebig erweitert werden. Der Kreativität sind hier keine Grenzen gesetzt!
 
 ###<u>Tipp:</u> 
-Mit dem richtigen XXXX ausgestattete ältere Blitze kann man fürs indirekte Blitzen genauso nutzen. 
+Mit dem richtigen Mittenkontakt ausgestattete ältere Blitze kann man fürs indirekte Blitzen genauso nutzen. 
 Diese bekommt man schon für ca.20€ bei Ebay!
 (Funkauslöser: Nur Bild einbauen)
 
@@ -69,6 +68,11 @@ Ein originaler Aufsteckblitz kostet in etwa 200€- 500. Der hohe Betrag basiert
 Ich kann euch die zwei Yongnuo Blitze wärmstens empfehlen! 
 Der Yongnuo YN-560 Mark III ist ein manueller Blitz, der über einen integrierten Funkauslöser verfügt.
 Optisch oder technisch stehen sie den original Blitzen der jeweiligen Hersteller in nichts nach! Kostenpunkt ca. 60€.
+
+<figure>
+<img src="/images/blitz1.jpg"/>
+<figcaption>Der Yongnuo YN-560 Mark III</figcaption>
+</figure>
 
 Wer lieber eine TTL Version nutzen möchte,dem empfehle ich den Yongnuo YN 568EX. 
 Dieser verfügt nicht nur über eine sehr hohe Leitzahl, lädt sich sehr schnell auf und ist mit ca 150€ sehr günstig, er bietet auch noch ein grosses Extra: Dieser Blitz beherrscht sowohl E-TTL, TTLII als auch i-TTL, das heißt er kann sowohl an Canon als auch Nikon Kameras genutzt werden! 
@@ -81,7 +85,7 @@ Wer dennoch lieber zum Original greifen möchte, sollte auf die Cashback Aktione
 
 
 
-###<u>Komfort:</u>
+
 
 
 <figure>
@@ -97,7 +101,6 @@ Wer dennoch lieber zum Original greifen möchte, sollte auf die Cashback Aktione
 </figure>
 
 
-###<u>Platz/Grösse:</u>
 
 <figure>
 <img src="/images/bag3.jpg"/>
