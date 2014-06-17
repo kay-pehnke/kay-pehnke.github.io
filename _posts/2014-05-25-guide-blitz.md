@@ -49,11 +49,10 @@ Meist reicht diese von 1:1 (volle Leistung) über 1:2 (halbe Leistung) bis hin z
 Ein Blitz sollte nicht starr auf der Kamera sitzen, sondern vertikal bis 90° sowie horizontal von 220°- 360° schwenkbar sein.
 (Die Werte unterscheiden sich hier von Hersteller zu Hersteller)
 
-<iframe width="560" height="315" src="www.youtube.com/embed/fwDca7tcMBk" frameborder="0"></iframe>
-
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/PWf4WUoMXwg" frameborder="0"> </iframe>
-
+<figure>
+<img src="/images/blitz2.jpg"/>
+<figcaption>Eine Canon 430II Abbildung aus dem Handbuch </figcaption>
+</figure>
 
 
 ###<u>TTL Blitze:</u>
@@ -68,10 +67,20 @@ Nicht alle automatische Blitze verfügen hingegen über einen manuellen Modus. M
 Diese nutzt man ganz gern für Stillleben und Porträts in Verbindung mit entfesselten Blitzen. 
 Manuelle Blitze kosten nur einen Bruchteil ihrer vollautomatischen Brüder. Kombiniert mit einem Funkauslöser können sie beliebig erweitert werden. Der Kreativität sind hier keine Grenzen gesetzt!
 
+<figure>
+<img src="/images/blitz3.jpg"/>
+<figcaption>Funkauslöser von Yongnuo</figcaption>
+</figure>
+
 ###<u>Tipp:</u> 
 Mit dem richtigen Mittenkontakt ausgestattete ältere Blitze kann man fürs indirekte Blitzen genauso nutzen. 
 Diese bekommt man schon für ca.20€ bei Ebay!
-(Funkauslöser: Nur Bild einbauen)
+
+<figure class="half">
+	<img src="/images/blitz4.jpg">
+	<img src="/images/blitz5.jpg">
+	<figcaption>Mittenkontakt neuer Kameratypen und eines älteren</figcaption>
+</figure>
 
 ###<u>Empfehlung:</u>
 Ein originaler Aufsteckblitz kostet in etwa 200€- 500. Der hohe Betrag basiert auf höheren Leitzahlen und mehr Einstellmöglichkeiten wie zB. einen manuellen Modus oder einer Nutzung als Master (in Verwendung mit mehreren Blitzen).  
@@ -82,8 +91,8 @@ Der Yongnuo YN-560 Mark III ist ein manueller Blitz, der über einen integrierte
 Optisch oder technisch stehen sie den original Blitzen der jeweiligen Hersteller in nichts nach! Kostenpunkt ca. 60€.
 
 <figure>
-<img src="/images/blitz1.jpg"/>
-<figcaption>Der Yongnuo YN-560 Mark III</figcaption>
+<img src="/images/blitz6.jpg"/>
+<figcaption>Der manuelle Yongnuo YN-560 Mark III </figcaption>
 </figure>
 
 Wer lieber eine TTL Version nutzen möchte,dem empfehle ich den Yongnuo YN 568EX. 
@@ -91,33 +100,13 @@ Dieser verfügt nicht nur über eine sehr hohe Leitzahl, lädt sich sehr schnell
 Das ist zB bei einem Kamerawechsel sinnvoll oder wenn man ihn verleihen möchte.
 Ein technisch ebenbürtiger originaler Blitz seitens Canon oder Nikon kostet etwa 400-500€!
 
+<figure>
+<img src="/images/blitz7.jpg"/>
+<figcaption>Der automatische Yongnuo YN 568EX </figcaption>
+</figure>
+
 ###<u>Tipp:</u>
 Wer dennoch lieber zum Original greifen möchte, sollte auf die Cashback Aktionen der grossen Hersteller achten, die es mindestens zwei mal pro Jahr gibt. Hier werden Rabatte von bis zu 250€ auf Objektive, Kameras und auch Blitze eingeräumt!
-
-
-
-
-
-
-
-<figure>
-<img src="/images/bag1.jpg"/>
-<figcaption>Mit Klettverschluss verstellbare Fächer und überziehbarer Regenschutz</figcaption>
-</figure>
-
-
-
-<figure>
-<img src="/images/bag2.jpg"/>
-<figcaption>Komforttable Unterbringung von Flussigkeit, Wanderstöcken und einem Stativ an Aussenseiten des Rucksackes</figcaption>
-</figure>
-
-
-
-<figure>
-<img src="/images/bag3.jpg"/>
-<figcaption>Genügend Platz für weiteres Equipment sollte gegeben sein!</figcaption>
-</figure>
 
 
 
