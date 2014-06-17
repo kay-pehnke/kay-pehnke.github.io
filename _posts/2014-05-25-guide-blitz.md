@@ -49,9 +49,11 @@ Meist reicht diese von 1:1 (volle Leistung) über 1:2 (halbe Leistung) bis hin z
 Ein Blitz sollte nicht starr auf der Kamera sitzen, sondern vertikal bis 90° sowie horizontal von 220°- 360° schwenkbar sein.
 (Die Werte unterscheiden sich hier von Hersteller zu Hersteller)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=fwDca7tcMBk" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="www.youtube.com/embed/fwDca7tcMBk" frameborder="0"></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=fwDca7tcMBk" frameborder="0"> TEST TEST TEST</iframe>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/PWf4WUoMXwg" frameborder="0"> </iframe>
+
 
 
 ###<u>TTL Blitze:</u>
