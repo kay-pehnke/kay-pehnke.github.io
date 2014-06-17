@@ -40,18 +40,20 @@ Ein Aufsteckblitz hingegen kann Leitzahlen von über 50 haben und leuchtet demen
 Ein guter Blitz sollte es euch ermöglichen, die Leistung individuell zu verstellen.
 Meist reicht diese von 1:1 (volle Leistung) über 1:2 (halbe Leistung) bis hin zu 1:4, 1:8, 1:16, 1:32, 1:64 oder gar 1:128. 
 
-<figure>
-<img src="/images/blitz1.jpg"/>
-<figcaption>Rückdisplay eines Yongnuo Blitzes</figcaption>
+<figure class="half">
+	<img src="/images/blitz1.jpg">
+	<img src="/images/blitz2.jpg">
+	<figcaption>Rückseite eines Yongnuo und Nikon Blitzes</figcaption>
 </figure>
+
 
 ###<u>Beweglichkeit:</u>
 Ein Blitz sollte nicht starr auf der Kamera sitzen, sondern vertikal bis 90° sowie horizontal von 220°- 360° schwenkbar sein.
 (Die Werte unterscheiden sich hier von Hersteller zu Hersteller)
 
 <figure>
-<img src="/images/blitz2.jpg"/>
-<figcaption>Eine Canon 430II Abbildung aus dem Handbuch </figcaption>
+<img src="/images/blitz3.jpg"/>
+<figcaption></figcaption>
 </figure>
 
 
@@ -68,7 +70,7 @@ Diese nutzt man ganz gern für Stillleben und Porträts in Verbindung mit entfes
 Manuelle Blitze kosten nur einen Bruchteil ihrer vollautomatischen Brüder. Kombiniert mit einem Funkauslöser können sie beliebig erweitert werden. Der Kreativität sind hier keine Grenzen gesetzt!
 
 <figure>
-<img src="/images/blitz3.jpg"/>
+<img src="/images/blitz4.jpg"/>
 <figcaption>Funkauslöser von Yongnuo</figcaption>
 </figure>
 
@@ -76,10 +78,9 @@ Manuelle Blitze kosten nur einen Bruchteil ihrer vollautomatischen Brüder. Komb
 Mit dem richtigen Mittenkontakt ausgestattete ältere Blitze kann man fürs indirekte Blitzen genauso nutzen. 
 Diese bekommt man schon für ca.20€ bei Ebay!
 
-<figure class="half">
-	<img src="/images/blitz4.jpg">
-	<img src="/images/blitz5.jpg">
-	<figcaption>Mittenkontakt neuer Kameratypen und eines älteren</figcaption>
+<figure>
+<img src="/images/blitz5.jpg"/>
+<figcaption>Mittenkontakte eines Blitzes</figcaption>
 </figure>
 
 ###<u>Empfehlung:</u>
