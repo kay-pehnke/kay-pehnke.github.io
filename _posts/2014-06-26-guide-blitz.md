@@ -59,7 +59,7 @@ Ein Blitz sollte nicht starr auf der Kamera sitzen, sondern vertikal bis 90° so
 
 ###<u>TTL Blitze:</u>
 Bei Canon heißen sie E-TTL, Nikon nennt sie i-TTL. 
-Die Abkürzung steht für "Through-the-Lens Mode"(Canon: e = evaluative, Nikon: i = intelligent)
+Die Abkürzung steht für "Through-the-Lens Mode"(Canon: e = evaluative, Nikon: i = intelligent).
 Sie haben den Vorteil, dass auch beim Blitzen exakt das Licht gemessen wird, das durch das Objektiv auf den Sensor fällt. 
 Mehr oder weniger werden Daten wie Blende, ISO, Brennweite oder das Umgebungslicht von Kamera zum Blitz übertragen und dieser ermittelt dann die optimale Leistung für das anfokussierte Objekt oder die Person. 
 
