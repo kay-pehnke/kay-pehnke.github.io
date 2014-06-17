@@ -5,7 +5,7 @@ description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
 image:
-  feature: hute.jpg
+  feature: blitz.jpg
 comments: true
 share: false
 published: false
