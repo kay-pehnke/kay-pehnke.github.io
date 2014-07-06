@@ -18,7 +18,7 @@ published: true
 
 
 
-*Wer sich schon öfters fragte was die Abkürzung auf den Objektiven von Tokina bedeuten, hier gängigsten...* 
+*Wer sich schon öfters fragte was die Abkürzung auf den Objektiven von Tokina bedeuten, hier die gängigsten...* 
  
   
 
