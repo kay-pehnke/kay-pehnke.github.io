@@ -1,6 +1,6 @@
 ---
 layout: offer
-title: "Bezeichnungen auf Objektiven: Tokina"
+title: "Objektive: Tokina Bezeichnungen"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
