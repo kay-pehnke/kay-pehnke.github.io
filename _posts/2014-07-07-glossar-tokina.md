@@ -32,7 +32,7 @@ published: true
 
 | Abkürzung | | | Bezeichnung | | | Erklärung | 
 | :-------- |:-------- | :-------- | :-------- | :-------- | :-------- |:-------- |
-| II  | | |Nummer/"Mark"| | |Bezeichnet die zweite eines Objektivs. 	   ||
+| II  | | |Nummer/"Mark"| | |Bezeichnet die zweite Generation eines Objektivs. 	   ||
 | |  |  ||
 | AS | | |Aspherical Optics | | | Asphärische Linsen für bessere Randschärfe und Reduzierung der Verzeichnung.	   ||
 | |  |  ||
