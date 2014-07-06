@@ -1,11 +1,11 @@
 ---
 layout: offer
-title: "Bezeichnungen auf Objektiven: Canon"
+title: "Bezeichnungen auf Objektiven: Tokina"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
 image:
-  feature: cog.jpg
+  feature: tok.jpg
 comments: true
 share: false
 published: false
@@ -18,7 +18,7 @@ published: false
 
 
 
-*Wer sich schon öfters fragte was die Abkürzung auf den Objektiven von Canon bedeuten, hier die Antworten...* 
+*Wer sich schon öfters fragte was die Abkürzung auf den Objektiven von Tokina bedeuten, hier gängigsten...* 
  
   
 
@@ -32,47 +32,36 @@ published: false
 
 | Abkürzung | | | Bezeichnung | | | Erklärung | 
 | :-------- |:-------- | :-------- | :-------- | :-------- | :-------- |:-------- |
-| II, III | | |Nummer/"Mark"| | |Bezeichnet die zweite oder dritte Generation eines Objektivs. 	   ||
+| II  | | |Nummer/"Mark"| | |Bezeichnet die zweite eines Objektivs. 	   ||
 | |  |  ||
-| AFD | | |Arc Form Drive | | | Objektive ohne USM Motor der EF und EF-S Modellreihe verfügen über einen gewöhnlichen Motor. Einer dieser "gewöhnlichen" Antriebsarten ist der AFD. Dieser ist in der Regel recht laut und ggf auch etwas langsamer.	   ||
+| AS | | |Aspherical Optics | | | Asphärische Linsen für bessere Randschärfe und Reduzierung der Verzeichnung.	   ||
 | |  |  ||
-| AL | | |Aspherical Lens | | |Objektiv mit aspärische(r) Linse(n) zur Optimierung der Bildqualität. Korrigiert zb.: Verzerrungen bei Superweitwinkelobjektiven mit großen Blenden. Weitere Bezeichnungen sind AS und ASPH.   ||
+| AT-X | | |Advenced Technologys | | | -   ||
 | |  |  ||
-| AF | | |Auto Focus | | |Die Kamera stellt auf die/den ausgewählten Fokuspunkt automatisch scharf. 	   ||
+| D | | |Digitally Integrated | | |Objektiv hat einen vollen Bildkreis zum Einsatz an Vollformat-DSLRs. Sie passen jedoch auch an APS-C-Kameras. 	   ||
 | |  |  ||
-| EF | | |Electronic Focus | | |EF werden Objektive bezeichnet die für Vollformat entwickelt wurden, funktonieren aber an allen EOS-Kameras. Sie sind mit einem Roten Quadrat am Objektivbajonett gekennzeichnet.	   ||
+| C | | |Canon AF | | |Auto Focus Lenses - Anschlussbezeichung für Canon Linsen. 	   ||
 | |  |  ||
-| EF-M | | |Mirrorless | | |Speziell für die Canon M konzenpierte Objektive die besonders Kompakt und klein sind. 	   ||
+| Di II | | | - | | |Das Kürzel steht für die neuere Generation von Tamrons "Di"-Optiken. Diese wurden speziell für SLRs mit Sensoren im APS-C-Format entwickelt. Funktionieren nicht an Vollformat Kameras bzw haben dann einen schwarzen Rand! 	   ||
 | |  |  ||
-| EF-S | | |Short back focus | | |Objektive die speziell für Kameras für den kleineren APS-C Sensor gebaut wurden, wie die EOS 7D, EOS 70D, EOS 60D, EOS 60Da, EOS 50D, EOS 40D, EOS 30D, EOS 20D, EOS 100D, EOS 700D, EOS 650D, EOS 600D, EOS 550D, EOS 500D, EOS 450D, EOS 400D, EOS 350D, EOS 300D, EOS 1200D, EOS 1100D, and EOS 1000D. EF-S Objektive funktonieren allerdings nicht an reinen EF-Kameras. Sie sind mit einem weißem Quadrat am Objektivbajonett gekennzeichnet. ||
+| DX | | | - | | |Tokina und Nikon kennzeichnen mit "DX" diejenigen Objektive, die für digitale Nikon-DSLRs mit APS-C-Sensor geeignet sind. 	   ||
 | |  |  ||
-| FT-M | | |FullTime Manuall Focusing | | |Ermöglicht es trotz aktiviertem Autofokus eine manuelle Fokussierung vorzunehmen.  	   ||
+| FO | | | Focus Clutch Mechanism | | |Steht für schnelles Umschalten von Autofokus auf manuellen Fokus und umgekehrt, indem man den Fokusring nach hinten beziehungsweise vorne schiebt. 	   ||
 | |  |  ||
-| DO | | |Diffractive Optics | | |Stehen für eine kompaktere und leichtere Bauweise bei Zoomobjektiven dank gebeugten Optiken und sollen Farbfehler korrigieren. DO-Objektive sind mit einem grünen Ring an der Vorderseite des Objektives gekennzeichnet.  	   ||
+| HLD | | | High Refraction, Low Dispersion | | |Hoher Brechungsindex, niedriger Streuungsindex. 	   ||
 | |  |  ||
-| DW-R | | |Dust & Water Resistant | | |Objektive mit dieser Bezeichnung sind Staub und Wasserdicht.
+| IRF/IF | | | Internal Rear Focus System | | |  Nutzt zum Fokussieren die hinteren Linsen. Diese werden bei Scharfstellung verschoben. 	   ||
 | |  |  ||
-| Fluorite | | |--- | | |	Ähnlich wie UD Linsen, stehen Fluorite Linsen für eine sehr niedrige Lichtstreuung, die Farbsäume reduziert. Meist genutz werden solche Linsen in Tele,- Supertele und Weitwinkelobjektiven. Gängige Bezeichnungen sind CaF2, UD und S-UD. ||
+| N/D | | |Nikon AF-D | | |Auto Focus Lenses - Anschlussbezeichung für Nikon Linsen. 	   ||
 | |  |  ||
-| FP | | | Focus Preset | | |Vorfokussierung, speichert die Fokussierebene.	   ||
+| OTFC | | | One-Touch Focus Clutch | | |  Neue Bezeigung, wie FO. 	   ||
 | |  |  ||
-| I/R | | | Internal/Rear Focusing | | |Sehr kompakte Autofokus Bauart mit einer Innenfokussierung der hinteren Linsengruppen. Dies verhindert eine Rotation der Frontlinse, was zb. das Einsetzten von POL oder Verlaufsfilter erleichtert. 	   ||
+| S | | |Sony AF | | |Auto Focus Lenses - Anschlussbezeichung für Sony Linsen. 	   ||
 | |  |  ||
-| IS | | |Image Stabilization | | |Objektive mit eingebauten Bildstabilisierungssystem (welches auch abgeschaltet werden kann), reduziert Verwackler und erwöglichst längere Belichtungszeiten.	   ||
+| SD | | | Super Low Dispersion | | |  Spezielle Linsen mit geringem Brechungsindex, um Aberration zu reduzieren. 	   ||
 | |  |  ||
-| L | | |Luxury | | | Bezeichnen Objektive der Luxusklasse bei Canon. Sie sind mit einem Roten Ring an der vorderseite des Objektivs gekennzeichnet und beiten neben einer besseren Bildqualität durch spezielle Linsen, Schutz gegen Witterungseinflüsse und Staub.	   ||
+| WR | | | Water Repellent | | |  Wasser- und fettabweisende Vergütung der Linse. 	   ||
 | |  |  ||
-| MM | | |Micro Motor | | | Eine weitere Antriebsart für den Fokus ist der Mikro Motor, dieser erschien kurze Zeit nach dem AFD und ist noch kompakter aber auch leistungsschwächer. Dieser Motor ist nur in Objektiven der untersten Preisklasse wie dem EF50 1.8, EF75-300III verbaut aber auch in neueren EF-S Objektiven wie dem EF 18-55 IS oder 55-250 IS.	   ||
-| |  |  ||
-| SSc | | |Super Spectra coating | | |Die Super Spectra Vergütung minimiert Phantombilder und Streulicht, stellt zudem eine gleichmäßige Farbbalance sicher. Resultat: gestochen scharfe und kontrastreiche Bilder.	   ||
-| |  |  ||
-| STM | | |Stepping Motor Technology | | |Die Stärken bei STM Objektiven liegt eindeutig bei Videoaufnahmen. Sie sind Lautlos und bieten einen sanft schärfenden Autofokus. 	   ||
-| |  |  ||
-| UD | | |Ultra Low Dispersion | | |Steht für geringer streuende Linsen, die Farbsäume reduzieren sollen. Meist genutz in Tele,- Supertele und Weitwinkelobjektiven. Gängige Bezeichnungen sind CaF2, UD und S-UD.	   ||
-| |  |  ||
-| USM | | |Ultrasonic Motor | | |Ultraschallmotoren bieten einen schnellen und leisen Autofokus.	   ||
-| |  |  ||
-
 
  
   
