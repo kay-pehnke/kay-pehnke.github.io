@@ -66,6 +66,7 @@ Alternativ kann man die gewünschten Informationen auch über eine Tabelle bezie
 Tipp: Wenn man sich für Langzeitbelichtungen mit ND Filtern interessiert sollte man auf die Bezeichnung achten! Es gibt hier leider KEINEN Standard!!!
 Je Hersteller tragen einige Filter die Bezeichnung ND3.0 oder ND1024. In beiden Fällen meint man jedoch einen Filter mit 10 Blendstufen, was ganz schon verwirren kann.
 
+
 Weitere Bsp:
 
 * ND0.9 = ND8     = 3 Blendstufen
@@ -95,8 +96,6 @@ Text: Unterschiedliche Bezeichnungen, gleiche Bedeutung!
 NDTimer gibt es leider nur für Apple Devises und ist kompatibel zu allen Geräten (iPhone, iPad, iPod touch) ab iOS Version 7.1 oder höher.
 
 * iOS Version:  [Im App Store](https://itunes.apple.com/de/app/ndtimer/id390568001?mt=8)
-  
-
 
     
 

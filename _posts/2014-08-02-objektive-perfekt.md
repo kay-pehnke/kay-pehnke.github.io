@@ -5,7 +5,7 @@ description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
 image:
-  feature: ol5.jpg
+  feature: p.jpg
 comments: true
 share: false
 published: false
@@ -26,7 +26,7 @@ published: false
 Ein Perfektes Objektiv wäre wohl etwas in Richtung eines 8-400mm f/1.4 Makro VR DX STM DO, welches aus technischer, wie auch physikalischer Sicht unmöglich zu konstruieren wäre. 
 
 <figure>
-<img src="/images/p.jpg"/>
+<img src="/images/p1.jpg"/>
 <figcaption>Ein mögliches "Perfektes" Objektiv.</figcaption>
 </figure>
 

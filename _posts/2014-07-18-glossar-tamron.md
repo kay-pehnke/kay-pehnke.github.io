@@ -5,7 +5,7 @@ description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
 image:
-  feature: tok.jpg
+  feature: tam1.jpg
 comments: true
 share: false
 published: false
@@ -42,6 +42,33 @@ published: false
 
 
 
+<figure>
+<img src="/images/tam.jpg"/>
+<figcaption>Das »PZD« (Piezo Drive) ist die Bezeichnung für einen Ultraschallmotor, wobei »VC« (Vibration Compensation/Control) für einen verbauten Bildstabilisator steht. »16-300mm« sagt etwas über die kleinste und längste Brennweite dieses Objektives, wobei »F/3.5-6.3« (schwer zu erkennen) etwas über die Lichtstärke dieses Teleobjektiven sagt. »Ø67« ist eine Information für den Filterdurchmesser. Die Bezeichnung »Di II« steht  wiederum für ein Objektiv das für Kameras mit APS-C Sensor gebaut wurde.</figcaption>
+</figure>
+
+ 
+  
+
+
+    
+
+
+
+
+
+
+
+ 
+  
+
+
+    
+
+
+
+
+
 | Abkürzung | | | Bezeichnung | | | Erklärung | 
 | :-------- |:-------- | :-------- | :-------- | :-------- | :-------- |:-------- |
 | II  | | |Nummer/"Mark"| | |Bezeichnet die zweite Generation eines Objektivs. 	   ||
@@ -55,6 +82,8 @@ published: false
 | Di I | | |Digital I | | |Bezeichnung für Vollformat-Objektive. Kann auch an Di II (APS-C Sensor) verwendet werden.	   ||
 | |  |  ||
 | Di II | | | Digital II | | |Bezeichnung für APS-C-Format Objektive. Dieses Objektiv kann NICHT an Vollformat Kameras verwendet werden! 	   ||
+| |  |  ||
+| eBand | | | - | | |Bezeichnung für eine Nano-Schicht auf der Linse des Objektives gegen unerwünschte Reflektionen und Artefakte. 	   ||
 | |  |  ||
 | HID | | | High Index Dispersion | | |Mit "High Index Dispersion" bezeichnet Tamron Objektive, deren Linsen chromatische Aberration vermindern sollen. 	   ||
 | |  |  ||

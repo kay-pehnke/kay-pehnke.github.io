@@ -30,6 +30,23 @@ published: true
 
 
 
+<figure>
+<img src="/images/tok2.jpg"/>
+<figcaption>Das »SD« (Super Low Dispersion) steht bei Tokina Objektiven für eine Reduzierung der Aberration. »12-28mm« steht für die kleinste und längste Brennweite dieses Objektives. »F4« hingegen sagt einem das dieses Objektiv über eine Durchgängige Lichtstärke verfügt. »IF« (Internal Rear Focus System) sagt einem das im inneren dieses Objektives fokussiert wird, demnach gibt es keine Längenänderung, keine Rotation der Frontlinse. Die Bezeichnung »DX« nutzen Tokina, sowohl auch Nikon als Bezeichnung für Objektive die über einen APS-C Sensor verfügen.</figcaption>
+</figure>
+
+
+ 
+  
+
+
+    
+
+
+
+
+
+
 | Abkürzung | | | Bezeichnung | | | Erklärung | 
 | :-------- |:-------- | :-------- | :-------- | :-------- | :-------- |:-------- |
 | II  | | |Nummer/"Mark"| | |Bezeichnet die zweite Generation eines Objektivs. 	   ||
