@@ -5,7 +5,7 @@ description: "Examples and code for displaying images in posts."
 category: einzelworkshop
 tags: [Workshop]
 image:
-  feature: stifte.jpg
+  feature: b1.jpg
 comments: true
 share: false
 published: true
