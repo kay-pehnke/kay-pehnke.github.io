@@ -8,7 +8,7 @@ image:
   feature: ziege.jpg
 comments: true
 share: false
-published: false
+published: true
 owner:
   name: Stephie
   avatar: stephie.jpg
