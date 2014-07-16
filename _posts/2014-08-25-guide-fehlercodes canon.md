@@ -40,3 +40,15 @@ published: false
 | |  |  ||  ||  ||
 | 02 | | |Die Kamera kann nicht auf die Speicherkarte zugreifen.| | |Entferne die Speicherkarte aus deiner DSLR und setzte sie neu ein. Sollte es nach wie vor nicht funktionieren, formatiere die Speicherkarte über deine Kamera. Hast du immer noch kein Glück, versuche zunächst eine zweite oder dritte Karte, sollten diese ohne Probleme funktionieren, scheint meiner der ersten ggf. ein Fehler vorzuliegen.||
 | |  |  ||  ||  ||
+
+
+
+
+
+
+
+Link: (einbauen)
+Original Artikel (im englischem
+http://cpn.canon-europe.com/content/education/infobank/camera_settings/eos_error_codes_and_messages.do
+
+Übersetzt und Erweiterte Abkürzungen...
