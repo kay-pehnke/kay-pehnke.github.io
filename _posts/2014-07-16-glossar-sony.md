@@ -32,7 +32,7 @@ published: true
 
 <figure>
 <img src="/images/so2.jpg"/>
-<figcaption>E-Mount-Objektive von Sony, die den vollen Bildkreis der A7/A7R ausleuchten, tragen das Kürzel »FE« in der Bezeichnung, die erste Bezeigung dieses Objektives.»3.5-5.6« sagt hingegen etwas über die Lichtstärke. Die Bezeichnung »28-70mm« steht für die kleinste und längste Brennweite. »Optical Steady Shot« ist die Bezeichnung für einen verbauten Bildstabilisator.</figcaption>
+<figcaption>E-Mount-Objektive von Sony, die den vollen Bildkreis der A7/A7R ausleuchten, tragen das Kürzel »FE« in der Bezeichnung, die erste Bezeigung dieses Objektives.»3.5-5.6« sagt hingegen etwas über die Lichtstärke aus. Die Bezeichnung »28-70mm« steht für die kleinste und längste Brennweite. »Optical Steady Shot« ist die Bezeichnung für einen verbauten Bildstabilisator.</figcaption>
 </figure>
  
   
