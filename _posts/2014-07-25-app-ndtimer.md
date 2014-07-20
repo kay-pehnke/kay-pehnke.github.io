@@ -8,7 +8,7 @@ image:
   feature: nd.jpg
 comments: true
 share: false
-published: false
+published: true
 ---
  
   
@@ -73,12 +73,11 @@ Weitere Bsp:
 * ND1.8 = ND64   = 6 Blendstufen 
 * ND2.4 = ND256 = 8 Blendstufen 
 
-
-<figure class="half">
-	<img src="/images/nd6.jpg">
-	<img src="/images/nd7.jpg">
-	<figcaption>Unterschiedliche Bezeichnungen, gleiche Bedeutung!</figcaption>
+<figure>
+<img src="/images/nd6.png"/>
+<figcaption>Unterschiedliche Bezeichnungen, gleiche Bedeutung!</figcaption>
 </figure>
+
 
 Bild (2): Bezeichnung ND1.8 und ND64 
 Text: Unterschiedliche Bezeichnungen, gleiche Bedeutung!
