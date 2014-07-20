@@ -74,7 +74,7 @@ Weitere Bsp:
 * ND2.4 = ND256 = 8 Blendstufen 
 
 <figure>
-<img src="/images/nd6.png"/>
+<img src="/images/nd6.jpg"/>
 <figcaption>Unterschiedliche Bezeichnungen, gleiche Bedeutung!</figcaption>
 </figure>
 
