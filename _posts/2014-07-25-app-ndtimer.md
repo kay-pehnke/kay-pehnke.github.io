@@ -18,7 +18,7 @@ published: false
 
 
 
-*NDTimer ist eine nützliche App für Apple Devises und dient zur schnellen Berechnung bei Nutzung eines oder zwei ND-Filter...* 
+*NDTimer ist eine nützliche App für Apple Devices und dient zur schnellen Berechnung bei Nutzung eines oder zwei ND-Filter...* 
  
   
 
@@ -64,7 +64,7 @@ Alternativ kann man die gewünschten Informationen auch über eine Tabelle bezie
 
 
 Tipp: Wenn man sich für Langzeitbelichtungen mit ND Filtern interessiert sollte man auf die Bezeichnung achten! Es gibt hier leider KEINEN Standard!!!
-Je Hersteller tragen einige Filter die Bezeichnung ND3.0 oder ND1024. In beiden Fällen meint man jedoch einen Filter mit 10 Blendstufen, was ganz schon verwirren kann.
+Je Hersteller tragen einige Filter die Bezeichnung ND3.0 oder ND1024. In beiden Fällen meint man jedoch einen Filter mit 10 Blendstufen, was etwas verwirren kann.
 
 
 Weitere Bsp:
@@ -88,10 +88,9 @@ Weitere Bsp:
 
 
 
-NDTimer gibt es leider nur für Apple Devises und ist kompatibel zu allen Geräten (iPhone, iPad, iPod touch) ab iOS Version 7.1 oder höher.
+NDTimer gibt es leider nur für Apple Devices und ist kompatibel zu allen Geräten (iPhone, iPad, iPod touch) ab iOS Version 7.1 oder höher (Stand 10.2014).
 
 * iOS Version:  [Im App Store](https://itunes.apple.com/de/app/ndtimer/id390568001?mt=8)
-
     
 
 
