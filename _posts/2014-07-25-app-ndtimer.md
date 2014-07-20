@@ -8,7 +8,7 @@ image:
   feature: nd.jpg
 comments: true
 share: false
-published: true
+published: false
 ---
  
   
@@ -77,10 +77,6 @@ Weitere Bsp:
 <img src="/images/nd6.jpg"/>
 <figcaption>Unterschiedliche Bezeichnungen, gleiche Bedeutung!</figcaption>
 </figure>
-
-
-Bild (2): Bezeichnung ND1.8 und ND64 
-Text: Unterschiedliche Bezeichnungen, gleiche Bedeutung!
   
 
 
