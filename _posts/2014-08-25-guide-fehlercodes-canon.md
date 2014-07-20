@@ -147,7 +147,7 @@ published: false
 
 
 
-Wenn die obenstehenden Lösungen keinen Erfolg bringen, gibt es weitere Informationen zu Servicestellen und Kontaktanfragen seitens Canon [hier.](http://cpn.canon-europe.com/content/education/infobank/camera_settings/eos_error_codes_and_messages.do)
+Wenn die obenstehenden Lösungen keinen Erfolg bringen, gibt es weitere Informationen zu Servicestellen und Kontaktanfragen seitens Canon [hier.](http://www.canon-europe.com/Support/Consumer_Products/services_locator/index.aspx)
 
 
 
