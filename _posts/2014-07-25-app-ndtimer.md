@@ -64,7 +64,7 @@ Alternativ kann man die gewünschten Informationen auch über eine Tabelle bezie
 
 
 Tipp: Wenn man sich für Langzeitbelichtungen mit ND Filtern interessiert sollte man auf die Bezeichnung achten! Es gibt hier leider KEINEN Standard!!!
-Je Hersteller tragen einige Filter die Bezeichnung ND3.0 oder ND1024. In beiden Fällen meint man jedoch einen Filter mit 10 Blendstufen, was etwas verwirren kann.
+Je Hersteller tragen einige Filter die Bezeichnung ND3.0 oder ND1024. In beiden Fällen meint man jedoch einen Filter für 10 Blendstufen, was etwas verwirren kann.
 
 
 Weitere Bsp:
