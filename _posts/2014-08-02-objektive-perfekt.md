@@ -35,11 +35,11 @@ Es gibt für die unterschiedlichsten Bereiche, unterschiedlichste Objektive von 
 Bei einem Kauf sollte man steht's auf eigene Vorlieben setzten und sich nicht weiter beirren lassen! Achtet (wenn erwünscht) auf technische Unterstützungen, wie einen Image Stabilisator (bei Zooms), Innenfokussierung (für Filter nützlich) oder Ultraschallmotoren (fürs schnelle und leise Fokussieren). 
 
 
-Tipp: Vergleicht nicht nur Original Objektive eures Kameraherstellers, erwägt auch Dritthersteller. 
+Tipp: Vergleicht nicht nur Original Objektive eures Kameraherstellers, erwägt auch die von Drittherstellern. 
 
 <figure>
 <img src="/images/p2.jpg"/>
-<figcaption>Zoom-Objektiv von Sigma, Tamron und Canon.</figcaption>
+<figcaption>Objektiv von Zeiss, Rokinon und Walimex/Samyang.</figcaption>
 </figure>
 
 
