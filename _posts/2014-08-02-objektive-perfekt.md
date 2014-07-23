@@ -8,7 +8,7 @@ image:
   feature: ol5.jpg
 comments: true
 share: false
-published: true
+published: false
 ---
 
 *Oftmals ließt man in Rezensionen oder Foren von "mein immer drauf", "das perfekte Objektiv" usw.. Die Wahrheit ist allerdings, es gibt kein perfektes Objektiv! Man geht bei solchen Aussagen von persönlichen Vorlieben, eigenen Interessen oder die eigene Psyche spielt eine entschiedene Rolle ^^. Man kennt es ja, ein neu erstandenes "Spielzeug", man(n) ist schnell begeistert, hatte ggf. kein vergleichbares Produkt im Vorfeld und kommt so ganz schnell zu einem positiven Fazit!* 
