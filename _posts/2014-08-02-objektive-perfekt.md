@@ -11,7 +11,7 @@ share: false
 published: false
 ---
 
-*Oftmals ließt man in Rezitationen oder Foren von "mein immer drauf", "das perfekte Objektiv" usw.. Die Wahrheit ist allerdings, es gibt kein perfektes Objektiv! Man geht bei solchen Aussagen von persönlichen Vorlieben, eigenen Interessen oder die eigene Psyche spielt eine entschiedene Rolle ^^. Man kennt es ja, ein neu erstandenes "Spielzeug", man(n) ist schnell begeistert, hatte ggf. kein vergleichbares Produkt im Vorfeld und kommt so ganz schnell zu einem positiven Fazit!* 
+*Oftmals ließt man in Rezensionen oder Foren von "mein immer drauf", "das perfekte Objektiv" usw.. Die Wahrheit ist allerdings, es gibt kein perfektes Objektiv! Man geht bei solchen Aussagen von persönlichen Vorlieben, eigenen Interessen oder die eigene Psyche spielt eine entschiedene Rolle ^^. Man kennt es ja, ein neu erstandenes "Spielzeug", man(n) ist schnell begeistert, hatte ggf. kein vergleichbares Produkt im Vorfeld und kommt so ganz schnell zu einem positiven Fazit!* 
  
   
 
@@ -23,7 +23,7 @@ published: false
 
 
 
-Ein Perfektes Objektiv wäre wohl etwas in Richtung eines 8-400mm f/1.4 Makro VR DX STM DO, welches aus technischer, wie auch physikalischer Sicht unmöglich zu konstruieren wäre. 
+Ein Perfektes Objektiv wäre wohl etwas in Richtung eines 8-400mm f/1.4 Makro VR DX STM DO, welches aus technischer, wie auch physikalischer Sicht wohl unmöglich zu konstruieren wäre. 
 
 <figure>
 <img src="/images/p1.jpg"/>
@@ -32,7 +32,12 @@ Ein Perfektes Objektiv wäre wohl etwas in Richtung eines 8-400mm f/1.4 Makro VR
 
 Es gibt für die unterschiedlichsten Bereiche, unterschiedlichste Objektive von unterschiedlichsten Herstellern. 
 
-Bei einem Kauf sollte man steht's auf eigene Vorlieben setzten und sich nicht weiter beirren lassen! Achtet (wenn erwünscht) auf technische Unterstützungen, wie einen Image Stabilisator (bei Zooms), Innenfokussierung (für Filter nützlich) oder Ultraschallmotoren (fürs schnelle und leise Fokussieren). 
+<figure>
+<img src="/images/p3.jpg"/>
+<figcaption>Zum Vergleich: Das Sigma 200-500 f/2.8 EX DG kostet fast 25.000 €, wiegt 15.700g und muss mit einem externen Akku für den Autofokus und Zoom versehen werden!</figcaption>
+</figure>
+
+Beim Kauf eines Objektives sollte man steht's auf eigene Vorlieben setzten und sich nicht weiter beirren lassen! Achtet (wenn erwünscht) auf technische Unterstützungen, wie einen Image Stabilisator (bei Zooms), Innenfokussierung (für Filter nützlich) oder Ultraschallmotoren (fürs schnelle und leise Fokussieren) usw. 
 
 
 Tipp: Vergleicht nicht nur Original Objektive eures Kameraherstellers, erwägt auch die von Drittherstellern. 
@@ -44,9 +49,10 @@ Tipp: Vergleicht nicht nur Original Objektive eures Kameraherstellers, erwägt a
 
 
 
-Das wichtigste musst du aber für dich beantworten, suchst du ein Objektiv für den Makrobereich, Architektur oder Landschaftsbereich? Oder fotografierst du vielleicht  lieber Menschen/Personen, Tiere oder Sport?!?! 
+Das wichtigste muss man sich aber selbst beantworten: ”Was fotografiere ich am liebsten?“ 
+Liebe ich es Menschen, Tiere oder Landschaften abzulichten oder liegt mein Interesse doch eher im Bereich der Makrofotografie, Architektur und im Sport?!?
 
-Wenn du dieses Punkte berücksichtigst solltest du deine Suche weit möglichst eingrenzen können.
+Wenn du einige dieser Punkte berücksichtigst solltest du deine Suche weit möglichst eingrenzen können.
   
 
 

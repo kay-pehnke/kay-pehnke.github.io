@@ -167,4 +167,4 @@ Wenn die obenstehenden Lösungen keinen Erfolg bringen, gibt es weitere Informa
 
 
 
-> Fehlt eine Abkürzung oder ist eine Bezeichnung falsch? Dann melde dich doch :)
+> Fehlt ein Fehlercode oder ist eine Beschreibung falsch? Dann melde dich doch :)
