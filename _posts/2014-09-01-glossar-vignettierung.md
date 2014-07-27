@@ -37,8 +37,6 @@ Vignettierung bedeutet, ein Helligkeitsabfall oder Abschattung an den Bildrände
 Dieser Randhelligkeitsabfall ist kein Abbildungsfehler und physikalisch ebenfalls nicht vermeidbar.
 Die Vignettierung wird durch die Größe des Bildwinkels bestimmt, bei Objektiven mit kurzer Brennweite (zb.: Weitwinkel, Fisheye) und damit größerem Bildwinkel zeigt sich dieser Effekt am deutlichsten.
 
-Bei Vollformatkameras zeigt sich dies besonders deutlich! Crop-Kameras verfügen über einen kleinerer Bildsensor, somit über ein kleineren Bildausschnitt, wo die Vignettierung sehr gering ausfällt.
-
 
 
 
@@ -56,17 +54,16 @@ Bei Vollformatkameras zeigt sich dies besonders deutlich! Crop-Kameras verfügen
 
 
 
-#### <a name="fenced-code-block">Korrektur  der Vignettierung:</a>
+#### <a name="fenced-code-block">Korrektur der Vignettierung:</a>
 Der Randabfall lässt sich mit relativ einfachen Mitteln korrigieren. 
+Zum einen bieten einige Kamerahersteller die Möglichkeit eine Korrektur in der Kamera vorzunehmen. Die funktioniert jedoch nur bei Annahmen im JPG Modus!
 
-Im großen und ganzen gibt zwei Möglichkeiten dem Entgegenzusetzen. 
-Fotografiert ihr im JPG Format könnt ihr dies unter Umständen schon in deiner Kamera selber begradigen.
-Einige Hersteller wie Canon haben eine Vignettierungs-korrektur für eigene Objektive in die Kamera verbaut. Ist ein neueres nicht vorhanden könnt ihr es über eine Software auf eure Kamera laden. 
+ Ist ein neueres nicht vorhanden könnt ihr es über eine Software auf eure Kamera laden. 
 
 
 <figure>
 <img src="/images/v2.jpg"/>
-<figcaption>Menü einer Canon Kamera</figcaption>
+<figcaption>Canon bietet eine Vigenttierungs-Korrektur direkt in der Kamera, jedoch nur für eigene Objektive!</figcaption>
 </figure>
 
 
