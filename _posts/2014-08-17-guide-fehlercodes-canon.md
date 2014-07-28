@@ -23,7 +23,7 @@ published: false
 
 
 
-  *Vielleicht hattest du schon einmal eine Fehlmeldung an deiner EOS Kamera. Übersetzt und Erweiterte Abkürzungen...* 
+  *Hast du eine Fehlernachricht auf deiner EOS Kamera? Folgend eine Auflistung mit Kurzbeschreibung und möglicher Lösung:* 
  
  
   
@@ -147,7 +147,7 @@ published: false
 
 
 
-Wenn die obenstehenden Lösungen keinen Erfolg bringen, gibt es weitere Informationen zu Servicestellen und Kontaktanfragen seitens Canon [hier.](http://www.canon-europe.com/Support/Consumer_Products/services_locator/index.aspx)
+Wenn die oben stehenden Lösungen keinen Erfolg bringen, gibt es weitere Informationen zu Servicestellen und Kontaktanfragen seitens Canon [hier.](http://www.canon-europe.com/Support/Consumer_Products/services_locator/index.aspx)
 
 
 
@@ -167,4 +167,4 @@ Wenn die obenstehenden Lösungen keinen Erfolg bringen, gibt es weitere Informa
 
 
 
-> Fehlt ein Fehlercode oder ist eine Beschreibung falsch? Dann melde dich doch :)
+> Fehlt ein Fehlercode oder ist eine Beschreibung falsch? Dann melde dich doch.
