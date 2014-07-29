@@ -72,7 +72,7 @@ Alle größeren RAW-Konverter bieten die Möglichkeit, Profile für unterschiedl
 <figure class="half">
 	<img src="/images/v3.jpg">
 	<img src="/images/v4.jpg">
-	<figcaption>Canons Digital Photo Professional und Nikons Capture NX2 RAW-Konverter beinhalten auch eine Vigenttierungs-Korrektur.</figcaption>
+	<figcaption>Canons Digital Photo Professional und Nikons ViewNX2 RAW-Konverter beinhalten auch eine Vigenttierungs-Korrektur.</figcaption>
 </figure>
 
 Softwarelösungen von Drittanbietern verfügen natürlich auch über eine solche Korrektur.
@@ -87,7 +87,7 @@ Softwarelösungen von Drittanbietern verfügen natürlich auch über eine solche
 
 Downloads: (Stand 08.2014):
 
-* Adobe Lightroom:  [Adobe Website](https://itunes.apple.com/de/app/ndtimer/id390568001?mt=8)
-* Apple Aperture:  [MacApp Store](https://itunes.apple.com/de/app/ndtimer/id390568001?mt=8)
-* Canon DPP:  [Canon Website](https://itunes.apple.com/de/app/ndtimer/id390568001?mt=8)
-* Nikon Capture NX2:  [Nikon Website](https://itunes.apple.com/de/app/ndtimer/id390568001?mt=8)
+* Adobe Lightroom:  [Adobe Website](http://www.adobe.com/de/products/photoshop-lightroom.html)
+* Apple Aperture:  [Apple Website](https://www.apple.com/de/aperture/)
+* Canon DPP:  [Canon Website](http://www.canon-europe.com/support/software/dpp/index.aspx)
+* Nikon Capture ViewNX2:  [Nikon Website](http://www.nikon.de/de_DE/product/software/viewnx2)
