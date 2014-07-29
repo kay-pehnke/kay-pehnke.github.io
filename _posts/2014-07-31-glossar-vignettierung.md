@@ -86,6 +86,6 @@ Softwarelösungen von Drittanbietern verfügen natürlich auch über eine solche
 
 Downloads: (Stand 08.2014):
 
-* Adobe Lightroom:  [Adobe Website](http://www.adobe.com/de/products/photoshop-lightroom.html)
-* Canon DPP:  [Canon Website](http://www.canon-europe.com/support/software/dpp/index.aspx)
-* Nikon Capture ViewNX2:  [Nikon Website](http://www.nikon.de/de_DE/product/software/viewnx2)
+* Adobe Lightroom:  [link](http://www.adobe.com/de/products/photoshop-lightroom.html)
+* Canon DPP:  [link](http://www.canon-europe.com/support/software/dpp/index.aspx)
+* Nikon Capture ViewNX2:  [link](http://www.nikon.de/de_DE/product/software/viewnx2)
