@@ -77,10 +77,9 @@ Alle größeren RAW-Konverter bieten die Möglichkeit, Profile für unterschiedl
 
 Softwarelösungen von Drittanbietern verfügen natürlich auch über eine solche Korrektur.
 
-<figure class="half">
-	<img src="/images/v6.jpg">
-	<img src="/images/v5.jpg">
-	<figcaption>Adobe Lightroom und Apples Aperture.</figcaption>
+<figure>
+<img src="/images/v6.jpg"/>
+<figcaption>Eines der Populärstes Bildbearbeitung/Archivierungsprogramme: Adobe Lighroom. (für größere Ansicht: Links klick Bild + öffnen neuen Tab)</figcaption>
 </figure>
 
 
@@ -88,6 +87,5 @@ Softwarelösungen von Drittanbietern verfügen natürlich auch über eine solche
 Downloads: (Stand 08.2014):
 
 * Adobe Lightroom:  [Adobe Website](http://www.adobe.com/de/products/photoshop-lightroom.html)
-* Apple Aperture:  [Apple Website](https://www.apple.com/de/aperture/)
 * Canon DPP:  [Canon Website](http://www.canon-europe.com/support/software/dpp/index.aspx)
 * Nikon Capture ViewNX2:  [Nikon Website](http://www.nikon.de/de_DE/product/software/viewnx2)
