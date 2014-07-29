@@ -18,7 +18,7 @@ published: true
 
 
 
-*In dieser Rubrik versuche ich euch einige Begriffe die in der Fotografie auftreten möglichst einfach zu Erklären. Denn Anfang macht, die Vignettierung!* 
+*In dieser Rubrik versuche ich euch einige Begriffe die in der Fotografie auftreten möglichst einfach zu Erklären. Den Anfang macht, die Vignettierung!* 
  
   
 
