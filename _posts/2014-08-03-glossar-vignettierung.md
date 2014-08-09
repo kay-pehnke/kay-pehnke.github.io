@@ -81,6 +81,26 @@ Softwarelösungen von Drittanbietern verfügen natürlich auch über eine solche
 <img src="/images/v6.jpg"/>
 <figcaption>Eines der Populärstes Bildbearbeitung/Archivierungsprogramme: Adobe Lighroom. (für größere Ansicht: Links klick Bild + öffnen neuen Tab)</figcaption>
 </figure>
+ 
+  
+
+
+    
+
+
+
+
+
+> Hinweis:
+> Eine falsch aufgesetzte oder nicht passende Streulichtblende kann ebenfalls eine Abschattung am Bildrand verursachen!
+ 
+  
+
+
+    
+
+
+
 
 
 
