@@ -5,7 +5,7 @@ description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
 image:
-  feature: a.jpg
+  feature: b.jpg
 comments: true
 share: false
 published: false
@@ -40,7 +40,8 @@ published: false
 
 
 
-<figure>
-<img src="/images/a1.jpg"/>
-<figcaption>.....</figcaption>
+<figure class="half">
+	<img src="/images/b2.jpg">
+	<img src="/images/b3.jpg">
+	<figcaption>Bajonettanschluss einer Canon und Nikon Kamera.</figcaption>
 </figure>
