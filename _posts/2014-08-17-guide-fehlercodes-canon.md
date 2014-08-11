@@ -8,7 +8,7 @@ image:
   feature: cog.jpg
 comments: true
 share: false
-published: true
+published: false
 ---
  
  
