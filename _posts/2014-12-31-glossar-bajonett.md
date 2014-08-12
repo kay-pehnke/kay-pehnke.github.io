@@ -32,7 +32,7 @@ published: true
 
 
 
-#### <a name="fenced-code-block"><u>Was ist ein Bajonettverschluss?:</u></a>
+#### <a name="fenced-code-block"><u>Was ist ein Objektivbajonett?:</u></a>
 
 
 
@@ -40,8 +40,8 @@ published: true
 
 
 
-<figure class="half">
-	<img src="/images/b2.jpg">
-	<img src="/images/b3.jpg">
-	<figcaption>Bajonettanschluss einer Canon Kamera.</figcaption>
+<figure>
+<img src="/images/b2.jpg"/>
+<figcaption>Bajonettanschluss einer Canon und Nikon Kamera</figcaption>
 </figure>
+
