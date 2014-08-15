@@ -72,3 +72,11 @@ Bildbeispiel, Softwarelösung, Kameralösubg (Nikon)
 <img src="/images/v10.jpg"/>
 <figcaption>Softwarelösung in Adobe Lightroom.</figcaption>
 </figure>
+
+
+weitere softwarelösungen bieten:
+
+Adobe Photoshop Elements
+DxO Labs
+Gimp
+Hugin - http://hugin.sourceforge.net (letztes update 2013) kostenlos
