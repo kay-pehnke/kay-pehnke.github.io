@@ -58,13 +58,13 @@ Moderne Bajonette verfügen über eine Vielzahl von Kontakten, die zahlreiche In
 
 <figure>
 <img src="/images/b3.jpg"/>
-<figcaption>Die Bajonettanschlüsse der verschiedenen Kamerahersteller sind oft nicht kompatibel. (Im Bild zu sehen ein Pentax-K Bajonett)</figcaption>
+<figcaption>Die Bajonettanschlüsse der verschiedenen Kamerahersteller sind oft nicht kompatibel (Im Bild zu sehen ein Pentax-K Bajonett).</figcaption>
 </figure>
 
  
   
 
-> Wissenswertes: Sigma bietet seit dem 01.09.2013 einen neuen Service für die Produktlinien Contemporary, Art und Sports an. Wenn ihr euch also für eines dieser Sigma Objektive entschieden habt, Jahre später euer Kamerasystem wechseln solltet, müsst ihr nicht unbedingt euer geliebtes Objektiv erneut kaufen! Ihr könnt einen [Umbauservice](http://www.sigma-foto.de/service/sigma-anschluss-wechsel-service.html) speziell für Bajonette nutzen! Die Ersparnis kann weit mehr als die hälfte des Original Preises sein! Vorbei schauen sollte sich also lohnen.
+<mark>Wissenswertes:</mark> Sigma bietet seit dem 01.09.2013 einen neuen Service für die Produktlinien Contemporary, Art und Sports an. Wenn ihr euch also für eines dieser Sigma Objektive entschieden habt, Jahre später euer Kamerasystem wechseln solltet, müsst ihr nicht unbedingt euer geliebtes Objektiv erneut kaufen! Ihr könnt einen [Umbauservice](http://www.sigma-foto.de/service/sigma-anschluss-wechsel-service.html) speziell für Bajonette nutzen! Die Ersparnis kann weit mehr als die hälfte des Original Preises sein! Vorbei schauen sollte sich also lohnen.
 
     
 
