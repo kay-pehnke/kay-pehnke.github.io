@@ -22,12 +22,11 @@ published: true
  
   
 
-http://vimeo.com/77985343
-[![TEST](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://vimeo.com/77985343)
+
 
 <iframe src="//player.vimeo.com/video/77985343?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/77985343">DxO-Perspective</a> from <a href="http://vimeo.com/dxolabs">DxO Labs</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-[[http://vimeo.com/77985343{77985343}-{width}x{height}]]    
+    
 
 
 
