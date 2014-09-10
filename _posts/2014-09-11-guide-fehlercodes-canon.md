@@ -23,7 +23,7 @@ published: true
 
 
 
-  *Hast du eine Fehlernachricht auf deiner EOS Kamera? Folgend eine Auflistung mit Kurzbeschreibung und möglicher Lösung:* 
+ 
  
  
   
