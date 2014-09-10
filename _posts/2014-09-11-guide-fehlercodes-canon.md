@@ -40,7 +40,7 @@ published: true
   
 <figure>
 <img src="/images/cog4.jpg"/>
-<figcaption>Allgemein sollte gesagt sein, reinigt stehts mit einem trockenen Tuch, wobei die elektronischen Kontakte nie mit der Hand berührt werden sollten. Bei den Objektivkontakten dadrauf achten das nicht die Objektivoberfläche/Linse beschädigt wird.</figcaption>
+<figcaption>Reinigt stehts mit einem trockenen Tuch, wobei die elektronischen Kontakte nie mit der Hand berührt werden sollten.</figcaption>
 </figure>
 
  
