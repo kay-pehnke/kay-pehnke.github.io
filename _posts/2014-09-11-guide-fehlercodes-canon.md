@@ -1,6 +1,6 @@
 ---
 layout: offer
-title: "Fehlercodes bei Canon EOS Kameras"
+title: "Tipp: Fehlercodes bei Canon EOS Kameras"
 description: "Fehlercodes"
 category: blog
 tags: [Fehlercodes]
