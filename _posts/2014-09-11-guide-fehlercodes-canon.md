@@ -14,30 +14,6 @@ published: true
  
   
 
-
-    
-
-
-
-
-
-
-
- 
- 
- 
-  
-
-
-    
-
-
-
-
-
-
-
-  
 <figure>
 <img src="/images/cog4.jpg"/>
 <figcaption>Reinigt stehts mit einem trockenen Tuch, wobei die elektronischen Kontakte nie mit der Hand berührt werden sollten.</figcaption>
