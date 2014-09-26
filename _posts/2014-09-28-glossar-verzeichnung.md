@@ -37,7 +37,7 @@ published: true
 
 Verzeichnungen sind Abbildungsfehler optischer Systeme. Das Problem dabei ist, dass gerade Linien zu einer Kissen oder tonnenförmigen Verzerrung führen können.
 
-<iframe src="//player.vimeo.com/video/77985343?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/77985343">In diesem Video wird recht gut erklärt was Verzeichnung ist und wie man sie via Software korrigiert (DxO-Perspective für OSX).</a> <a href="">DxO Labs</a> on <a href="">Vimeo</a>.</p>
+<iframe src="//player.vimeo.com/video/77985343?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/77985343">In diesem Video wird recht gut erklärt was Verzeichnung ist und wie man sie via Software korrigiert (DxO-Perspective für OSX).</p>
 
 Weitwinkelobjektive neigen konstruktionsbedingt eher zu einem tonnenförmigen Abbildungsfehler.
 
