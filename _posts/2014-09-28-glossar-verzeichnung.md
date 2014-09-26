@@ -8,7 +8,7 @@ image:
   feature: v11.jpg
 comments: true
 share: false
-published: false
+published: true
 ---
  
   
