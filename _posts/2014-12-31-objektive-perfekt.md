@@ -49,7 +49,7 @@ Beim Kauf eines Objektives sollte man steht's auf eigene Vorlieben setzten (zb.:
 
 
 
-Das wichtigste muss man sich aber selbst beantworten: ”Was fotografiere ich am liebsten?“ 
+Das wichtigste muss man sich aber selbst beantworten: ”Was fotografiere ich am liebsten!“ 
 
   
 
