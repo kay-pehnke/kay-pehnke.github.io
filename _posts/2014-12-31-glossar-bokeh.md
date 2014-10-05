@@ -34,7 +34,7 @@ published: false
 
 #### <a name="fenced-code-block"><u>Bokeh... was bedeutet Bokeh?:</u></a>
 
-Der Begriff Bokeh, ist vom japanischen boke abgeleitet und bedeutet unscharf oder verschwommen. Als ein gutes Bokeh bezeichnet man i.d.R. ein Foto mit einem angenehmen weichen Hintergrund.
+Der Begriff Bokeh, ist vom japanischen boke abgeleitet und bedeutet unscharf oder verschwommen. Als ein gutes Bokeh bezeichnet man in der Regel ein Foto mit einem angenehmen weichem Hintergrund.
 
 
 

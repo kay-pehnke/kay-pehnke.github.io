@@ -69,7 +69,7 @@ Es gibt aber auch eine Reihe von Drittanbietern die eine solche Option in ihren 
 </figure>
 
 
-weitere Softwarelösungen bieten:
+Weitere Softwarelösungen bieten:
 
 [Adobe Lightroom (Win/OSX)](http://www.adobe.com/de/products/photoshop-lightroom.html)
 
