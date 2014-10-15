@@ -85,7 +85,7 @@ Schaut dass ihr auf alle Fälle eine Speicherkarte der Klasse 10 bekommt (wie im
 ###<u>Schutzfilter?</u>
 Die meisten Fotografen schützen zudem ihre Objektive gern mit sogenannten Schutzfiltern. Meist werden UV-oder Protectionfilter verwendet. Ich würde euch auch dazu raten... zumindest anfangs.
 Die richtige Größe entnehmt ihr eurem Objektiv (Front), dort ist der Durchmesser angegeben (siehe Bild).
-Sehr gute Qualität liefern Filter von Hoya, Heida und B&W… andere tun es natürlich auch! Kostenpunkt: ab ca. 10€.
+Sehr gute Qualität liefern Filter von Hoya, Haida und B&W… andere tun es natürlich auch! Kostenpunkt: ab ca. 10€.
 
 ###<u>Nach dem Kauf:</u>
 Schnappt euch eure Wunschkamera und fotografiert, fotografiert, fotografiert... !
