@@ -16,7 +16,7 @@ Jeder, der sich schon darin versucht hat, Kinder oder Babys zu fotografieren, we
 
 Mit einfachen Mitteln bringen wir gemeinsam ihr/e Kind/er zum Lachen und zaubern so auf natürliche Weise stimmungsvolle Bilder :)
 
-Es ist einfacher wie ihr denkt :)
+Grundvoraussetzungen im Bereich der Fotografie sind nicht erforderlich.
 
 
 
