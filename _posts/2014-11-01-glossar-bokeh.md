@@ -61,21 +61,21 @@ Ein besonders schönes Bokeh erhält man in der Regel mit sehr Lichtstarken Obje
 	<img src="/images/b7.jpg">
 	<figcaption>Bokehs mit einem Pentagon ähnlichen Muster</figcaption>
 </figure>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
   
+
+
+    
+
+
+
+ 
+  
+
+
+    
+
+
 
 
 
