@@ -67,20 +67,16 @@ Ein besonders schönes Bokeh erhält man in der Regel mit sehr Lichtstarken Obje
 
 
 
-Diese Unterschiede gelten als Qualitätsmerkmal 
 
 
 
- Diese unterschiedlichen Erscheinungsformen der unscharfen Bereiche als auch die Qualität des Übergangs nennt man das Bokeh eines Objektives.
-
-Ein angenehmes Bokeh ist besonders wichtig für lichtstarke Objektive, da sie bei der größten Blendenöffnung eine besonders geringe Schärfentiefe aufweisen. Bokeh ist auch wichtig für Porträtobjektive (mittlere Teleobjektive), da der Fotograf häufig bewusst eine geringe Schärfentiefe anstrebt, um den Bildhintergrund in Unschärfe verschwimmen zu lassen und das porträtierte Motiv hervorzuheben.
 
 
 
-Beispielsweise erscheinen dann bei einigen Objektiven in den unscharfen Bereichen (die außerhalb der Schärfentiefe liegen) im vorderen Bereich viele helle Kreise, während bei anderen Objektiven diese Kreise eine andere Form, Farbe oder Kontrast aufzeigen.
-Bei der Fotografie bestimmter Motive wird der Hintergrund gerne bewusst unscharf gehalten, um die Ablenkung des Betrachters vom Hauptmotiv zu mindern.
 
-<figure>
-<img src="/images/b1.jpg"/>
-<figcaption>.....</figcaption>
-</figure>
+
+  
+
+
+
+> Bei weiteren Fragen stehe ich gern zu Verfügung, meldet euch einfach :)
