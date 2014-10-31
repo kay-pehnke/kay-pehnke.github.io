@@ -28,11 +28,6 @@ published: true
 
 
 
-<figure>
-<img src="/images/b5.jpg"/>
-<figcaption>Der Hintergrund kann je nach Objektiv unterschiedlich (weich) aussehen.
-</figcaption>
-</figure>
 
 
 
@@ -63,6 +58,11 @@ Ein besonders schönes Bokeh erhält man in der Regel mit sehr Lichtstarken Obje
 </figure>
  
   
+<figure>
+<img src="/images/b5.jpg"/>
+<figcaption>Der Hintergrund kann je nach Objektiv unterschiedlich (weich) aussehen.
+</figcaption>
+</figure>
 
 
     
