@@ -46,9 +46,9 @@ Der Begriff Bokeh, ist vom japanischen boke abgeleitet und bedeutet unscharf ode
 
 
 
-#### <a name="fenced-code-block"><u>Warum gibt es Unterschiede im Bokeh?:</u></a>
+#### <a name="fenced-code-block"><u>Gibt es Unterschiede im Bokeh?:</u></a>
 
-Unterschiede können je Objektiv und Hersteller auftreten. Beispielsweise erscheinen bei einem Objektiv im unscharfen Bereich viele helle Kreise, während bei anderen Objektiven diese Kreise eine andere Form (zb.: Pentagon), andere Farben und auch einen anderen Kontrast aufweisen. 
+Ja, unterschiede können je Objektiv und Hersteller auftreten. Beispielsweise erscheinen bei einem Objektiv im unscharfen Bereich viele helle Kreise, während bei anderen Objektiven diese Kreise eine andere Form (zb.: Pentagon), andere Farben und auch einen anderen Kontrast aufweisen. 
 Ein besonders schönes Bokeh erhält man in der Regel mit sehr Lichtstarken Objektiven.
 
 <figure class="half">
