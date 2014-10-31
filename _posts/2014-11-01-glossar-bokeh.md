@@ -29,8 +29,9 @@ published: true
 
 
 <figure>
-<img src="/images/b8.jpg"/>
-<figcaption>Ein Bokeh ist auch wichtig für Porträtobjektive (mittlere Teleobjektive), da der Fotograf häufig bewusst eine geringe Schärfentiefe anstrebt, um den Bildhintergrund in Unschärfe verschwimmen zu lassen und das porträtierte Motiv hervorzuheben.</figcaption>
+<img src="/images/b5.jpg"/>
+<figcaption>Der Hintergrund kann je nach Objektiv unterschiedlich (weich) aussehen.
+</figcaption>
 </figure>
 
 
@@ -41,12 +42,11 @@ Bei bestimmten Motiven wird der Hintergrund bewusst unscharf gehalten, um das Au
 Der Begriff Bokeh, ist vom japanischen boke abgeleitet und bedeutet unscharf oder verschwommen. Als ein gutes Bokeh bezeichnet man in der Regel ein Foto mit einem angenehmen weichem Hintergrund.
 
 
-<figure>
-<img src="/images/b5.jpg"/>
-<figcaption>Der Hintergrund kann je nach Objektiv unterschiedlich (weich) aussehen.
-</figcaption>
-</figure>
 
+<figure>
+<img src="/images/b8.jpg"/>
+<figcaption>Ein Bokeh ist auch wichtig für Porträtobjektive (mittlere Teleobjektive), da der Fotograf häufig bewusst eine geringe Schärfentiefe anstrebt, um den Bildhintergrund in Unschärfe verschwimmen zu lassen und das porträtierte Motiv hervorzuheben.</figcaption>
+</figure>
 
 
 
