@@ -5,7 +5,7 @@ description: "Examples and code for displaying images in posts."
 category: einzelworkshop
 tags: [Workshop]
 image:
-  feature: schloss2.jpg
+  feature: m2.jpg
 comments: true
 share: false
 published: true
@@ -45,6 +45,8 @@ published: true
 
 * Grundkurs Langzeitbelichtung
 * Grundkurs Landschaftsaufnahmen
+* Grundkurs Kinderfotoggrafie
+* Grundkurs Babyfotografie
 * Grundkurs Videofunktion ihrer DSLR
 * Grundkurs entfesselt Blitzen
 
