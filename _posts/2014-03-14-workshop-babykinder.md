@@ -21,7 +21,7 @@ Grundvoraussetzungen im Bereich der Fotografie sind nicht erforderlich.
 
 
 
-Mitbringen sollte man eine Kamera mit manuellen (P, S/TV, A/AV auf dem Wahlrad der Kamera) Einstellmöglichkeiten. 
+Mitbringen sollte man eine Kamera mit manuellen Einstellmöglichkeiten (P, S/TV und A/AV auf dem Wahlrad der Kamera) . 
 
 
 ### *Dauer: ca.2.5-3h*
