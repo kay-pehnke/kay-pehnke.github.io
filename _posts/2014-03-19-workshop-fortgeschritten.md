@@ -6,7 +6,7 @@ category: einzelworkshop
 tags: [Workshop]
 modified: 2014-03-16
 image:
-  feature: korn1.jpg
+  feature: image-2.jpg
 comments: true
 share: false
 published: true
