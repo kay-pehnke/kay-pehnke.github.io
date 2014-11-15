@@ -37,6 +37,11 @@ Es gibt für die unterschiedlichsten Bereiche, unterschiedlichste Objektive von 
 <figcaption>Ein Sigma 200-500 f/2.8 EX DG kostet fast 25.000 €, wiegt 15.700g und muss mit einem externen Akku für den Autofokus und Zoom versehen werden!</figcaption>
 </figure>
 
+video zum objektiv
+https://www.youtube.com/watch?v=08h8RTLkKHQ
+
+
+
 Beim Kauf eines Objektives sollte man steht's auf eigene Vorlieben setzten (zb.: Portrait, Architektur, Landschaft oder Makrofotografie) und sich nicht weiter beirren lassen! Achtet (wenn erwünscht) auf technische Unterstützungen, wie einen Image Stabilisator (bei Zooms), Innenfokussierung (für Filter nützlich) oder Ultraschallmotoren (für ein schnelles und leises Fokussieren) usw. 
 
 
@@ -53,8 +58,8 @@ Das wichtigste muss man sich aber selbst beantworten: ”Was fotografiere ich am
 
   
 
-
-    
+Canon 5200mm f/14 / 100Kg / 
+https://www.youtube.com/watch?v=IRq18WpQZC0    
 
 
 
