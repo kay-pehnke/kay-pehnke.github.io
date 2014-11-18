@@ -1,6 +1,6 @@
 ---
 layout: offer
-title: "Was ist: Der Abbildungsmassstab"
+title: "Was ist: Der Abbildungsmaßstab"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
