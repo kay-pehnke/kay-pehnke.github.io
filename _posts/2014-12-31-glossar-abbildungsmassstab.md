@@ -8,7 +8,7 @@ image:
   feature: m2.jpg
 comments: true
 share: false
-published: false
+published: true
 ---
  
   
