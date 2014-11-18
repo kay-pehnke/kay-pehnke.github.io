@@ -69,7 +69,7 @@ Fast alle Hersteller von Wechselobjektiven, versäumen es den Abbildungsmaßstab
 
 
 
-> In einem [Workshops](http://www.kay-pehnke.de/einzelworkshop/workshop-makro) für Makrofotografie kann ich dir zeigen wie du den Abbildungsmassstab auch ohne teurem Makroobjektiv kostengünstig erreichen kannst! Ich würde mich freuen von dir zu hören :)
+> In einem [Workshops](http://www.kay-pehnke.de/einzelworkshop/workshop-makro) für Makrofotografie kann ich dir zeigen wie du einen kleineren Abbildungsmaßstab auch ohne teurem Makroobjektiv erreichen kannst! Ich würde mich freuen von dir zu hören :)
 
 
 
