@@ -21,8 +21,8 @@ Mitbringen sollte man nach Möglichkeit eine Kamera mit manuellen Einstellmögli
 
 Bei weiteren Fragen, einfach melden :)
 
-### *Alter 8-12Jahre
+### *Alter 8-12Jahre*
 
 ### *Dauer: ca.1h*
 
-### *Preis: Kostenlos
+### *Preis: Kostenlos*
