@@ -32,7 +32,7 @@ published: true
 
 #### <a name="fenced-code-block"><u>Was ist eine Vergütung?:</u></a>
 
-Eine Vergütung ist eine spezielle Beschattung auf den Glasflächen der Objektivlinsen wie eine Super-Spectra oder Nano(kristall)-Vergütung. Sie eliminieren Streulicht (Lichtreflektionen von der Rückseite des Objektivtubus) und Geister/Phantombilder (durchscheinende Nebenbilder auf der Aufnahme) und sorgen so für eine brillante, klare Abbildungsqualität.
+Eine Vergütung ist eine spezielle Beschichtung auf den Glasflächen der Objektivlinsen wie eine Super-Spectra oder Nano(kristall)-Vergütung. Sie eliminieren Streulicht (Lichtreflektionen von der Rückseite des Objektivtubus) und Geister/Phantombilder (durchscheinende Nebenbilder auf der Aufnahme) und sorgen so für eine brillante, klare Abbildungsqualität.
 
 Je besser die verbauten Linsen in einem Objektiv sind, desto wirkungsvoller werden Blendenflecken unterdrückt.
 
