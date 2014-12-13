@@ -1,6 +1,6 @@
 ---
 layout: offer
-title: "Was ist: Vergütung"
+title: "Was ist: Die Vergütung"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
