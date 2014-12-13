@@ -1,6 +1,6 @@
 ---
 layout: offer
-title: "Was ist: Der Abbildungsmassstab"
+title: "Was ist: Vergütung"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
@@ -36,15 +36,26 @@ Eine Vergütung ist eine spezielle Beschattung auf den Glasflächen der Objektiv
 
 Je besser die verbauten Linsen in einem Objektiv sind, desto wirkungsvoller werden Blendenflecken unterdrückt.
 
-
-
-
-<figure>
-<img src="/images/v12.jpg"/>
-<figcaption>Blendflecke können auch eigesetzt werden um dem Betrachter einen bestimmten Ausdruck zu vermitteln.</figcaption>
+<figure class="half">
+	<img src="/images/v12.jpg">
+	<img src="/images/v13.jpg">
+	<figcaption>Blendflecke können auch eigesetzt werden um dem Betrachter einen bestimmten Ausdruck zu vermitteln, wobei das Phänomen von Geisterbildern viel häufiger in Verbindung mit (billigen) Filtern auftritt, als am Objektiv selber.</figcaption>
 </figure>
 
-<figure>
-<img src="/images/v13.jpg"/>
-<figcaption>Das Phänomen von Geisterbilder tritt viel häufiger in Verbindung mit (billigen) Filtern, als am Objektiv selber auf.</figcaption>
-</figure>
+
+
+    
+
+
+
+ 
+  
+
+
+    
+
+
+
+
+
+> Bei weiteren Fragen stehe ich gern zu Verfügung, meldet euch einfach :)
