@@ -1,6 +1,6 @@
 ---
 layout: offer
-title: "Was ist: Die Vergütung"
+title: "Was ist: Die Objektiv-Vergütung"
 description: "Hilfestellung für Anfänger & Einsteiger"
 category: blog
 tags: [Hilfestellung für Anfänger & Einsteiger]
@@ -18,7 +18,7 @@ published: true
 
 
 
-*In dieser Rubrik versuche ich euch einige Begriffe die in der Fotografie auftreten möglichst einfach zu Erklären. Heute: Was ist eine Vergütung?* 
+*In dieser Rubrik versuche ich euch einige Begriffe die in der Fotografie auftreten möglichst einfach zu Erklären. Heute: Was ist eine Objektiv-Vergütung?* 
  
     
 
