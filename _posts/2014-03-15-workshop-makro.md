@@ -20,4 +20,4 @@ Dieser Workshop findet nach Möglichkeit draussen statt, da es vor allem in frei
 *Alles weitere auf Anfrage*
 
 
-## *Preis: 20€*
+## *Preis: 25€*

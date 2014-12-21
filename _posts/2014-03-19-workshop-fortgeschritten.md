@@ -29,4 +29,4 @@ Ausserdem werden wir unterschiedlichen Objektive theoretisch und Praktisch vergl
 
 ### *Dauer: ca.3h*
 
-### *Preis: 30€*
+### *Preis: 25€*

@@ -26,4 +26,4 @@ Es ist nicht so schwer, wie Sie denken!
 
 ### *Dauer: ca.3h*
 
-### *Preis: 25€*
+### *Preis: 30€*
