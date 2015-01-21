@@ -45,11 +45,9 @@ Verfügt ihr zudem über eine neuere DSLR- Kamera mit einem Hybridautofokus oder
 http://youtu.be/tm8C76c-jtA?t=44s
 
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/ww8kIy9BtsU" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="//http://youtu.be/tm8C76c-jtA?t=44s" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="//www.youtube.com/embed/tm8C76c-jtA?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-!![560x315](//http://youtu.be/tm8C76c-jtA?t=44s)
 
 
 
