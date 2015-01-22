@@ -8,7 +8,7 @@ image:
   feature: STM2.jpg
 comments: true
 share: false
-published: false
+published: true
 ---
  
   
